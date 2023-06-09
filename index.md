@@ -29,7 +29,7 @@ An overview of what the program will look like will be coming soon.
 1. https://en.wikipedia.org/wiki/Unconference
 
 ### Partner with us
-If your organisation would like to partner with us, there are Allied partnerships available. To see how that would benefit your organisation, please see the [Unconference Partner Prospectus](/assets/RSEAA0057_Unconference_Partner_Prospectus.pdf).
+If your organisation would like to partner with us, there are Allied partnerships available. To see how that would benefit your organisation, please see the [Unconference Partner Prospectus](/assets/2023 RSE Asia Australia Prospectus.pdf).
 
 ### Contact Us
 If you would like to know more or have any questions, please contact the organising committee at rse2023 at rse-aunz.org by email.
