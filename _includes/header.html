@@ -1,0 +1,14 @@
+<header class="site-header" role="banner">
+
+	<div class="wrapper">
+		{%- assign default_paths = site.pages | map: "path" -%} {%- assign
+		page_paths = site.header_pages | default: default_paths -%}
+
+		<a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+			<img src="{{ site.baseurl }}/assets/{{ site.logo }}" />
+			<h2 class="deskContent">{{ site.title | escape }}</h2>
+			<h2 class="phoneContent">{{ site.title-short }}</h2>
+		</a>
+	</div>
+
+</header>

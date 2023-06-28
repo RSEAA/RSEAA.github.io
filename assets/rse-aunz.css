@@ -1,0 +1,173 @@
+/*************************************
+   RSE-AUNZ Branding
+ 
+Colours (Dark to Light):
+   Purple: 590040   9e2871   c68da8
+   Grey:   817b75   bcb8b3   d6d2ce
+ 
+ Font: Titillium
+   Headings:       800wt
+   Sug-headings:  400wt
+   Body text:     250wt
+   
+   font-family: 'Lora', serif;
+   font-family: 'Titillium Web', sans-serif;
+   
+*************************************/
+
+h1, h2, h3, body {
+	font-family: 'Lora', serif;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 { font-weight: 800; color: #590040; }
+h2, h3 { font-weight: 400; color: #590040; }
+body { font-weight: 250; }
+
+.site-header {
+	border-top: 9px solid #590040;
+}
+
+/*** Site Title & Logo ***/
+a.site-title {
+	text-decoration: none;
+}
+
+a.site-title img {
+	width: 10%;
+	float: left;
+	padding: 12px;
+	margin-right: 12px;
+}
+
+h2.deskContent, h2.phoneContent {
+	margin-top: 12px;
+	display: block-inline;
+}
+
+@media all and (max-width: 475px ) {
+    h2.deskContent { display: none; }
+    h2.phoneContent { display: block-inline; }
+}
+
+@media all and (min-width: 476px ) {
+    h2.deskContent { display: block-inline; }
+     h2.phoneContent { display: none; }
+}
+
+/*** Navigation Bar ***/
+
+nav.site-nav {
+	margin-top: 18px;
+}
+
+.dropdown {
+  	position: relative;
+  	display: inline-block;
+  	padding-left: 10px;
+}
+
+.dropdown:first {
+	padding-left: 0px;
+}
+
+.dropdown-content {
+  	display: none;
+  	position: absolute;
+  	background-color: white;
+  	min-width: 100px;
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  	z-index: 1;
+}
+
+.dropdown-content a {
+ 	display: block;
+ 	color: #590040;
+ 	font-family: 'Titillium Web', sans-serif;
+ 	padding: 0px 6px;
+}
+
+.dropdown-content a:hover {
+ 	color: white;
+ 	background-color: #c68da8;
+ 	text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media all and (max-width: 475px ) {
+	.dropdown-content {
+		text-align:	right;
+		right: 0px;
+	}
+}
+
+/*** Body ***/
+
+body a.rse {
+	color: white;
+	background-color: #9e2871;
+	margin: 0.5em;
+	padding: 0.25em 1em;
+	border-radius: 6px;
+	box-shadow: 3px;
+	text-decoration: none;
+}
+
+body a.rse-join {
+	float: left;
+	width: 18%;
+	margin: 0px 40% 24px;
+	text-align: center;
+}
+
+body a.rse:hover {
+	color: #590040;
+	background-color: #bcb8b3;
+}
+
+span.badge {
+	padding: 0px 12px;
+	margin-left: 12px;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+
+span.badge-final {
+	color: black;
+	background-color: #85de77;
+}
+
+span.badge-draft {
+	color: white;
+	background-color: #ff756d;
+}
+
+.roleTable {
+	display: table;
+	float: center;
+	padding-bottom: 12px;
+}
+
+.roleRow {
+	display: table-row;
+	margin: 12px;
+}
+
+span.roles {
+	display: table-cell;
+	text-align: center;
+	width: 40%;
+	padding-bottom: 24px;
+}
+
+span.roles emp {
+	color: #590040;
+	text-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+/*** end of css file ***/
