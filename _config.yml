@@ -1,0 +1,14 @@
+title: RSE Asia Australia Unconference 2023
+title-short: RSE-AA
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Website for the RSE Asia Australia Unconference 2023
+baseurl: "" # the subpath of your site, e.g. /blog
+github_repo:  rseaa
+logo: RSE_AUNZ_logo.png
+markdown: kramdown  #github flavoured markdown
+kramdown: 
+  input: GFM
+theme: minima
+plugins: 
+  - jekyll-feed

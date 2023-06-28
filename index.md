@@ -1,11 +1,10 @@
 ---
-remote_theme: pages-themes/merlot@v0.2.0
 layout: default
 title: RSE Asia Australia Unconference 2023
 permalink: /
 navigation_weight: 1
 ---
-
+![banner of RSE Asia Australia conference 2023 - building the research software community across Asia and Australia ](/assets/RSE_AUNZ_banner.png){:class="img-responsive"}
 
 ### What is a Research Software Engineer? 
 
