@@ -1,4 +1,5 @@
 ---
+theme: merlot
 layout: default
 title: RSE Asia Australia Unconference 2023
 permalink: /
