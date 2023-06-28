@@ -3,3 +3,4 @@ Gemfile.lock
 .sass-cache/
 *.swp
 .bundle/
+/_site
