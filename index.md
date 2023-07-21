@@ -7,7 +7,7 @@ navigation_weight: 1
 
 We invite you to join us for the second online Research Software Engineer (RSE) Asia Australia Unconference from the *13th to the 15th of September 2022*. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). 
 
-We would like to thank our Key partner [ARDC](https://ardc.edu.au/)for supporting us, as well as our Allied partners, [NCI Australia](https://nci.org.au/), [QCIF](https://qcif.edu.au/),  and [AARnet](https://www.aarnet.edu.au/).
+We would like to thank our Key partner [ARDC](https://ardc.edu.au/) for supporting us, as well as our Allied partners, [NCI Australia](https://nci.org.au/), [QCIF](https://qcif.edu.au/),  and [AARnet](https://www.aarnet.edu.au/).
 
 
 ### What is a Research Software Engineer? 
