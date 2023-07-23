@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome!
+title: Welcome to the 2023 unconference!
 permalink: /
 navigation_weight: 1
 ---
