@@ -18,7 +18,7 @@ Research Software Engineer is a broad term for people who combine programming an
 
 ### Why participate?
 
-This will be run as a participant-first online unconference to ensure you have a say on how we develop the community and to allow you to share your valuable technical and social knowledge of research software with the community. In line with that, the theme for this year's unconference is “Building community”.
+This will be run as a participant-first online unconference to ensure you have a say on how we develop the community and to allow you to share your valuable technical and social knowledge of research software with the community. 
 
 Together, we can create a sustainable community that benefits research software engineers by raising recognition and building career paths for RSEs, and ultimately contributes to more efficient and reproducible research.
 
