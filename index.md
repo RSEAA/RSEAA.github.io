@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the 2023 unconference!
+title: Welcome to the RSE Asia Australia 2023 unconference!
 permalink: /
 navigation_weight: 1
 ---
