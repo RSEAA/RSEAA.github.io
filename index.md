@@ -53,7 +53,7 @@ We encourage participants to apply even if they do not think they are eligible a
 
 You can apply for the scholarships and for the micro-grants by [filling out this form](https://forms.gle/M1QtXqtDEU2SeS1JA). You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
 
-If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org. 
+If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2023 at rse-aunz.org. 
 
 
 ### Partner with us
