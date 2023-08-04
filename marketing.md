@@ -5,7 +5,7 @@ permalink: /marketing
 navigation_weight: 1
 ---
 
-Here is a list of all marketing materials for 2023.
+Here is a list of all marketing materials for #RSEAA2023.
 
 ## Website header with title
 
@@ -69,7 +69,7 @@ Join us at the 2nd online #RSE Asia Australia Unconference from the 13th to the 
 
 This is a joint partnership between @rse_aunz and @RSE_Asia.
 
-The theme for this year is “Silos to Synergy - Achieving collaboration across domains”.
+The theme for this year is “Silos to Synergy - Achieving collaboration across domains”. #RSEAA2023
 
 --- 
 
@@ -81,7 +81,7 @@ Join us at the 2nd online #RSE Asia Australia Unconference from the 13th to the 
 
 This is a joint partnership between the RSE Asia Association and the RSE Association of Australia and New Zealand. 
 
-The theme for this year is “Silos to Synergy - Achieving collaboration across domains”.
+The theme for this year is “Silos to Synergy - Achieving collaboration across domains”. #RSEAA2023
 
 ---
 
