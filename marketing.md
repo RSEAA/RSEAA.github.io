@@ -57,3 +57,28 @@ Alt-text: RSE Asia Australia Unconference. Silos to synergy, achieving collabora
 
 This is a [link to the ICS file](/assets/RSEAA2023.ics) for calender sharing.
 
+
+---
+
+## Potential Social Media posts
+
+### For Twitter
+Save the Date!
+
+Join us at the 2nd online #RSE Asia Australia Unconference from the 13th to the 15th of September!
+
+This is a joint partnership between @rse_aunz and @RSE_Asia.
+
+The theme for this year is “Silos to Synergy - Achieving collaboration across domains”.
+
+--- 
+
+### Other 
+
+Save the Date!
+
+Join us at the 2nd online #RSE Asia Australia Unconference from the 13th to the 15th of September!
+
+This is a joint partnership between the RSE Asia Association and the RSE Association of Australia and New Zealand. 
+
+The theme for this year is “Silos to Synergy - Achieving collaboration across domains”.
