@@ -14,6 +14,7 @@ Here is a list of all marketing materials for 2023.
 
 Alt-text: Banner of RSE Asia Australia Unconference 2023 with the title RSE Asia Australia Unconference shown. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.
 
+---
 
 ## Website header without title
 
@@ -21,6 +22,8 @@ Alt-text: Banner of RSE Asia Australia Unconference 2023 with the title RSE Asia
 
 
 Alt-text: Banner of RSE Asia Australia Unconference 2023. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.
+
+---
 
 ## Flyer with senior panel
 
@@ -30,14 +33,14 @@ Alt-text: Banner of RSE Asia Australia Unconference 2023. Silos to synergy, achi
 
 Alt-text: RSE Asia Australia Strategy and Policy Panel. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. Profile photos of Nooriyah Lohani Session Chair, Dr Manodeep Sinha RSE-AUNZ Co-Chair, Saranjeet Kaur RSE Asia Founder, Professor Wai Yie Leong Vice President INWES, Professor Melanie Johnston-Hollit Director of CIDS. With logos for ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.
 
-
+---
 
 ## Flyer with keynotes
 
 
 Alt-text:
 
-
+---
 
 ## Opening slide 
 
