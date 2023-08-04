@@ -37,6 +37,11 @@ An overview of what the program will look like will be coming soon.
 ### Partner with us
 If your organisation would like to partner with us, there are Allied partnerships available. To see how that would benefit your organisation, please see the [Unconference Partner Prospectus](/assets/2023 RSE Asia Australia Prospectus.pdf).
 
+
+### Share the good news!
+
+If you want to share news about this event, [please go to our marketing page ](marketing)where you can see images and alt-text to share on social media.
+
 ### Code of Conduct
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
