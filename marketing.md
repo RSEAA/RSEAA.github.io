@@ -73,7 +73,7 @@ The theme for this year is “Silos to Synergy - Achieving collaboration across 
 
 ---
 
-Thanks to our key partners @ARDC_AU and @AusBiocommons, and to our allied partners @AARNet, @qcifltd, and @NCInews!
+Thanks to our key partners @ARDC_AU and @AusBiocommons, and to our allied partners @AARNet, @qcifltd, and @NCInews! #RSEAA2023 
 
 ### Other 
 
@@ -93,4 +93,4 @@ We're thrilled to offer you two awesome formats to showcase your research: the c
 
 ---
 
-Thank you to ARDC and Australian BioCommons as our key partners, and NCI, QCIF, and AARNet as our allied partners.
+Thank you to ARDC and Australian BioCommons as our key partners, and NCI, QCIF, and AARNet as our allied partners. #RSEAA2023 
