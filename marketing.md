@@ -9,10 +9,10 @@ Here is a list of all marketing materials for 2023.
 
 ## Website header with title
 
-![Banner of RSE Asia Australia Unconference 2023 with the title shown. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.](/assets/website_banner_with_title.png){:class="img-responsive"}
+![Banner of RSE Asia Australia Unconference 2023 with the title RSE Asia Australia Unconference shown. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.](/assets/website_banner_with_title.png){:class="img-responsive"}
 
 
-alt-text: Banner of RSE Asia Australia Unconference 2023 with the title shown. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.
+alt-text: Banner of RSE Asia Australia Unconference 2023 with the title RSE Asia Australia Unconference shown. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.
 
 
 ## Website header without title
