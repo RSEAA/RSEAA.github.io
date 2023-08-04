@@ -82,3 +82,9 @@ Join us at the 2nd online #RSE Asia Australia Unconference from the 13th to the 
 This is a joint partnership between the RSE Asia Association and the RSE Association of Australia and New Zealand. 
 
 The theme for this year is “Silos to Synergy - Achieving collaboration across domains”.
+
+---
+
+Attention RSEs! There will be an online poster session at #RSEAA2023 on the 14th of September.
+
+We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
