@@ -71,7 +71,6 @@ This is a joint partnership between @rse_aunz and @RSE_Asia.
 
 The theme for this year is “Silos to Synergy - Achieving collaboration across domains”. #RSEAA2023
 
---- 
 
 ### Other 
 
