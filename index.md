@@ -28,13 +28,18 @@ We also hope that this experience will identify ways to positively engage with s
 
 ### Poster Session
 
-This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. More details coming soon.
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+We will be [using GitHub Discussions and figshare for the posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
 
 ### What is an unconference?
 
 An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
+
+We will be [using GitHub Discussions to help keep track of the topics you want to talk about](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
 An overview of what the program will look like will be coming soon.
 
