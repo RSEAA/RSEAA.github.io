@@ -12,6 +12,8 @@ We invite you to join us for the second online Research Software Engineer (RSE) 
 We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and the [Australian BioCommons](https://www.biocommons.org.au/) for supporting us, as well as our Allied partners, [NCI Australia](https://nci.org.au/), [QCIF](https://qcif.edu.au/),  and [AARnet](https://www.aarnet.edu.au/).
 
 
+You can create a placeholder event by [downloading this link to the ICS file](/assets/RSEAA2023.ics).
+
 ### What is a Research Software Engineer? 
 
 Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
