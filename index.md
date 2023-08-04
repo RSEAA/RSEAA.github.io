@@ -5,7 +5,7 @@ permalink: /
 navigation_weight: 1
 ---
 
-![banner of RSE Asia Australia conference 2023 - Silos to synergy with logos for RSE-AUNZ, RSE Asia, ARDC, NCI, QCIF, and AARNet ](/assets/conference_banner_small_website.png){:class="img-responsive"}
+![Banner of RSE Asia Australia Unconference 2023. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners. ](/assets/conference_banner_small_website.png){:class="img-responsive"}
 
 We invite you to join us for the second online Research Software Engineer (RSE) Asia Australia Unconference from the *13th to the 15th of September 2023*. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Silos to Synergy - Achieving collaboration across domains".
 
