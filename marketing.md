@@ -90,3 +90,7 @@ The theme for this year is “Silos to Synergy - Achieving collaboration across 
 Attention RSEs! There will be an online poster session at #RSEAA2023 on the 14th of September.
 
 We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+---
+
+Thank you to ARDC and Australian BioCommons as our key partners, and NCI, QCIF, and AARNet as our allied partners.
