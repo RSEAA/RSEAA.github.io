@@ -37,14 +37,15 @@ Alt-text: RSE Asia Australia Strategy and Policy Panel. Silos to synergy, achiev
 
 ## Flyer with keynotes
 
+![RSE Asia Australia Unconference Keynotes. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. Profile photos of Kiowa Scott-Hurley - Early Career HPC and AI eResearcher, Defence Science and Technology Group (DSTG) and of Prof Athula Ginige - CEO of Widya & Professor of Information Technology Western Sydney University. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners.  ](/assets/keynote_flyer.png){:class="img-responsive"}
 
-Alt-text:
+Alt-text: RSE Asia Australia Unconference Keynotes. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. Profile photos of Kiowa Scott-Hurley - Early Career HPC and AI eResearcher, Defence Science and Technology Group (DSTG) and of Prof Athula Ginige - CEO of Widya & Professor of Information Technology Western Sydney University. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners. 
 
 ---
 
 ## Opening slide 
 
-![improve ](/assets/opening_slide.png){:class="img-responsive"}
+![RSE Asia Australia Unconference. Silos to synergy, achieving collaboration across domains. 13th to 15th September 2023. Profile photos of Nooriyah Lohani Session Chair, Dr Manodeep Sinha RSE-AUNZ Co-Chair, Saranjeet Kaur RSE Asia Founder, Professor Wai Yie Leong Vice President INWES, Professor Melanie Johnston-Hollit Director of CIDS. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian BioCommons as key partners, NCI, QCIF, and AARNet as allied partners. ](/assets/opening_slide.png){:class="img-responsive"}
 
 
 
