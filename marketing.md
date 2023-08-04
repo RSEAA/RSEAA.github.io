@@ -25,11 +25,24 @@ alt-text: Banner of RSE Asia Australia Unconference 2023. Silos to synergy, achi
 ## Flyer with senior panel
 
 
+![improve ](/assets/senior_panel_flyer.png){:class="img-responsive"}
+
 
 Alt-text
 
 
 ## Flyer with keynotes
+
+
+alt-text
+
+
+
+## Opening slide 
+
+![improve ](/assets/opening_slide.png){:class="img-responsive"}
+
+
 
 
 alt-text
