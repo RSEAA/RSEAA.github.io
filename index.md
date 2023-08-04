@@ -36,6 +36,22 @@ An overview of what the program will look like will be coming soon.
 
 1. https://en.wikipedia.org/wiki/Unconference
 
+### Accessibility and Inclusivity
+
+We are committed to creating a safe, accessible, and inclusive environment for all participants. 
+To this end we are offering scholarships for staff or students to participate for free, as well as a $50 accessibility micro-grant to help with internet, headphones, childcare etc. 
+
+Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
+
+Eligibility for the accessibility will be based on a similar approach.
+
+We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
+
+You can apply for the scholarships and for the micro-grants by [filling out this form](https://forms.gle/M1QtXqtDEU2SeS1JA). You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
+
+If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org. 
+
+
 ### Partner with us
 If your organisation would like to partner with us, there are Allied partnerships available. To see how that would benefit your organisation, please see the [Unconference Partner Prospectus](/assets/2023 RSE Asia Australia Prospectus.pdf).
 
