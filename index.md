@@ -26,6 +26,10 @@ Together, we can create a sustainable community that benefits research software 
 
 We also hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
 
+### Poster Session
+
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. More details coming soon.
+
 ### What is an unconference?
 
 An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
