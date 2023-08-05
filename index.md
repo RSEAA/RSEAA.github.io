@@ -42,7 +42,7 @@ There are a few ways to participate:
 
 A link to register will be provided soon. 
 
-There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details. You can apply for the scholarships and for the micro-grants by [filling out this form](https://forms.gle/M1QtXqtDEU2SeS1JA). You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
+There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details. 
 
 ## Suggest Discussion Topics
 
