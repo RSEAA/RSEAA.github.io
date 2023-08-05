@@ -11,27 +11,11 @@ We invite you to join us for the second online Research Software Engineer (RSE) 
 
 We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and the [Australian BioCommons](https://www.biocommons.org.au/) for supporting us, as well as our Allied partners, [NCI Australia](https://nci.org.au/), [QCIF](https://qcif.edu.au/),  and [AARnet](https://www.aarnet.edu.au/).
 
-
 You can create a placeholder event by [downloading this link to the ICS file](/assets/RSEAA2023.ics).
 
 ### What is a Research Software Engineer? 
 
 Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
-
-### Why participate?
-
-This will be run as a participant-first online unconference to ensure you have a say on how we develop the community and to allow you to share your valuable technical and social knowledge of research software with the community. 
-
-Together, we can create a sustainable community that benefits research software engineers by raising recognition and building career paths for RSEs, and ultimately contributes to more efficient and reproducible research.
-
-We also hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
-
-### Poster Session
-
-This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
-
-We will be [using GitHub Discussions and figshare for the posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
-
 
 ### What is an unconference?
 
@@ -39,11 +23,37 @@ An unconference is where the agenda is created by the attendees at the beginning
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
 
-We will be [using GitHub Discussions to help keep track of the topics you want to talk about](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
-
 An overview of what the program will look like will be coming soon.
 
 1. https://en.wikipedia.org/wiki/Unconference
+
+### How can I participate?
+
+This will be run as a participant-first online unconference to ensure you have a say on how we develop the community and to allow you to share your valuable technical and social knowledge of research software with the community. 
+
+We will have three sessions in which discussion topics are suggested by the participants and one poster session. A schedule of events will be shown soon.
+
+There are a few ways to participate:
+1. Register for the conference,
+2. Suggest, vote and comment on discussion topics, and
+3. Submit a poster, vote and comment on posters
+
+#### 1. Register for the Unconference
+
+A link to register will be provided soon. 
+
+There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details. You can apply for the scholarships and for the micro-grants by [filling out this form](https://forms.gle/M1QtXqtDEU2SeS1JA). You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
+
+#### 2. Suggest Discussion Topics
+
+We will be [using GitHub Discussions to help keep track of the discussion topics you want to talk about](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
+#### 3. Submit a Poster
+
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+We will be [using GitHub Discussions and figshare for the posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
 
 ### Accessibility and Inclusivity
 
