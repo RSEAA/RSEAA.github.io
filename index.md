@@ -46,11 +46,16 @@ There are also scholarships and accessibility micro-grants available. See Access
 
 ## Suggest Discussion Topics
 
+We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
+
 We will be [using GitHub Discussions to help keep track of the discussion topics you want to talk about](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
 
 ## Submit a Poster
 
 This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
 
 We will be [using GitHub Discussions and figshare for the posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
