@@ -56,7 +56,7 @@ Alt-text: RSE Asia Australia Unconference. Silos to synergy, achieving collabora
 
 ## ICS file
 
-This is a [link to the ICS file](/assets/RSEAA2023.ics) for calender sharing.
+This is a [link to the ICS file](/assets/RSEAA2023.ics) for calendar sharing.
 
 
 ---
