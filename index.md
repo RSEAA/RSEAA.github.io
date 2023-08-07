@@ -63,7 +63,7 @@ This year we are adding an online poster session on the 14th of September. We're
 
 At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
 
-<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/32">Learn about how to submit a poster</a>
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/32">Poster submission information</a>
 
 ## Accessibility and Inclusivity
 
