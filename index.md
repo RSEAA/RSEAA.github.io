@@ -42,7 +42,9 @@ There are a few ways to participate:
 
 ## Register for the Unconference
 
-A link to register will be provided soon. 
+You can now register for the Unconference!
+
+<a class="rse rse-join" href="https://events.humanitix.com/rse-asia-australia-unconference-sept-2023">Register here</a>
 
 There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details. 
 
@@ -50,9 +52,9 @@ There are also scholarships and accessibility micro-grants available. See Access
 
 We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
 
-You can see what we discussed last year in the [Research Software Engineer Asia Australia Unconference Summary Report.](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989)
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/32">Submit a discussion topic</a>
 
-We will be [using GitHub Discussions to help keep track of the discussion topics you want to talk about](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+You can see what we discussed last year in the [Research Software Engineer Asia Australia Unconference Summary Report.](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989)
 
 
 ## Submit a Poster
@@ -61,8 +63,7 @@ This year we are adding an online poster session on the 14th of September. We're
 
 At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
 
-We will be [using GitHub Discussions and figshare for the posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
-
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/32">Learn about how to submit a poster</a>
 
 ## Accessibility and Inclusivity
 
@@ -75,7 +76,9 @@ Eligibility for the accessibility will be based on a similar approach.
 
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
 
-You can apply for the scholarships and for the micro-grants by [filling out this form](https://forms.gle/M1QtXqtDEU2SeS1JA). You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
+<a class="rse rse-join" href="https://forms.gle/M1QtXqtDEU2SeS1JA">Apply for a scholarship or accessibility micro-grant</a>
+
+You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant. 
 
 If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2023 at rse-aunz.org. 
 
