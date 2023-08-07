@@ -58,8 +58,9 @@ Alt-text: RSE Asia Australia Unconference. Silos to synergy, achieving collabora
 
 This is a [link to the ICS file](/assets/RSEAA2023.ics) for calendar sharing.
 
+## Potential short copy
 
----
+After an amazing first year with over 140 attendees, the RSE Asia Australia Unconference is back again for a second time. This year's theme is Silos to synergy, achieving collaboration across domains. In addition to the unconference, the strategy and policy panel will be back again, and there are keynotes from Kiowa Scott-Hurley (Early Career HPC and AI eResearcher, Defence Science and Technology Group) and of Prof Athula Ginige (CEO of Widya & Professor of Information Technology Western Sydney University). 
 
 ## Potential Social Media posts
 
