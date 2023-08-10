@@ -52,7 +52,7 @@ There are also scholarships and accessibility micro-grants available. See Access
 
 We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
 
-<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/32">Submit a discussion topic</a>
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/43">Submit a discussion topic</a>
 
 You can see what we discussed last year in the [Research Software Engineer Asia Australia Unconference Summary Report.](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989)
 
