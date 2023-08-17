@@ -56,7 +56,7 @@ You can now register for the Unconference!
 
 <a class="rse rse-join" href="https://events.humanitix.com/rse-asia-australia-unconference-sept-2023">Register here</a>
 
-There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details. 
+There are also scholarships and 20 accessibility micro-grants available. See Accessibility and Inclusivity section for more details. 
 
 ## Suggest Discussion Topics
 
@@ -78,11 +78,11 @@ At the end of the poster session we will be giving out awards for the posters th
 ## Accessibility and Inclusivity
 
 We are committed to creating a safe, accessible, and inclusive environment for all participants. 
-To this end we are offering scholarships for staff or students to participate for free, as well as a $50 accessibility micro-grant to help with internet, headphones, childcare etc. 
+To this end we are offering scholarships for staff or students to participate for free, as well as 20 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
 
 Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
 
-Eligibility for the accessibility will be based on a similar approach.
+Eligibility for the accessibility micro-grants will be based on a similar approach.
 
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
 
