@@ -15,6 +15,13 @@ We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and the [Au
 
 You can create a placeholder event by [downloading this link to the ICS file](/assets/RSEAA2023.ics).
 
+## Key Dates
+
+- Thursday 31st August 5pm UTC +10 - end of micro-grant applications  
+- Wednesday 6th September 5pm UTC +10 - end of scholarship applications and registrations
+- Thursday 14th September 2pm UTC +10 - end of discussion topic submissions
+- Thursday 14th September 3.30pm UTC +10 - end of poster submissions
+
 ## What is a Research Software Engineer? 
 
 Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
