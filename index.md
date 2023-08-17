@@ -19,8 +19,11 @@ You can create a placeholder event by [downloading this link to the ICS file](/a
 
 - Thursday 31st August 5pm UTC +10 - end of micro-grant applications  
 - Wednesday 6th September 5pm UTC +10 - end of scholarship applications and registrations
+- Wednesday 13th September 12.30pm UTC + 10 - start of Day 1
+- Thursday 14th September 12.30pm UTC + 10 - start of Day 2
 - Thursday 14th September 2pm UTC +10 - end of discussion topic submissions
 - Thursday 14th September 3.30pm UTC +10 - end of poster submissions
+- Friday 15th September 12.30pm UTC + 10 - start of Day 3
 
 ## What is a Research Software Engineer? 
 
