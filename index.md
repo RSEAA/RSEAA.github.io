@@ -105,5 +105,20 @@ If you want to share news about this event, [please go to our marketing page ](m
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
+## Schedule 
+
+This is the current schedule for the event.
+|          | Day 1 - Wed 13th Sep 2023                  | Day 2 - Thu 14th Sep 2023      | Day 3 - Fri 14th Sep 2023     |
+| -------- | ------------------------------------------ | ------------------------------ | ----------------------------- |
+| 12:30 PM | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
+| 1:00 PM  | Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
+| 1:30 PM  | Keynote 1                                  | Keynote 2                      | Strategy and Policy Panel     |
+| 2:00 PM  | First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 2:30 PM  | First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 3:00 PM  | Break                                      | Break                          | Break                         |
+| 3:30 PM  | Second Session                             | Poster Session                 | Actionable items              |
+| 4:00 PM  | Second Session                             | Poster Session / Award         | Actionable items              |
+| 4:30 PM  | Review and discussion                      | Review and discussion          | Close and thank you           |
+
 ## Contact Us
 If you would like to know more or have any questions, please contact the organising committee at rse2023 at rse-aunz.org by email.
