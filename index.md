@@ -108,6 +108,7 @@ If you want to share news about this event, [please go to our marketing page ](m
 ## Schedule 
 
 This is the current schedule for the event.
+
 |          | Day 1 - Wed 13th Sep 2023                  | Day 2 - Thu 14th Sep 2023      | Day 3 - Fri 14th Sep 2023     |
 | --- | --- | --- | --- |
 | 12:30 PM | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
