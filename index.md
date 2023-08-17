@@ -17,13 +17,13 @@ You can create a placeholder event by [downloading this link to the ICS file](/a
 
 ## Key Dates
 
-- 31st August 5pm UTC +10 (Thursday) - end of micro-grant applications  
-- 6th September 5pm UTC +10 (Wednesday) - end of scholarship applications and registrations
-- 13th September 12.30pm UTC + 10 (Wednesday) - start of Day 1
-- 14th September 12.30pm UTC + 10 (Thursday) - start of Day 2
-- 14th September 2pm UTC +10 (Thursday) - end of discussion topic submissions
-- 14th September 3.30pm UTC +10 (Thursday) - end of poster submissions
-- 15th September 12.30pm UTC + 10 (Friday) - start of Day 3
+- 31st August 5pm UTC +10 (Thursday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Micro-grant+application+due+date&iso=20230831T17&p1=3912)) - end of micro-grant applications  
+- 6th September 5pm UTC +10 (Wednesday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Unconference+Registrations+and+Scholarships+Application+due+date&iso=20230906T17&p1=3912)) - end of scholarship applications and registrations
+- 13th September 12.30pm UTC + 10 (Wednesday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Unconference+Day+1+Start&iso=20230913T1230&p1=3912)) - start of Day 1 of the unconference
+- 14th September 12.30pm UTC + 10 (Thursday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Unconference+Day+2+Start&iso=20230914T1230&p1=3912)) - start of Day 2 of the unconference
+- 14th September 2pm UTC +10 (Thursday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Discussion+topic+submission+due+date&iso=20230914T14&p1=3912)) - end of discussion topic submissions
+- 14th September 3.30pm UTC +10 (Thursday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Poster+submission+due+date&iso=20230914T1530&p1=3912)) - end of poster submissions
+- 15th September 12.30pm UTC + 10 (Friday) ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Unconference+Day+3+start&iso=20230915T1230&p1=3912)) - start of Day 3 of the unconference
 
 ## What is a Research Software Engineer? 
 
