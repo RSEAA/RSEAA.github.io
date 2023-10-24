@@ -11,6 +11,8 @@ We invite you to join us for the second online Research Software Engineer (RSE) 
 
 We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and the [Australian BioCommons](https://www.biocommons.org.au/) for supporting us, as well as our Allied partners, [NCI Australia](https://nci.org.au/), [QCIF](https://qcif.edu.au/),  and [AARnet](https://www.aarnet.edu.au/).
 
+The [final report for the unconference is now available](https://doi.org/10.6084/m9.figshare.24309634).
+
 <a class="rse rse-join" href="https://events.humanitix.com/rse-asia-australia-unconference-sept-2023">Register here</a>
 
 You can create a placeholder event by [downloading this link to the ICS file](/assets/RSEAA2023.ics).
