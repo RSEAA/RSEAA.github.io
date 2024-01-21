@@ -5,7 +5,7 @@ permalink: /RSEAA22
 navigation_weight: 2
 toc: true
 ---
-![banner of RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/conference_banner_small_website.png){:class="img-responsive"}
+
 
 We invite you to join us for the first online Research Software Engineer (RSE) Asia Australia Unconference from the *14th to the 16th of September 2022*. This is a joint partnership between the newly formed [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). 
 
