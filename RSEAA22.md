@@ -134,17 +134,14 @@ Here is the suggested text to complement the flyer:
 
 ### Key Partners
 
-![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" height="100px" style="float:left;margin-right:60px;margin-bottom:30px;"}
-
-
-![logo of ARDC ](/assets/ARDC_logo_RGB.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
+- QCIF
+- ARDC
 
 
 ### Accessibility Partner
-![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;margin-right:800px"}
+- Society of RSEs
 
 
 ### Allied Partner
-![logo of NCI](/assets/NCIlogo.png){:class="img-responsive" height="50px" style="float:left;margin-bottom:30px;margin-right:40px;"}
-
-![logo of Google](/assets/google.png){:class="img-responsive" height="50px" style="float:left;margin-bottom:30px;"}
+- NCI
+- Google
