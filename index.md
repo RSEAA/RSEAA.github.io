@@ -9,6 +9,7 @@ We invite you to join us for the third online Research Software Engineer (RSE) A
 
 - [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
 - [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
+- [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 
 
 ## What is a Research Software Engineer? 
