@@ -8,8 +8,8 @@ navigation_weight: 1
 We invite you to join us for the third online Research Software Engineer (RSE) Asia Australia Unconference from the *11th to the 13th of September 2024*. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures" and the hashtag will be #RSEAA24.
 
 - [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
-- [Click here to view the 2023 unconference](/RSEAA23).
-- [Click here to view the 2022 unconference](/RSEAA22).
+- [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
+
 
 ## What is a Research Software Engineer? 
 
@@ -64,3 +64,8 @@ If your organisation would like to partner with us, there are Key and Allied par
 
 ## Contact Us
 If you would like to know more or have any questions, please contact the organising committee at rse2024 at rse-aunz.org by email.
+
+## Previous RSEAA unconferences
+
+- [Click here to view the 2023 unconference](/RSEAA23).
+- [Click here to view the 2022 unconference](/RSEAA22).
