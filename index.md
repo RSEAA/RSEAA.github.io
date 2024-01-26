@@ -65,6 +65,10 @@ If your organisation would like to partner with us, there are Key and Allied par
 ## Contact Us
 If you would like to know more or have any questions, please contact the organising committee at rse2024 at rse-aunz.org by email.
 
+## Marketing materials
+
+[Our marketing materials for RSEAA24 are here](/marketing).
+
 ## Previous RSEAA unconferences
 
 - [Click here to view the 2023 unconference](/RSEAA23).
