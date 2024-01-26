@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketing Materials for 2023
-permalink: /marketing
+permalink: /marketingRSEAA2023
 navigation_weight: 1
 ---
 
