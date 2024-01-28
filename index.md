@@ -37,6 +37,21 @@ There are a few ways to participate:
 2. Suggest, vote and comment on discussion topics, and
 3. Submit a poster, vote and comment on posters
 
+## Schedule 
+
+This is the current schedule for the event. All the timings are in UTC+10. Click on the 12.30 and 4.30 links below to see the times in your city. 
+
+|          | Day 1 - Wed 11th Sep 2024                  | Day 2 - Thu 12th Sep 2024      | Day 3 - Fri 13th Sep 2024     |
+| --- | --- | --- | --- |
+| [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T0230) | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
+| 1:00 PM  | Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
+| 1:30 PM  | Keynote 1                                  | Keynote 2                      | Strategy and Policy Panel     |
+| 2:00 PM  | First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 2:30 PM  | First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 3:00 PM  | Break                                      | Break                          | Break                         |
+| 3:30 PM  | Second Session                             | Poster Session                 | Actionable items              |
+| 4:00 PM  | Second Session                             | Poster Session                 | Actionable items              |
+| [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T0630)  | Review and discussion                      | Review and discussion          | Close and thank you           |
 
 ## Accessibility and Inclusivity
 
