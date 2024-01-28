@@ -68,6 +68,8 @@ You will need to provide one short paragraph to explain how you will benefit fro
 
 All scholarship and micro-grant will be asked to provide a poster as part of their eligibility.
 
+All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
+
 If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2024 at rse-aunz.org. 
 
 
