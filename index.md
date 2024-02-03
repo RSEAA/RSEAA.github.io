@@ -56,7 +56,7 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 ## Accessibility and Inclusivity
 
 We are committed to creating a safe, accessible, and inclusive environment for all participants. 
-To this end we are offering scholarships for staff or students to participate for free, as well as 20 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
+To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
 
 Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
 
