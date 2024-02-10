@@ -37,6 +37,15 @@ There are a few ways to participate:
 2. Suggest, vote and comment on discussion topics, and
 3. Submit a poster, vote and comment on posters
 
+## How can I volunteer?
+
+We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks, however they are not provided with an honorarium.
+
+We will also be asking for session chairs in advance this year. They will not be provided an honorarium.
+
+The main reason we are limiting honorariums is to reduce accommodation and paperwork for the organising committee.
+
+
 ## Schedule 
 
 This is the current schedule for the event. All the timings are in UTC+10. Click on the 12.30 and 4.30 links below to see the times in your city. 
