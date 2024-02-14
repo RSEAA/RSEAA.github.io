@@ -37,6 +37,7 @@ Attention RSEs! There will be an online poster session at #RSEAA24 this year.
 
 We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
 
+----
 
 RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
 
