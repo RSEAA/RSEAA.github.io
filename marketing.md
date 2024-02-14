@@ -71,3 +71,20 @@ Eligibility for the #scholarships will be based on prioritising and maximising t
 Eligibility for the #accessibility micro-grants will be based on a similar approach.
 
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
+
+----
+
+**Example newsletter update**
+
+Hi All,
+
+RSE Asia Australia is back again for a third time from the 11th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3.
+
+Some quick news:
+- We have had our first organising committee meeting for RSEAA24. We have streamlined the organising committee this year, but there are opportunities for observers to attend these weekly meetings. Please email me if you are interested.
+- We are beginning to post weekly on [LinkedIn](https://www.linkedin.com/company/rseaa/) and [Mastadon](https://social.foss.place/@RSEAA) if you are interested
+- We are hoping to reach out to potential partners, panelists and speakers soon. 
+
+You can see more details at https://rseaa.github.io/ #RSEAA24
+
+Please share this within your networks.
