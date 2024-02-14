@@ -31,9 +31,30 @@ The theme for this year is "Sharing tech architectures".
 
 See more details at https://rseaa.github.io/ #RSEAA24
 
-
-### Other 
+-----
 
 Attention RSEs! There will be an online poster session at #RSEAA24 this year.
 
 We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+
+RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+
+Here is a memory from RSE Asia Australia 2022/2023:
+
+-----
+
+RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+
+Interested in attending and need extra help? We have scholarships and micro-grants available.
+
+See more details at https://rseaa.github.io/ #RSEAA24
+
+-----
+
+
+RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+
+There will be a poster session on day 2 of the event. 
+
+See more details at https://rseaa.github.io/ #RSEAA24
