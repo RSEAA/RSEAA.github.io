@@ -58,3 +58,15 @@ RSE Asia Australia is back again for a third time from the 11th to the 13th of S
 There will be a poster session on day 2 of the event. 
 
 See more details at https://rseaa.github.io/ #RSEAA24
+
+
+---
+
+We are committed to creating a safe, #accessible, and #inclusive 
+environment for all participants. To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc.
+
+Eligibility for the #scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of #discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
+
+Eligibility for the #accessibility micro-grants will be based on a similar approach.
+
+We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
