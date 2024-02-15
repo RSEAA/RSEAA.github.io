@@ -42,11 +42,10 @@ There are a few ways to participate:
 
 ## How can I volunteer?
 
-We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks, however they are not provided with an honorarium.
+We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks.
 
-We will also be asking for session chairs in advance this year. They will not be provided an honorarium.
 
-The main reason we are limiting honorariums is to reduce accommodation and paperwork for the organising committee.
+You can find out more via the [link to the volunteering page](volunteering)
 
 
 ## Schedule 
@@ -106,4 +105,3 @@ If you would like to know more or have any questions, please contact the organis
 
 This is the [link to the github repo for this website](https://github.com/RSEAA/RSEAA.github.io/tree/main).
 
-This is the [link to the volunteering page](volunteering)
