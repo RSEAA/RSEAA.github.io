@@ -102,6 +102,8 @@ If you would like to know more or have any questions, please contact the organis
 - [Click here to view the 2023 unconference](/RSEAA23).
 - [Click here to view the 2022 unconference](/RSEAA22).
 
-## Want to contribute to this website?
+## Want to contribute to the event?
 
 This is the [link to the github repo for this website](https://github.com/RSEAA/RSEAA.github.io/tree/main).
+
+This is the [link to the volunteering page](volunteering)
