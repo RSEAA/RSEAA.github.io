@@ -52,7 +52,8 @@ The expectations of the regular organising committee members are:
 
 The expectations of the regular organising committee members are:
 1. To represent the wider community of RSEs
-2. To attend meetings when they are available, but they will not be expected to turn up to any meeting.
+2. To attend meetings when they are available, but they will not be expected to turn up to any meeting
 3. To make suggestions by email if they so wish
-4. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
-5. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
+4. To not be involved in any tasks - this will be done by members of the organising committee
+5. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
+6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
