@@ -12,19 +12,20 @@ There is also the ability for people to volunteer as observers and session chair
 The expectations of the co-chair are:
 1. To represent RSE Asia and RSE AU-NZ to the wider community and to external stakeholders
 2. To guide the organising committee volunteers to a successful RSEAA event
-3. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
-4. To liaise and build relationships with external stakeholders to help improve the RSEAA experience
-5. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
-6. To execute tasks that are needed for more nuanced, layered stakeholder management
-7. To ensure that the processes for the RSEAA24 event is documented and improved every year
-8. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
+3. To attend the weekly organising meetings
+4. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
+5. To liaise and build relationships with external stakeholders to help improve the RSEAA experience
+6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
+7. To execute tasks that are needed for more nuanced, layered stakeholder management
+8. To ensure that the processes for the RSEAA24 event is documented and improved every year
+9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 
 # Expectations of the secretary
 
 The expectations of the secretary are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
-2. To organise the weekly meetings to help create a successful RSEAA event
+2. To organise and attend the weekly meetings to help create a successful RSEAA event
 3. To keep the project management software up to date
 4. To follow up key tasks in between meetings
 5. To execute tasks that are delegated by the organising committee
@@ -39,7 +40,7 @@ The expectations of the secretary are:
 
 The expectations of the regular organising committee members are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
-2. To attend weekly meetings to help create a successful RSEAA event
+2. To attend the weekly organising meetings to help create a successful RSEAA event
 3. To keep the project management software up to date
 4. To follow up key tasks in between meetings
 5. To execute tasks that are delegated by the organising committee
