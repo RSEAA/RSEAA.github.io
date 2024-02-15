@@ -1,10 +1,10 @@
-# Organising committee
+## Organising committee
 
 The organising committee is ideally made up of a co-chair representing RSE Asia, a co-chair representing RSE Australia New Zealand, a secretary, and two regular organising commitee memebers. These roles have honorariums associated with them.
 
 There is also the ability for people to volunteer as observers and session chairs. These roles do not have honorariums associated with them.
 
-# Expectations of the co-chair
+## Expectations of the co-chair
 
 The expectations of the co-chair are:
 1. To represent RSE Asia and RSE AU-NZ to the wider community and to external stakeholders
@@ -17,7 +17,7 @@ The expectations of the co-chair are:
 8. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 
-# Expectations of the secretary
+## Expectations of the secretary
 
 The expectations of the secretary are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
@@ -32,7 +32,7 @@ The expectations of the secretary are:
 10. To ensure that the processes for the RSEAA24 event is documented and improved every year
 11. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
-# Expectations of the regular organising committee members
+## Expectations of the regular organising committee members
 
 The expectations of the regular organising committee members are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
@@ -46,7 +46,7 @@ The expectations of the regular organising committee members are:
 9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 
-# Expectations of the observers
+## Expectations of the observers
 
 The expectations of the regular organising committee members are:
 1. To represent the wider community of RSEs
