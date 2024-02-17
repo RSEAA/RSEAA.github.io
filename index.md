@@ -86,7 +86,7 @@ If you feel that the unconference is not matching up to the commitment of these 
 
 
 ## Partner with us
-If your organisation would like to partner with us, there are Key and Allied partnerships available. 
+If your organisation would like to partner with us, there are [Key and Allied partnerships available via the RSEAA24 prospectus](/assets/RSEAA24 Prospectus.pdf). 
 
 ## Code of Conduct
 
