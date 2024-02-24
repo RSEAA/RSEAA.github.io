@@ -12,6 +12,8 @@ We invite you to join us for the third online Research Software Engineer (RSE) A
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Mastadon](https://social.foss.place/@RSEAA)
+- [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
+
 
 
 
