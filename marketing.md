@@ -15,7 +15,7 @@ This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
 RSE Asia Australia is back again for a third time from the 11th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
 
-See more details at https://rseaa.github.io/ #RSEAA24
+See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 ## Potential Social Media posts
 
@@ -29,7 +29,7 @@ This is a joint partnership between @rse_aunz and @RSE_Asia.
 
 The theme for this year is "Sharing tech architectures". 
 
-See more details at https://rseaa.github.io/ #RSEAA24
+See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 -----
 
@@ -37,11 +37,16 @@ Attention RSEs! There will be an online poster session at #RSEAA24 this year.
 
 We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
 
+#RSE #RSEng
+
 ----
 
 RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
 
 Here is a memory from RSE Asia Australia 2022/2023:
+
+
+#RSE #RSEng
 
 -----
 
@@ -49,7 +54,7 @@ RSE Asia Australia is back again for a third time from the 11th to the 13th of S
 
 Interested in attending and need extra help? We have scholarships and micro-grants available.
 
-See more details at https://rseaa.github.io/ #RSEAA24
+See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 -----
 
@@ -58,7 +63,7 @@ RSE Asia Australia is back again for a third time from the 11th to the 13th of S
 
 There will be a poster session on day 2 of the event. 
 
-See more details at https://rseaa.github.io/ #RSEAA24
+See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 
 ---
@@ -71,6 +76,8 @@ Eligibility for the #scholarships will be based on prioritising and maximising t
 Eligibility for the #accessibility micro-grants will be based on a similar approach.
 
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
+
+#RSEAA24 #RSE #RSEng
 
 ----
 
@@ -85,6 +92,6 @@ Some quick news:
 - We are beginning to post weekly on [LinkedIn](https://www.linkedin.com/company/rseaa/) and [Mastadon](https://social.foss.place/@RSEAA) if you are interested
 - We are hoping to reach out to potential partners, panelists and speakers soon. 
 
-You can see more details at https://rseaa.github.io/ #RSEAA24
+You can see more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 Please share this within your networks.
