@@ -95,3 +95,8 @@ Some quick news:
 You can see more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 Please share this within your networks.
+
+---
+
+Do you know of anyone who would be an interesting keynote speaker or panelist on the Senior Strategy and Policy panel? Why don't you let us know! 
+
