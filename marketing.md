@@ -89,7 +89,7 @@ RSE Asia Australia is back again for a third time from the 11th to the 13th of S
 
 Some quick news:
 - We have had our first organising committee meeting for RSEAA24. We have streamlined the organising committee this year, but there are opportunities for observers to attend these weekly meetings. Please email me if you are interested.
-- We are beginning to post weekly on [LinkedIn](https://www.linkedin.com/company/rseaa/) and [Mastadon](https://social.foss.place/@RSEAA) if you are interested
+- We are beginning to post weekly on [LinkedIn](https://www.linkedin.com/company/rseaa/), [Twitter](https://twitter.com/RSE_asia_austra), and [Mastadon](https://social.foss.place/@RSEAA) if you are interested
 - We are hoping to reach out to potential partners, panelists and speakers soon. 
 
 You can see more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
