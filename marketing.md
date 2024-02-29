@@ -100,3 +100,9 @@ Please share this within your networks.
 
 Do you know of anyone who would be an interesting keynote speaker or panelist on the Senior Strategy and Policy panel? Why don't you let us know! 
 
+---
+
+Don't forget that on the website you can add the placeholder event to your Google Calendar and you can also download the ics for RSEAA24 placeholder to import to your calendar.
+
+Get them at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
+
