@@ -42,6 +42,8 @@ There are a few ways to participate:
 2. Suggest, vote and comment on discussion topics, and
 3. Submit a poster, vote and comment on posters
 
+Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
 ## How can I volunteer?
 
 We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks.
