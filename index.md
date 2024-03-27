@@ -39,8 +39,8 @@ We will have three sessions in which discussion topics are suggested by the part
 
 There are a few ways to participate:
 1. Register for the conference,
-2. Suggest, vote and comment on discussion topics, and
-3. Submit a poster, vote and comment on posters
+2. Suggest, vote and comment on [discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/76), and
+3. Submit a poster, vote and comment on [posters](https://github.com/RSEAA/RSEAA.github.io/discussions/75)
 
 Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
