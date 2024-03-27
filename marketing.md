@@ -15,6 +15,12 @@ This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 11th to 13th September 2024.](/assets/RSEAA24_website_banner_no_sponsors.png){:class="img-responsive"}
 
+
+## Short form header for Google Form
+
+![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 11th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
+
+
 ## Potential short copy
 
 RSE Asia Australia is back again for a third time from the 11th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
