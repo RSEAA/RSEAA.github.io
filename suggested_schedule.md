@@ -14,11 +14,14 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 - We can start advertising the conference through email LinkedIn Mastodon and Twitter
 - We can start to reach out to speakers and panelists
 - We can setup a budget for the year
+- We can reach out to potential session chairs
 
 ## 12 weeks
 - We can open submissions for scholarships and grants and also for signing up for the event
-- We can have the schedule finalised and we should have the speakers and panelists finalised
+- We can have the schedule finalised
+- We can have the speakers and panelists finalised
 - We can have all the sponsors finalised and all the marketing material finalised
+- We can have all the session chairs finalised
 
 
 ## 6 weeks
@@ -30,3 +33,6 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 ## 2 weeks 
 - We can finalise the payments to the grants recipients
 - We can finalise the opening presentation, including the slide deck and the survey
+
+## 1 week
+- We can close registrations and send out final email about what to expect
