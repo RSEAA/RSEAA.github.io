@@ -1,0 +1,30 @@
+# [DRAFT] Suggested schedule
+
+This is a draft suggested schedule for the major milestones of the 
+
+## 32 weeks
+
+- We can setup the organising committee
+
+## 28 weeks
+- We can reach out to sponsors to get them on board
+- We can have our website for the new year created and the old website archived
+- We can start advertising the conference through email LinkedIn Mastodon and Twitter
+- We can start to reach out to speakers and panelists
+- We can setup a budget for the year
+
+## 12 weeks
+- We can open submissions for scholarships and grants and also for signing up for the event
+- We can have the schedule finalised and we should have the speakers and panelists finalised
+- We can have all the sponsors finalised and all the marketing material finalised
+
+
+## 6 weeks
+- We can stop submissions for scholarships and grants
+
+## 4 weeks
+- We can expect people to have published their posters for the scholarships and the grants
+
+## 2 weeks 
+- We can finalise the payments to the grants recipients
+- We can finalise the opening presentation, including the slide deck and the survey
