@@ -113,3 +113,6 @@ If you would like to know more or have any questions, please contact the organis
 
 This is the [link to the github repo for this website](https://github.com/RSEAA/RSEAA.github.io/tree/main).
 
+## Suggested Schedule
+
+This is a draft of [the suggested schedule for organising the event](suggested_schedule)
