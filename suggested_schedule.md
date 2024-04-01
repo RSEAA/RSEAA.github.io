@@ -1,6 +1,8 @@
 # [DRAFT] Suggested schedule
 
-This is a draft suggested schedule for the major milestones of the 
+This is a draft suggested schedule for the major milestones of RSEAA.
+
+[Countdown timer for #RSEAA24]([https://www.tickcounter.com/widget/countdown/5077930](https://www.timeanddate.com/countdown/generic?iso=20240911T1230&p0=152&msg=RSEAA24&ud=1&font=sanserif))
 
 ## 32 weeks
 
