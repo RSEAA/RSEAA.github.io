@@ -13,12 +13,12 @@ This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
 ## Website header without sponsors
 
-![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 11th to 13th September 2024.](/assets/RSEAA24_website_banner_no_sponsors.png){:class="img-responsive"}
+![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/RSEAA24_website_banner_no_sponsors.png){:class="img-responsive"}
 
 
 ## Short form header for Google Form
 
-![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 11th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
+![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
 
 
 ## Potential short copy
@@ -33,7 +33,7 @@ See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
 Save the Date!
 
-Join us at RSE Asia Australia 2024 from the 11th to the 13th of September!
+Join us at RSE Asia Australia 2024 from the 10th to the 13th of September!
 
 This is a joint partnership between @rse_aunz and @RSE_Asia.
 
@@ -51,7 +51,7 @@ We're thrilled to offer you two awesome formats to showcase your research: the c
 
 ----
 
-RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
 
 Here is a memory from RSE Asia Australia 2022/2023:
 
@@ -60,7 +60,7 @@ Here is a memory from RSE Asia Australia 2022/2023:
 
 -----
 
-RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
 
 Interested in attending and need extra help? We have scholarships and micro-grants available.
 
@@ -69,7 +69,7 @@ See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 -----
 
 
-RSE Asia Australia is back again for a third time from the 11th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September as #RSEAA24. This year’s theme is “Sharing tech architectures”.
 
 There will be a poster session on day 2 of the event. 
 
@@ -95,7 +95,7 @@ We encourage participants to apply even if they do not think they are eligible a
 
 Hi All,
 
-RSE Asia Australia is back again for a third time from the 11th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3.
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3.
 
 Some quick news:
 - We have had our first organising committee meeting for RSEAA24. We have streamlined the organising committee this year, but there are opportunities for observers to attend these weekly meetings. Please email me if you are interested.
