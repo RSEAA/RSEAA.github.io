@@ -59,15 +59,16 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 
 |          | Day 1 - Tue 10th Sep 2024 | Day 2 - Wed 11th Sep 2024                  | Day 3 - Thu 12th Sep 2024      | Day 4 - Fri 13th Sep 2024     |
 | --- | --- | --- | --- | --- |
-| [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T0230) | TBD | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
-| 1:00 PM  | TBD | Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
-| 1:30 PM  | TBD | Keynote 1                                  | Keynote 2                      | Strategy and Policy Panel     |
-| 2:00 PM  | TBD | First Session                              | Third Session                  | Strategy and Policy Panel     |
-| 2:30 PM  | TBD | First Session                              | Third Session                  | Strategy and Policy Panel     |
-| 3:00 PM  | TBD | Break                                      | Break                          | Break                         |
-| 3:30 PM  | TBD | Second Session                             | Poster Session                 | Actionable items              |
-| 4:00 PM  | TBD | Second Session                             | Poster Session                 | Actionable items              |
-| [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T0630)  | TBD | Review and discussion                      | Review and discussion          | Close and thank you           |
+| [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0230) | Opportunity to meet informally             | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
+| 1:00 PM  | Welcome, Vision and Survey |Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
+| 1:30 PM  | Introductions                                  | Keynote 1                                  | Keynote 2                      | Strategy and Policy Panel     |
+| 2:00 PM  | Intial Leaders Session                              | First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 2:30 PM  | Initial Leaders Session                              |  First Session                              | Third Session                  | Strategy and Policy Panel     |
+| 3:00 PM  | Break                              | Break                                      | Break                          | Break                         |
+| 3:30 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
+| 4:00 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
+| [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Review and discussion                      | Review and discussion          | Close and thank you           |
+
 
 ## Accessibility and Inclusivity
 
