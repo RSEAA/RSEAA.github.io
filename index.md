@@ -57,7 +57,7 @@ You can find out more via the [link to the volunteering page](volunteering)
 
 This is the current schedule for the event. All the timings are in UTC+10. Click on the 12.30 and 4.30 links below to see the times in your city. 
 
-|          | Leaders Meeting - Tue 10th Sep 2024 | Day 1 - Wed 11th Sep 2024                  | Day 2 - Thu 12th Sep 2024      | Day 3 - Fri 13th Sep 2024     |
+|          | Leaders Forum - Tue 10th Sep 2024 | Day 1 - Wed 11th Sep 2024                  | Day 2 - Thu 12th Sep 2024      | Day 3 - Fri 13th Sep 2024     |
 | --- | --- | --- | --- | --- |
 | [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0230) | Opportunity to meet informally             | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
 | 1:00 PM  | Welcome, Vision and Survey |Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
