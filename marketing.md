@@ -13,10 +13,14 @@ This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
 ## Website header without sponsors
 
+Please right mouse click on the image and "save image as".
+
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/RSEAA24_website_banner_no_sponsors.png){:class="img-responsive"}
 
 
 ## Short form header for Google Form
+
+Please right mouse click on the image and "save image as".
 
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
 
