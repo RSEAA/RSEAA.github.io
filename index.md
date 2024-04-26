@@ -44,6 +44,24 @@ There are a few ways to participate:
 
 Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
+## Suggest Discussion Topics
+
+We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/76">Submit a discussion topic</a>
+
+You can see what we discussed last year in the [Research Software Engineer Asia Australia Unconference Summary Report.](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989)
+
+
+## Submit a Poster
+
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/75">Poster submission information</a>
+
+
 ## How can I volunteer?
 
 We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks.
