@@ -42,7 +42,7 @@ There are a few ways to participate:
 2. Suggest, [vote and comment on discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/76), and
 3. Submit a [poster, vote and comment on posters](https://github.com/RSEAA/RSEAA.github.io/discussions/75)
 
-Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+
 
 ## Suggest Discussion Topics
 
@@ -50,8 +50,7 @@ We will have three sessions in which discussion topics are suggested by the part
 
 <a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/76">Submit a discussion topic</a>
 
-You can see what we discussed last year in the [Research Software Engineer Asia Australia Unconference Summary Report.](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989)
-
+Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43)
 
 ## Submit a Poster
 
@@ -61,6 +60,7 @@ At the end of the poster session we will be giving out awards for the posters th
 
 <a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/75">Poster submission information</a>
 
+Click here to see [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
 ## How can I volunteer?
 
