@@ -48,7 +48,7 @@ You can now register for the Unconference!
 
 <a class="rse rse-join" href="#">Coming soon</a>
 
-There are also scholarships and 20 accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
+There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
 
 ## Suggest Discussion Topics
 
