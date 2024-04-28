@@ -37,4 +37,5 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 - We can finalise the opening presentation, including the slide deck and the survey
 
 ## 1 week
+- We can create a Slack Chanel for Communications
 - We can close registrations and send out final email about what to expect.
