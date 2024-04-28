@@ -4,7 +4,7 @@ This is for the organising committee.
 ## Project Management
 
 - [Git Project todo](https://github.com/orgs/RSEAA/projects/3/views/5)
-- [Suggested Schedule](https://github.com/RSEAA/RSEAA.github.io/blob/main/suggested_schedule)
+- [Suggested Schedule](suggested_schedule)
 
 ## Documentation
 
