@@ -9,9 +9,9 @@ We invite you to join us for the third online Research Software Engineer (RSE) A
 
 - [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
 - [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
+- [Click here to register for the Leaders Forum on the 10th of September 2024](https://forms.gle/1dunWopkG1T1BiXg7)
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
-- [Click here to follow us on Mastadon](https://social.foss.place/@RSEAA)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
 
 
@@ -42,7 +42,29 @@ There are a few ways to participate:
 2. Suggest, [vote and comment on discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/76), and
 3. Submit a [poster, vote and comment on posters](https://github.com/RSEAA/RSEAA.github.io/discussions/75)
 
-Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+## Register for the Unconference
+
+Coming soon: you will be able to register for RSEAA23!
+
+There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
+
+## Suggest Discussion Topics
+
+We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/76">Submit a discussion topic</a>
+
+Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43)
+
+## Submit a Poster
+
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/75">Poster submission information</a>
+
+Click here to see [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
 ## How can I volunteer?
 
