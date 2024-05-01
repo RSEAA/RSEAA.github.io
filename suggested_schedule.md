@@ -26,7 +26,7 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 - We can have all the session chairs finalised
 
 
-## 6 weeks
+## 8 weeks
 - We can stop submissions for scholarships and grants
 
 ## 4 weeks
@@ -37,4 +37,5 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 - We can finalise the opening presentation, including the slide deck and the survey
 
 ## 1 week
-- We can close registrations and send out final email about what to expect
+- We can create a Slack Chanel for Communications
+- We can close registrations and send out final email about what to expect.

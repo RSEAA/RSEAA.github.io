@@ -5,16 +5,19 @@ permalink: /
 navigation_weight: 1
 ---
 
-We invite you to join us for the third online Research Software Engineer (RSE) Asia Australia Unconference from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures" and the hashtag will be #RSEAA24.
+We invite you to join us for the third online Research Software Engineer (RSE) Asia Australia Unconference from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures", there is an extra day for a Leaders Forum on the 10th, and the hashtag will be #RSEAA24.
+
+## Want to add this to your calendar?
 
 - [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
 - [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
+
+## Want to sign up for updates? 
+
+- [Click here to register for the Leaders Forum on the 10th of September 2024](https://forms.gle/1dunWopkG1T1BiXg7)
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
-- [Click here to follow us on Mastadon](https://social.foss.place/@RSEAA)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
-
-
 
 
 ## What is a Research Software Engineer? 
@@ -42,7 +45,29 @@ There are a few ways to participate:
 2. Suggest, [vote and comment on discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/76), and
 3. Submit a [poster, vote and comment on posters](https://github.com/RSEAA/RSEAA.github.io/discussions/75)
 
-Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43) and [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
+## Register for the Unconference
+
+Coming soon: you will be able to register for RSEAA23!
+
+There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
+
+## Suggest Discussion Topics
+
+We will have three sessions in which discussion topics are suggested by the participants. You can add, vote and comment on discussion topics and the top discussion topics will be given breakout rooms for each session.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/76">Submit a discussion topic</a>
+
+Click here to see [last year's discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/43)
+
+## Submit a Poster
+
+This year we are adding an online poster session on the 14th of September. We're thrilled to offer you two awesome formats to showcase your research: the classic traditional poster and the dynamic set of slides. 
+
+At the end of the poster session we will be giving out awards for the posters that have generated the most interest.
+
+<a class="rse rse-join" href="https://github.com/RSEAA/RSEAA.github.io/discussions/75">Poster submission information</a>
+
+Click here to see [last year's posters](https://github.com/RSEAA/RSEAA.github.io/discussions/32).
 
 ## How can I volunteer?
 
@@ -57,7 +82,7 @@ You can find out more via the [link to the volunteering page](volunteering)
 
 This is the current schedule for the event. All the timings are in UTC+10. Click on the 12.30 and 4.30 links below to see the times in your city. 
 
-|          | Day 1 - Tue 10th Sep 2024 | Day 2 - Wed 11th Sep 2024                  | Day 3 - Thu 12th Sep 2024      | Day 4 - Fri 13th Sep 2024     |
+|          | Leaders Forum - Tue 10th Sep 2024 | Day 1 - Wed 11th Sep 2024                  | Day 2 - Thu 12th Sep 2024      | Day 3 - Fri 13th Sep 2024     |
 | --- | --- | --- | --- | --- |
 | [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0230) | Opportunity to meet informally             | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
 | 1:00 PM  | Welcome, Vision and Survey |Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
@@ -110,10 +135,3 @@ If you would like to know more or have any questions, please contact the organis
 - [Click here to view the 2023 unconference](/RSEAA23).
 - [Click here to view the 2022 unconference](/RSEAA22).
 
-## Want to contribute to the event?
-
-This is the [link to the github repo for this website](https://github.com/RSEAA/RSEAA.github.io/tree/main).
-
-## Suggested Schedule
-
-This is a draft of [the suggested schedule for organising the event](suggested_schedule)

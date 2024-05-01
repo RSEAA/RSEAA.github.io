@@ -13,17 +13,21 @@ This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
 ## Website header without sponsors
 
+Please right mouse click on the image and "save image as".
+
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/RSEAA24_website_banner_no_sponsors.png){:class="img-responsive"}
 
 
 ## Short form header for Google Form
+
+Please right mouse click on the image and "save image as".
 
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
 
 
 ## Potential short copy
 
-RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference there will be a Leaders Meeting on the 10th. The unconference will start on the 11th with keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
 
 See more details at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
@@ -95,7 +99,7 @@ We encourage participants to apply even if they do not think they are eligible a
 
 Hi All,
 
-RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference, there will be keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3.
+RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference there will be a Leaders Meeting on the 10th. The unconference will start on the 11th with keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
 
 Some quick news:
 - We have had our first organising committee meeting for RSEAA24. We have streamlined the organising committee this year, but there are opportunities for observers to attend these weekly meetings. Please email me if you are interested.
