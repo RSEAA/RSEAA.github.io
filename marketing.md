@@ -28,6 +28,8 @@ Please right mouse click on the image and "save image as".
 
 ![Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.](/assets/1.png){:class="img-responsive"}
 
+alt-text: Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
+
 ## Potential short copy
 
 RSE Asia Australia is back again for a third time from the 10th to the 13th of September. This year's theme is "Sharing tech architectures". In addition to the unconference there will be a Leaders Meeting on the 10th. The unconference will start on the 11th with keynotes on Day 1 and Day 2, an online poster session on Day 2, with the strategy and policy panel back again on Day 3. 
