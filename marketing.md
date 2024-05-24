@@ -24,6 +24,11 @@ Please right mouse click on the image and "save image as".
 
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
 
+## Marketing slides
+
+![Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.](/assets/1.png){:class="img-responsive"}
+
+alt-text: Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
 
 ## Potential short copy
 
