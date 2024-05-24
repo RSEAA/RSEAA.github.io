@@ -94,6 +94,7 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 | 4:00 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
 | [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Review and discussion                      | Review and discussion          | Close and thank you           |
 
+
 ## Accessibility and Inclusivity
 
 We are committed to creating a safe, accessible, and inclusive environment for all participants. 
