@@ -7,6 +7,25 @@ navigation_weight: 1
 
 We invite you to join us for the third online Research Software Engineer (RSE) Asia Australia Unconference from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures", there is an extra day for a Leaders Forum on the 10th, and the hashtag will be #RSEAA24.
 
+## What is a Research Software Engineer? 
+
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
+- researchers and academics who code,
+- generalists who bring communities together across the research and technical domains,
+- systems administrators who help train researchers to improve their code to run on their research systems, and
+- software engineers who work in the research domain. 
+
+## Why would someone go to RSEAA24?
+
+Some of the motivations of the RSEs at the conference might include:
+- To talk about difficulties in career progression as a RSE
+- To learn how to make their research software more visible
+- To learn about how other RSEs create applications for researchers
+- To learn about how other RSEs might streamline and scale their research workflows
+- To discuss how they balance researcher needs with good software practices
+- To discuss how they make their research software easier to use
+
+
 ## Want to add this to your calendar?
 
 - [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
@@ -19,10 +38,6 @@ We invite you to join us for the third online Research Software Engineer (RSE) A
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
 
-
-## What is a Research Software Engineer? 
-
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
 
 ## What is an unconference?
 
