@@ -39,39 +39,39 @@ alt-text: Magnifying glass in purple circle. Want to make your research software
 
 alt-text: Hammer and spanner in purple circle. Create apps for researchers and want to know about other tools? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Streamline & scale research workflows but feel undervalued? Join the conversation with people in the same situation across Asia and Australia.](/assets/4.png){:class="img-responsive"}
+![Graph with arrow going up in purple circle. Streamline & scale research workflows but feel undervalued? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/4.png){:class="img-responsive"}
 
-alt-text: Streamline & scale research workflows but feel undervalued? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
+alt-text: Graph with arrow going up in purple circle. Streamline & scale research workflows but feel undervalued? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Are you the only one working on research software in your team? Join the conversation with people in the same situation across Asia and Australia.](/assets/5.png){:class="img-responsive"}
+![Picture of person in grey away from a group of people in a purple circe. Are you the only one working on research software in your team? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/5.png){:class="img-responsive"}
 
-alt-text: Are you the only one working on research software in your team? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
+alt-text: Picture of person in grey away from a group of people in a purple circe. Are you the only one working on research software in your team? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Want to streamline online app authentication for researchers? Join the conversation with people in the same situation across Asia and Australia.](/assets/6.png){:class="img-responsive"}
+![A security lock in a purple circle. Want to streamline online app authentication for researchers? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/6.png){:class="img-responsive"}
 
-alt-text: Want to streamline online app authentication for researchers? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
+alt-text: A security lock in a purple circle. Want to streamline online app authentication for researchers? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Want to share your ruminations on Rust in research? Join the conversation with people with the same interests across Asia and Australia.](/assets/7.png){:class="img-responsive"}
+![Rust logo. Want to share your ruminations on Rust in research? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/7.png){:class="img-responsive"}
 
-alt-text: Want to share your ruminations on Rust in research? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
+alt-text: Rust logo. Want to share your ruminations on Rust in research? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Want to share your progress with Python in research software? Join the conversation with people with the same interests across Asia and Australia.](/assets/8.png){:class="img-responsive"}
+![Python Logo. Want to share your progress with Python in research software? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/8.png){:class="img-responsive"}
 
-alt-text: Want to share your progress with Python in research software? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
+alt-text: Python Logo. Want to share your progress with Python in research software? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
-![Do you balance researcher needs with good software practices? Join the conversation with people with the same challenges across Asia and Australia.](/assets/9.png){:class="img-responsive"}
+![Two people on a balance bar. Do you balance researcher needs with good software practices? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/9.png){:class="img-responsive"}
 
-alt-text: Do you balance researcher needs with good software practices? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
-
-
-![Do you train researchers to learn how to use the command line? Join the conversation with people with the same challenges across Asia and Australia.](/assets/10.png){:class="img-responsive"}
-
-alt-text: Do you train researchers to learn how to use the command line? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
+alt-text: Two people on a balance bar. Do you balance researcher needs with good software practices? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
 
-![Do you make research software easier to use? Join the conversation with people with the same interests across Asia and Australia.](/assets/11.png){:class="img-responsive"}
+![Stylised command line window. Do you train researchers to learn how to use the command line? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/10.png){:class="img-responsive"}
 
-alt-text: Do you make research software easier to use? Join the conversation with people with the same interests across Asia and Australia.
+alt-text: Stylised command line window. Do you train researchers to learn how to use the command line? Join the conversation with people with the same challenges across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
+
+
+![Stopwatch. Do you make research software easier to use? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/11.png){:class="img-responsive"}
+
+alt-text: Stopwatch. Do you make research software easier to use? Join the conversation with people with the same interests across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.
 
 
 ## Potential short copy
