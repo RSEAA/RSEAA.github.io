@@ -37,6 +37,7 @@ Some of the motivations of the RSEs at the conference might include:
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
+- [Click here to follow us on Mastadon](https://fediverse.au/@RSEAA)
 
 
 ## What is an unconference?
