@@ -11,6 +11,11 @@ Here is a list of all marketing materials for #RSEAA24.
 
 This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
 
+## Logo square
+
+![Logos of RSE-AUNZ and RSE Asia.](/assets/rseaa_logo.png){:class="img-responsive"}
+
+
 ## Website header without sponsors
 
 Please right mouse click on the image and "save image as".
