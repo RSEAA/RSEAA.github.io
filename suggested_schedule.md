@@ -28,7 +28,7 @@ This is a draft suggested schedule for the major milestones of RSEAA.
 
 ## 8 weeks
 - We can stop submissions for scholarships and grants
-- We can create a Slack Chanel for Communications from scholarships and paid registrations
+- We can create a Slack Chanel for scholarships and paid registrations
 
 ## 4 weeks
 - We can expect people to have published their posters for the scholarships and the grants
