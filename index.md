@@ -28,19 +28,19 @@ Some of the motivations of the RSEs at the conference might include:
 
 ## Key Dates
 
-| Dates | Events |
+| Dates | Deadlines/Events |
 | --- | --- |
 | 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152) | Start of registration and scholarships and microgrants applicationss |
 | 17th July 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+scholarship+and+micro-grant+applications&iso=20240717T12&p1=152) | End of scholarship and micro-grant applications |
-| 14th August 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+poster+submission+for+eligible+scholarship+and+micro-grant+applicants+and+end+of+early+bird+r&iso=20240814T12&p1=152) | End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations |
-| 6th September 12pm UTC +10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+registration+Event+dates&iso=20240906T12&p1=152) | End of registration |
+| 14th August 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+poster+submission+for+scholarship+%26+micro-grant+applicants+%26+end+of+early+bird+registration&iso=20240814T12&p1=152) | End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations |
+| 6th September 12pm UTC +10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+registration&iso=20240906T12&p1=152)| End of registration |
 | 10th September 12:30pm UTC +10 (Tuesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Leaders+forum&iso=20240910T1230&p1=152) | Leaders forum |
 | 11th September 12:30pm UTC + 10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+Day+1+of+the+unconference&iso=20240911T1230&p1=152) | Start of Day 1 of the unconference |
 | 12th September 12:30pm UTC + 10 (Thursday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+Day+2+of+the+unconference&iso=20240912T1230&p1=152)  | Start of Day 2 of the unconference |
 | 13th September 12:30pm UTC + 10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+day+3+and+end+of+discussion+topic+submissions&iso=20240913T1230&p1=152)  | Start of day 3 and end of discussion topic submissions |
 
 Want to add this to your calendar?
-- [Click here to add the placeholder to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
+- [Click here to add the placeholder for the unconference to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
 - [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
 
 ## Want to sign up for updates? 
