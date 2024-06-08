@@ -74,7 +74,7 @@ There are a few ways to participate:
 
 ## Register for the Unconference
 
-Coming soon: you will be able to register for RSEAA23!
+Coming soon: you will be able to register for RSEAA24!
 
 There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
 
