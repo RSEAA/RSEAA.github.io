@@ -9,11 +9,11 @@ We invite you to join us for the third online Research Software Engineer (RSE) A
 
 ## Why would someone go to RSEAA24?
 
-Some of the motivations of the RSEs at the conference might include:
-- To talk about difficulties in career progression as a RSE
+Some of the motivations for attending might include:
+- To talk about difficulties in career progression and lack of recognition with others who work in research software
 - To learn how to make their research software more visible
-- To learn about how other RSEs create applications for researchers
-- To learn about how other RSEs might streamline and scale their research workflows
+- To learn about how others create applications for researchers
+- To learn about how others streamline and scale their research workflows
 - To discuss how they balance researcher needs with good software practices
 - To discuss how they make their research software easier to use
 
