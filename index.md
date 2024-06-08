@@ -7,14 +7,6 @@ navigation_weight: 1
 
 We invite you to join us for the third online Research Software Engineer (RSE) Asia Australia Unconference from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures", there is an extra day for a Leaders Forum on the 10th, and the hashtag will be #RSEAA24.
 
-## What is a Research Software Engineer? 
-
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
-- researchers and academics who code,
-- generalists who bring communities together across the research and technical domains,
-- people who help train researchers to improve their code on HPC and Cloud systems, and
-- software engineers who work in the research domain. 
-
 ## Why would someone go to RSEAA24?
 
 Some of the motivations of the RSEs at the conference might include:
@@ -25,12 +17,19 @@ Some of the motivations of the RSEs at the conference might include:
 - To discuss how they balance researcher needs with good software practices
 - To discuss how they make their research software easier to use
 
+## What is a Research Software Engineer? 
+
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
+- researchers and academics who code,
+- generalists who bring communities together across the research and technical domains,
+- people who help train researchers to improve their code on HPC and Cloud systems, and
+- software engineers who work in the research domain. 
 
 ## Key Dates
 
 | Dates | Deadlines/Events |
 | --- | --- |
-| 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152) | Start of registration and scholarships and microgrants applicationss |
+| 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152) | Start of registration and scholarships and micro-grant applications |
 | 17th July 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+scholarship+and+micro-grant+applications&iso=20240717T12&p1=152) | End of scholarship and micro-grant applications |
 | 14th August 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+poster+submission+for+scholarship+%26+micro-grant+applicants+%26+end+of+early+bird+registration&iso=20240814T12&p1=152) | End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations |
 | 6th September 12pm UTC +10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+registration&iso=20240906T12&p1=152)| End of registration |
