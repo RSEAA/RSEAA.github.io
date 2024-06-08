@@ -11,11 +11,11 @@ We invite you to join us for the third online RSEAA Unconference from the **10th
 
 Some of the motivations for attending might include:
 - To talk about difficulties in career progression and lack of recognition with others who work in research software
-- To learn how to make their research software more visible
+- To learn from others how to make their research software more visible
 - To learn about how others create applications for researchers
 - To learn about how others streamline and scale their research workflows
-- To discuss how they balance researcher needs with good software practices
-- To discuss how they make their research software easier to use
+- To discuss with others how they balance researcher needs with good software practices
+- To discuss with others how they make their research software easier to use
 
 ## What is a Research Software Engineer (RSE)? 
 
