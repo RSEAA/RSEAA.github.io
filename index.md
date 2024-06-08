@@ -40,7 +40,6 @@ Some of the motivations of the RSEs at the conference might include:
 | 13th September 12:30pm UTC + 10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+day+3+and+end+of+discussion+topic+submissions&iso=20240913T1230&p1=152)  | Start of day 3 and end of discussion topic submissions |
 
 Want to add this to your calendar?
-- [Click here to add the placeholder for the unconference to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25lY2NzbGxzODhvMGgyaW5qbmgwdW8yNjJfMjAyNDA5MTFUMDIwMDAwWiByb3dsYW5kLmgubW9zYmVyZ2VuQG0&tmsrc=rowland.h.mosbergen%40gmail.com&scp=ALL)
 - [Click here to download the ics for RSEAA24 placeholder to import to your calendar](/assets/RSEAA24.ics)
 
 ## Want to sign up for updates? 
