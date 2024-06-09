@@ -7,6 +7,11 @@ navigation_weight: 1
 
 Here is a list of all marketing materials for #RSEAA24.
 
+## Hashtags to use
+
+#RSE #RSEng ##ResearchSoftware #Research #ResearchSoftwareEngineer
+
+
 ## ICS file
 
 This is a [link to the ICS file](/assets/RSEAA24.ics) for calendar sharing.
