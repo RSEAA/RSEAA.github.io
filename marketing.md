@@ -9,7 +9,7 @@ Here is a list of all marketing materials for #RSEAA24.
 
 ## Hashtags to use
 
-#RSE #RSEng ##ResearchSoftware #Research #ResearchSoftwareEngineer
+#RSE #RSEng #ResearchSoftware #Research #ResearchSoftwareEngineer
 
 
 ## ICS file
