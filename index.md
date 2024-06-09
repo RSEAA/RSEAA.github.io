@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSEAA24 - An event for those working on research software across Asia and Australia
+title: RSEAA24 - A research software community event for Asia and Australia
 permalink: /
 navigation_weight: 1
 ---
