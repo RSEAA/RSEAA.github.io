@@ -5,7 +5,7 @@ permalink: /
 navigation_weight: 1
 ---
 
-Do you feel undervalued within academia because you work on research software? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?
+Do you feel undervalued within academia because you work on research software? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
 
 If so, you might want to join us for RSEAA24, the third online RSE Asia Australia Unconference, from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures", there is an extra day for a Leaders Forum on the 10th, and the hashtag will be #RSEAA24.
 
@@ -13,6 +13,7 @@ If so, you might want to join us for RSEAA24, the third online RSE Asia Australi
 
 Some of the other motivations for attending might include:
 - To talk about difficulties in career progression and lack of recognition with others who work on research software
+- To share the interesting work you have done in research software
 - To learn from others how to make their research software more visible
 - To learn about how others create applications for researchers
 - To learn about how others streamline and scale their research workflows
