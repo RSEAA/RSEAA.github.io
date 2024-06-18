@@ -25,6 +25,19 @@ Some of the other motivations for attending might include:
 - To discuss with others how they balance researcher needs with good software practices
 - To discuss with others how they make their research software easier to use
 
+## Register for RSEAA24
+
+
+Registrations will open on 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152)
+
+<a class="rse rse-join" href="https://events.humanitix.com/rse-asia-australia-2024-rseaa24-lttp4775">Register for RSEAA24</a>
+
+There are also scholarships and accessibility micro-grants available. This form is now open.
+
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Submit application for RSEAA24 scholarship and/or accessibility micro-grant</a>
+
+See Accessibility and Inclusivity section for more details on the scholarship and accessibility micro-grant.
+
 ## What is a Research Software Engineer (RSE)? 
 
 Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
@@ -79,11 +92,6 @@ There are a few ways to participate:
 2. Suggest, [vote and comment on discussion topics](https://github.com/RSEAA/RSEAA.github.io/discussions/76), and
 3. Submit a [poster, vote and comment on posters](https://github.com/RSEAA/RSEAA.github.io/discussions/75)
 
-## Register for the Unconference
-
-Coming soon: you will be able to register for RSEAA24!
-
-There are also scholarships and accessibility micro-grants available. See Accessibility and Inclusivity section for more details.
 
 ## Suggest Discussion Topics
 
