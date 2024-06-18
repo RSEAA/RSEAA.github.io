@@ -9,6 +9,11 @@ Do you feel undervalued within academia because you work on research software? O
 
 If so, you might want to join us for RSEAA24, the third online RSE Asia Australia Unconference, from the **10th to the 13th of September 2024**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Sharing tech architectures", there is an extra day for a Leaders Forum on the 10th, and the hashtag will be #RSEAA24.
 
+## Partners
+
+We would like to thank our Key partners [ARDC](https://ardc.edu.au/),  [AURIN](https://aurin.org.au/), and the [Australian Access Federation (AAF)](https://aaf.edu.au/) for supporting us, as well as our Allied partner, [NCI Australia](https://nci.org.au/).
+
+
 ## Why would someone go to RSEAA24?
 
 Some of the other motivations for attending might include:
