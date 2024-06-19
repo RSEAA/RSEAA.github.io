@@ -28,11 +28,11 @@ Some of the other motivations for attending might include:
 ## Register for RSEAA24
 
 
-Registrations will open on 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152)
+Registrations are now open!
 
 <a class="rse rse-join" href="https://events.humanitix.com/rse-asia-australia-2024-rseaa24-lttp4775">Register for RSEAA24</a>
 
-There are also scholarships and accessibility micro-grants available. This form is now open.
+There are also scholarships and accessibility micro-grants available as well!
 
 <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Submit scholarship and accessibility micro-grant</a>
 
