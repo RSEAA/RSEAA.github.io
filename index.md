@@ -11,7 +11,7 @@ If so, you might want to join us for RSEAA24, the third online RSE Asia Australi
 
 ## Partners
 
-We would like to thank our Key partners [ARDC](https://ardc.edu.au/),  [AURIN](https://aurin.org.au/), and the [Australian Access Federation (AAF)](https://aaf.edu.au/) for supporting us, as well as our Allied partner, [NCI Australia](https://nci.org.au/).
+We would like to thank our Key partners [ARDC](https://ardc.edu.au/),  [AURIN](https://aurin.org.au/),[Society of RSE](https://society-rse.org/), and the [Australian Access Federation (AAF)](https://aaf.edu.au/) for supporting us, as well as our Allied partner, [NCI Australia](https://nci.org.au/).
 
 
 ## Why would someone go to RSEAA24?
