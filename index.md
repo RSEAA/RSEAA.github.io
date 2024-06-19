@@ -34,7 +34,7 @@ Registrations will open on 19th June 12pm UTC +10 (Wednesday) [See in your time 
 
 There are also scholarships and accessibility micro-grants available. This form is now open.
 
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Submit application for RSEAA24 scholarship and/or accessibility micro-grant</a>
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Submit scholarship and accessibility micro-grant</a>
 
 See Accessibility and Inclusivity section for more details on the scholarship and accessibility micro-grant.
 
