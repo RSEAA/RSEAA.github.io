@@ -36,6 +36,8 @@ Please right mouse click on the image and "save image as".
 
 ## Marketing slides
 
+[These slides are CC-BY 4.0 at Figshare](https://figshare.com/articles/presentation/Generic_Research_Software_Engineer_Marketing_Slides/25996636).
+
 ![Worried face emoji. Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September. Logos of RSE AUNZ and RSE Asia.](/assets/1.png){:class="img-responsive"}
 
 alt-text: Worried face emoji. Develop research software and worried about career progression? Join the conversation with people in the same situation across Asia and Australia. RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th Septembe. Logos of RSE AUNZ and RSE Asia.
