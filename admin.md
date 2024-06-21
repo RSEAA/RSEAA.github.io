@@ -16,5 +16,6 @@ This is for the organising committee.
 ## Website
 
 - [Github repo](https://github.com/RSEAA/RSEAA.github.io/tree/main)
+- [Basic marketing html](https://github.com/RSEAA/basic_marketing)
 
 
