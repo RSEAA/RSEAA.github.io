@@ -66,7 +66,6 @@ Want to add this to your calendar?
 
 ## Want to sign up for updates? 
 
-- [Click here to register for the Leaders Forum on the 10th of September 2024](https://forms.gle/1dunWopkG1T1BiXg7)
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
@@ -117,7 +116,7 @@ Click here to see [last year's posters](https://github.com/RSEAA/RSEAA.github.io
 
 We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks.
 
-You can also [fill out this form to volunteer as a session chair during the event](https://forms.gle/zk1RYof5KnpCSCe99).
+You can also [fill out this form to volunteer before and during the event](https://docs.google.com/forms/d/e/1FAIpQLSceQtoOQZ1SSspMMKNSy9pDUm6-enfuHQbmLoDsrb_3FKVUQQ/viewform?usp=sf_link).
 
 You can find out more via the [link to the volunteering page](volunteering)
 
