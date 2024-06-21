@@ -66,7 +66,6 @@ Want to add this to your calendar?
 
 ## Want to sign up for updates? 
 
-- [Click here to register for the Leaders Forum on the 10th of September 2024](https://forms.gle/1dunWopkG1T1BiXg7)
 - [Click here to sign up for the RSEAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
