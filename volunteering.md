@@ -21,6 +21,24 @@ The expectations of the co-chair are:
 9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 
+# Expectations of poster judges
+
+The expectations of the regular organising committee members are:
+1. To represent the wider community of RSEs
+2. To review each poster and ask questions if needed
+3. To identify outstanding posters from the event
+
+# Expectations of the observers
+
+The expectations of the regular organising committee members are:
+1. To represent the wider community of RSEs
+2. To attend meetings when convenient to the observer, as they will not be expected to turn up to any meeting
+3. To make suggestions by email if convenient to the observer
+4. To not be involved in any tasks - this will be done by members of the organising committee
+5. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
+6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
+
+   
 # Expectations of the secretary
 
 The expectations of the secretary are:
@@ -50,12 +68,4 @@ The expectations of the regular organising committee members are:
 9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 
-# Expectations of the observers
 
-The expectations of the regular organising committee members are:
-1. To represent the wider community of RSEs
-2. To attend meetings when convenient to the observer, as they will not be expected to turn up to any meeting
-3. To make suggestions by email if convenient to the observer
-4. To not be involved in any tasks - this will be done by members of the organising committee
-5. To ensure that the organising committee is operating in a good, working environment that benefits the volunteers as well as the community
-6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
