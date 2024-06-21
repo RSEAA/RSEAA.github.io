@@ -117,7 +117,7 @@ Click here to see [last year's posters](https://github.com/RSEAA/RSEAA.github.io
 
 We have an invite-only organising committee, with places for anyone who wants to observe. The observer roles can attend meetings, make suggestions, are not expected to take on any tasks.
 
-You can also [fill out this form to volunteer as a session chair during the event](https://forms.gle/zk1RYof5KnpCSCe99).
+You can also [fill out this form to volunteer before and during the event](https://docs.google.com/forms/d/1cM7Ly13HE0_wDfHxOPdPPdD6gUZzXcglpB74DnCweoU).
 
 You can find out more via the [link to the volunteering page](volunteering)
 
