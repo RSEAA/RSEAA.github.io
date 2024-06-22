@@ -7,9 +7,9 @@ The organising committee is ideally made up of a co-chair representing RSE Asia,
 
 There is also the ability for people to volunteer as observers and session chairs. These roles do not have honorariums associated with them.
 
-# Expectations of the co-chair
+# Expectations of the Co-Chair
 
-The expectations of the co-chair are:
+The expectations of the Co-Chairs are:
 1. To represent RSE Asia and RSE AU-NZ to the wider community and to external stakeholders
 2. To guide the organising committee volunteers to a successful RSEAA event
 3. To attend the weekly organising meetings
