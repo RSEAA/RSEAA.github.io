@@ -3,7 +3,7 @@ This is for the organising committee.
 
 ## Project Management
 
-- [Git Project todo](https://github.com/orgs/RSEAA/projects/3/views/5)
+- [Git Project todo](https://github.com/orgs/RSEAA/projects/3)
 - [Suggested Schedule](suggested_schedule)
 
 ## Documentation
