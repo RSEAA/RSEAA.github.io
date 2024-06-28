@@ -36,7 +36,7 @@ Registrations are now open!
 
 There are also scholarships and accessibility micro-grants available as well!
 
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Submit scholarship and accessibility micro-grant</a>
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeiYEZKStBNhBUMFiKgK2ts5K5_4Yrh_5fs-YQn6G9Swm1pEA/viewform">Apply for scholarship and/or accessibility micro-grant</a>
 
 See Accessibility and Inclusivity section for more details on the scholarship and accessibility micro-grant.
 
