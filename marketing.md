@@ -225,3 +225,7 @@ Don't forget that on the website you can add the placeholder event to your Googl
 
 Get them at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
+
+## Zoom background
+
+[image for zoom background with partners](/assets/RSEAA24_zoom_background.png)
