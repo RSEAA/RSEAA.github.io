@@ -4,6 +4,7 @@ title: RSEAA24 - A research software community event for Asia and Australia
 permalink: /
 navigation_weight: 1
 ---
+![Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. ](/assets/conference_banner_small_website.png){:class="img-responsive"}
 
 Do you feel undervalued within academia because you work on research software? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
 
