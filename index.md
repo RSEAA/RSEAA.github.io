@@ -54,7 +54,7 @@ Research Software Engineer is a broad term for people who combine programming an
 | Dates | Deadlines/Events |
 | --- | --- |
 | 19th June 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Start+of+registration+and+scholarships+and+microgrants+applications&iso=20240619T12&p1=152) | Start of registration and scholarships and micro-grant applications |
-| 17th July 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+scholarship+and+micro-grant+applications&iso=20240717T12&p1=152) | End of scholarship and micro-grant applications |
+| 26th July 5pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+scholarship+and+micro-grant+applications&iso=20240726T17&p1=152) | End of scholarship and micro-grant applications |
 | 14th August 12pm UTC +10 (Wednesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+poster+submission+for+scholarship+%26+micro-grant+applicants+%26+end+of+early+bird+registration&iso=20240814T12&p1=152) | End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations |
 | 6th September 12pm UTC +10 (Friday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End+of+registration&iso=20240906T12&p1=152)| End of registration |
 | 10th September 12:30pm UTC +10 (Tuesday) [See in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Leaders+forum&iso=20240910T1230&p1=152) | Leaders forum |
