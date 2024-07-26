@@ -40,6 +40,12 @@ Please right mouse click on the image and "save image as".
 
 alt-text: RSE Asia Australia 2024 Strategy and Policy Panel. Sharing tech architectures. 10th to 13th September. Profile pictures of Mercedes Randell Session Chair NeSI, Dr Manodeep Sinha RSE-AUNZ Co-chair, Jyoti Bhogal RSE Asia Founder, Prof Sandra Gesing Exec Director US-RSE, Prof Johnston-Hollitt Director CIDS. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI
 
+![RSE Asia Australia 2024 Keynotes. Sharing tech architectures. 10th to 13th September. Profile pictures of A/Prof Sarinder Kaur Institute of Biological Sciences University of Malaya, Dr Arianna Ciula Director King’s Digital Lab
+King’s College London, Javier Sanchez Gonzalez Principal Senior Software Engineer  TERN. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI.](/assets/rseaa24_keynotes_slide.png){:class="img-responsive"}
+
+alt-text: RSE Asia Australia 2024 Keynotes. Sharing tech architectures. 10th to 13th September. Profile pictures of A/Prof Sarinder Kaur Institute of Biological Sciences University of Malaya, Dr Arianna Ciula Director King’s Digital Lab
+King’s College London, Javier Sanchez Gonzalez Principal Senior Software Engineer  TERN. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI.
+
 
 ## Marketing slides
 
