@@ -34,9 +34,14 @@ Please right mouse click on the image and "save image as".
 
 ![Banner of RSE Asia Australia Unconference 2024 with the title RSE Asia Australia Unconference shown. Sharing tech architectures. 10th to 13th September 2024.](/assets/form_banner_rseaa24.png){:class="img-responsive"}
 
+## Panels and keynote slides
+
+![RSE Asia Australia 2024 Strategy and Policy Panel. Sharing tech architectures. 10th to 13th September. Profile pictures of Mercedes Randell Session Chair NeSI, Dr Manodeep Sinha RSE-AUNZ Co-chair, Jyoti Bhogal RSE Asia Founder, Prof Sandra Gesing Exec Director US-RSE, Prof Johnston-Hollitt Director CIDS. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI.](/assets/rseaa24_strategy_panel_slide.png){:class="img-responsive"}
+
+alt-text: RSE Asia Australia 2024 Strategy and Policy Panel. Sharing tech architectures. 10th to 13th September. Profile pictures of Mercedes Randell Session Chair NeSI, Dr Manodeep Sinha RSE-AUNZ Co-chair, Jyoti Bhogal RSE Asia Founder, Prof Sandra Gesing Exec Director US-RSE, Prof Johnston-Hollitt Director CIDS. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI
+
+
 ## Marketing slides
-
-
 
 
 [These slides are CC-BY 4.0 at Figshare](https://figshare.com/articles/presentation/Generic_Research_Software_Engineer_Marketing_Slides/25996636).
