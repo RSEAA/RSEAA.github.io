@@ -43,7 +43,7 @@ See Accessibility and Inclusivity section for more details on the scholarship an
 
 There is also a $500 AUD Accessibility Fellowship available thanks to [Linux Australia](https://linux.org.au/)- deadline 14th of August.
 
-<a class="rse rse-join" href="[https://events.humanitix.com/rse-asia-australia-2024-rseaa24-lttp4775](https://docs.google.com/forms/d/e/1FAIpQLSeBAoP3RJG67cweP34PW4Qca3_6djbsdx5JSPsd6h0Vl3z-Qw/viewform)">Application form for RSEAA24 Accessibility Fellowship</a>
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeBAoP3RJG67cweP34PW4Qca3_6djbsdx5JSPsd6h0Vl3z-Qw/viewform">Application form for RSEAA24 Accessibility Fellowship</a>
 
 
 ## What is a Research Software Engineer (RSE)? 
