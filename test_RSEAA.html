@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>RSEAA</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            padding: 30px;
+        }
+
+        #time {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+
+        select {
+            width: 300px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .event-date,
+        .event-time {
+            color: blue;
+        }
+
+        .header-label {
+            color: #571845;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="header-label">RSEAA24 - A research software community event for Asia and Australia</h1>
+    <label for="timezone-select">Select Time Zone:</label>
+    <select id="timezone-select"></select>
+
+    <div id="time">Current Time: </div>
+
+    <h2>Key Dates</h2>
+    <table id="key-dates">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Deadlines/Events</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="event-date" data-date="2024-06-19T02:00:00Z">19th June 12pm UTC+10 (Wednesday)</span></td>
+                <td>Start of registration and scholarships and micro-grant applications</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-07-26T07:00:00Z">26th July 5pm UTC+10 (Friday) – Date extended!</span></td>
+                <td>End of scholarship and micro-grant applications</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-08-14T02:00:00Z">14th August 12pm UTC+10 (Wednesday)</span></td>
+                <td>End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-09-06T02:00:00Z">6th September 12pm UTC+10 (Friday)</span></td>
+                <td>End of registration</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-09-10T02:30:00Z">10th September 12:30pm UTC+10 (Tuesday)</span></td>
+                <td>Leaders forum</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-09-11T02:30:00Z">11th September 12:30pm UTC+10 (Wednesday)</span></td>
+                <td>Start of Day 1 of the unconference</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-09-12T02:30:00Z">12th September 12:30pm UTC+10 (Thursday)</span></td>
+                <td>Start of Day 2 of the unconference</td>
+            </tr>
+            <tr>
+                <td><span class="event-date" data-date="2024-09-13T02:30:00Z">13th September 12:30pm UTC+10 (Friday)</span></td>
+                <td>Start of day 3 and end of discussion topic submissions</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Schedule</h2>
+    <table id="event-schedule">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Leaders Forum - Tue 10th Sep 2024</th>
+                <th>Day 1 - Wed 11th Sep 2024</th>
+                <th>Day 2 - Thu 12th Sep 2024</th>
+                <th>Day 3 - Fri 13th Sep 2024</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T02:30:00Z">12:30 PM</span></td>
+                <td>Opportunity to meet informally</td>
+                <td>Opportunity to meet informally</td>
+                <td>Opportunity to meet informally</td>
+                <td>Opportunity to meet informally</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T03:00:00Z">1:00 PM</span></td>
+                <td>Welcome, Vision and Survey</td>
+                <td>Welcome, Vision, Explanation, and Partners</td>
+                <td>Explain, Review</td>
+                <td>Explain, Review</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T03:30:00Z">1:30 PM</span></td>
+                <td>Introductions</td>
+                <td>Keynote 1</td>
+                <td>Keynote 2</td>
+                <td>Strategy and Policy Panel</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T04:00:00Z">2:00 PM</span></td>
+                <td>Initial Leaders Session</td>
+                <td>First Session</td>
+                <td>Third Session</td>
+                <td>Strategy and Policy Panel</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T04:30:00Z">2:30 PM</span></td>
+                <td>Initial Leaders Session</td>
+                <td>First Session</td>
+                <td>Third Session</td>
+                <td>Strategy and Policy Panel</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T05:00:00Z">3:00 PM</span></td>
+                <td>Break</td>
+                <td>Break</td>
+                <td>Break</td>
+                <td>Break</td>
+            </tr>
+            <tr>
+                <td><span class="event-time" data-time="2024-09-10T05:30:00Z">3:30 PM</span></td>
+                <td>Second Leaders Session</td>
+                <td>Second Session</td>
+                <td>Poster Session</td>
+                <td>Actionable items</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script>
+        const timezoneSelect = document.getElementById('timezone-select');
+        const currentTimeElement = document.getElementById('time');
+        const eventDates = document.querySelectorAll('.event-date');
+        const eventTimes = document.querySelectorAll('.event-time');
+
+        // Populate the timezone dropdown with all timezones
+        const timezones = Intl.supportedValuesOf('timeZone');
+        timezones.forEach(zone => {
+            const option = document.createElement('option');
+            option.value = zone;
+            option.textContent = zone;
+            timezoneSelect.appendChild(option);
+        });
+
+        // Set default timezone to the user's local timezone
+        timezoneSelect.value = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+        function updateTime() {
+            const selectedTimezone = timezoneSelect.value;
+            const now = new Date().toLocaleString('en-US', { timeZone: selectedTimezone, hour12: false });
+            currentTimeElement.textContent = `Current Time: ${now}`;
+
+            eventDates.forEach(dateElement => {
+                const date = new Date(dateElement.getAttribute('data-date'));
+                dateElement.textContent = date.toLocaleString('en-US', { timeZone: selectedTimezone, weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+            });
+
+            eventTimes.forEach(timeElement => {
+                const time = new Date(timeElement.getAttribute('data-time'));
+                timeElement.textContent = time.toLocaleTimeString('en-US', { timeZone: selectedTimezone, hour: '2-digit', minute: '2-digit' });
+            });
+        }
+
+        // Update time and event dates/times on timezone change
+        timezoneSelect.addEventListener('change', updateTime);
+
+        // Initialize the time display
+        updateTime();
+    </script>
+</body>
+
+</html>
+
