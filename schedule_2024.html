@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSEAA24 - A research software community event for Asia and Australia</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .container {
+            max-width: 1200px;
+            width: 100%;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        h1 {
+            color: #571845;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: left;
+            color: #000000;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        img.conference-banner {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        #time {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .event-date, .event-time {
+            color: blue;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                max-width: 100%;
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            #time {
+                font-size: 20px;
+            }
+
+            th, td {
+                padding: 6px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>RSEAA24 - A research software community event for Asia and Australia</h1>
+        <img src="https://rseaa.org/assets/conference_banner_small_website.png"  alt="Conference Banner" class="conference-banner" />
+
+        <div id="time" class="time-display">
+            Current Time: Loading...
+        </div>
+
+        <h2>Key Dates</h2>
+        <table id="key-dates">
+            <thead>
+                <tr>
+                    <th>Dates</th>
+                    <th>Deadlines/Events</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="event-date" data-date="2024-06-19T02:00:00Z">Loading...</td>
+                    <td>Start of registration and scholarships and micro-grant applications</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-07-26T07:00:00Z">Loading...</td>
+                    <td>End of scholarship and micro-grant applications</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-08-14T02:00:00Z">Loading...</td>
+                    <td>End of poster submission for eligible scholarship and micro-grant applicants and end of early bird registrations</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-09-06T02:00:00Z">Loading...</td>
+                    <td>End of registration</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-09-10T02:30:00Z">Loading...</td>
+                    <td>Leaders forum</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-09-11T02:30:00Z">Loading...</td>
+                    <td>Start of Day 1 of the unconference</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-09-12T02:30:00Z">Loading...</td>
+                    <td>Start of Day 2 of the unconference</td>
+                </tr>
+                <tr>
+                    <td class="event-date" data-date="2024-09-13T02:30:00Z">Loading...</td>
+                    <td>Start of day 3 and end of discussion topic submissions</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Schedule</h2>
+        <table id="event-schedule">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Leaders Forum - Tue 10th Sep 2024</th>
+                    <th>Day 1 - Wed 11th Sep 2024</th>
+                    <th>Day 2 - Thu 12th Sep 2024</th>
+                    <th>Day 3 - Fri 13th Sep 2024</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T02:30:00Z">Loading...</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T03:00:00Z">Loading...</td>
+                    <td>Welcome, Vision and Survey</td>
+                    <td>Welcome, Vision, Explanation, and Partners</td>
+                    <td>Explain, Review</td>
+                    <td>Explain, Review</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T03:30:00Z">Loading...</td>
+                    <td>Introductions</td>
+                    <td>Keynote 1</td>
+                    <td>Keynote 2</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T04:00:00Z">Loading...</td>
+                    <td>Initial Leaders Session</td>
+                    <td>First Session</td>
+                    <td>Third Session</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T04:30:00Z">Loading...</td>
+                    <td>Initial Leaders Session</td>
+                    <td>First Session</td>
+                    <td>Third Session</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T05:00:00Z">Loading...</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T05:30:00Z">Loading...</td>
+                    <td>Second Leaders Session</td>
+                    <td>Second Session</td>
+                    <td>Poster Session</td>
+                    <td>Actionable items</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T06:00:00Z">Loading...</td>
+                    <td>Second Leaders Session</td>
+                    <td>Second Session</td>
+                    <td>Poster Session</td>
+                    <td>Actionable items</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T06:30:00Z">Loading...</td>
+                    <td>Review and discussion</td>
+                    <td>Review and discussion</td>
+                    <td>Review and discussion</td>
+                    <td>Close and thank you</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Where is everyone attending from?</h2>
+        <img src="assets/updatedMap.png"  alt="World Map" class="World-Map" />
+
+    </div>
+
+    <script>
+        const timeZoneAbbreviations = {
+            'UTC': 'UTC',
+            'America/New_York': 'EDT',
+            'America/Chicago': 'CDT',
+            'America/Denver': 'MDT',
+            'America/Los_Angeles': 'PDT',
+            'Europe/London': 'BST',
+            'Europe/Paris': 'CEST',
+            'Europe/Berlin': 'CEST',
+            'Europe/Moscow': 'MSK',
+            'Asia/Dubai': 'GST',
+            'Asia/Tokyo': 'JST',
+            'Asia/Shanghai': 'CST',
+            'Asia/Singapore': 'SGT',
+            'Australia/Sydney': 'AEDT',
+            'Australia/Brisbane': 'AEST',
+            'Australia/Adelaide': 'ACDT',
+            'Australia/Darwin': 'ACST',
+            'Australia/Perth': 'AWST',
+            'Asia/Kolkata': 'IST',
+            'America/Sao_Paulo': 'BRT',
+            'Africa/Johannesburg': 'SAST'
+        };
+
+        function formatDateTime(isoDate, userTimeZone, includeSeconds = true) {
+            const options = {
+                timeZone: userTimeZone,
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: includeSeconds ? '2-digit' : undefined,
+                hour12: false,
+            };
+            const date = new Date(isoDate);
+            const formattedDate = new Intl.DateTimeFormat('en-US', options).format(date);
+            const timeZoneAbbr = timeZoneAbbreviations[userTimeZone] || userTimeZone;
+            return `${formattedDate} ${timeZoneAbbr}`;
+        }
+
+        function updateTimeDisplay() {
+            const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            const currentTime = formatDateTime(new Date().toISOString(), userTimeZone);
+            document.getElementById('time').innerText = `Current Time: ${currentTime}`;
+        }
+
+        function updateEventDates() {
+            const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+            const eventDates = document.querySelectorAll('.event-date');
+            eventDates.forEach(eventDate => {
+                const isoDate = eventDate.getAttribute('data-date');
+                eventDate.textContent = formatDateTime(isoDate, userTimeZone, false);
+            });
+
+            const eventTimes = document.querySelectorAll('.event-time');
+            eventTimes.forEach(eventTime => {
+                const isoDate = eventTime.getAttribute('data-time');
+                eventTime.textContent = formatDateTime(isoDate, userTimeZone, false);
+            });
+        }
+
+        setInterval(() => {
+            updateTimeDisplay();
+            updateEventDates();
+        }, 1000);
+
+        updateTimeDisplay();
+        updateEventDates();
+    </script>
+</body>
+
+</html>
