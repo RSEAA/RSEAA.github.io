@@ -45,6 +45,12 @@ There is also a $500 AUD Accessibility Fellowship available thanks to [Linux Aus
 
 <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeBAoP3RJG67cweP34PW4Qca3_6djbsdx5JSPsd6h0Vl3z-Qw/viewform">Application form for RSEAA24 Accessibility Fellowship</a>
 
+# See the schedule in your timezone
+
+You can see the schedule in your timezone
+
+<a class="rse rse-join" href="https://rseaa.org/schedule_2024.html">See the schedule in your timezone</a>
+
 
 ## What is a Research Software Engineer (RSE)? 
 
