@@ -41,11 +41,11 @@ There are also scholarships and accessibility micro-grants available as well!
 
 See Accessibility and Inclusivity section for more details on the scholarship and accessibility micro-grant.
 
-There is also a $500 AUD Accessibility Fellowship available thanks to [Linux Australia](https://linux.org.au/)- deadline 14th of August.
+There is also a $500 AUD Accessibility Fellowship available thanks to [Linux Australia](https://linux.org.au/)- deadline 14th of August. Please note - that this has now closed.
 
 <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeBAoP3RJG67cweP34PW4Qca3_6djbsdx5JSPsd6h0Vl3z-Qw/viewform">Application form for RSEAA24 Accessibility Fellowship</a>
 
-# See the schedule in your timezone
+## See the schedule in your timezone
 
 You can see the schedule in your timezone
 
