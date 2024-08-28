@@ -141,13 +141,13 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 | --- | --- | --- | --- | --- |
 | [12:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0230) | Opportunity to meet informally             | Opportunity to meet informally             | Opportunity to meet informally | Oportunity to meet informally |
 | 1:00 PM  | Welcome, Vision and Survey |Welcome, Vision, Explanation, and Partners | Explain, Review                | Explain, Review               |
-| 1:30 PM  | Introductions                                  | Keynote 1                                  | Keynote 2                      | Strategy and Policy Panel     |
+| 1:30 PM  | Introductions                                  | Keynote A/Prof Sarinder Kaur                                  | Keynote Javier Sanchez Gonzalez                      | Strategy and Policy Panel     |
 | 2:00 PM  | Intial Leaders Session                              | First Session                              | Third Session                  | Strategy and Policy Panel     |
 | 2:30 PM  | Initial Leaders Session                              |  First Session                              | Third Session                  | Strategy and Policy Panel     |
 | 3:00 PM  | Break                              | Break                                      | Break                          | Break                         |
 | 3:30 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
 | 4:00 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
-| [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Review and discussion                      | Review and discussion          | Close and thank you           |
+| [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Keynote Dr Arianna Ciula                     | Review and discussion          | Close and thank you           |
 
 ## Keynotes
 ![RSE Asia Australia 2024 Keynotes. Sharing tech architectures. 10th to 13th September. Profile pictures of A/Prof Sarinder Kaur Institute of Biological Sciences University of Malaya, Dr Arianna Ciula Director King’s Digital Lab King’s College London, Javier Sanchez Gonzalez Principal Senior Software Engineer TERN. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI.](/assets/rseaa24_keynotes_slide.png){:class="img-responsive"}
