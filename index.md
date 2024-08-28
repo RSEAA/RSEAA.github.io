@@ -149,6 +149,10 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 | 4:00 PM  | Second Leaders Session                              | Second Session                             | Poster Session                 | Actionable items              |
 | [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Review and discussion                      | Review and discussion          | Close and thank you           |
 
+## Keynotes
+![Keynotes banner RSEAA24](/assets/rseaa24_keynotes_slide.png){:class="img-responsive"}
+## Strategy and Policy Panel
+![Strategy and Policy Panel](/assets/rseaa24_strategy_panel_slide.png){:class="img-responsive"}
 
 ## Accessibility and Inclusivity
 
