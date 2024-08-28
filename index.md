@@ -150,9 +150,9 @@ This is the current schedule for the event. All the timings are in UTC+10. Click
 | [4:30 PM](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T0630)  | Review and discussion   | Review and discussion                      | Review and discussion          | Close and thank you           |
 
 ## Keynotes
-![Keynotes banner RSEAA24](/assets/rseaa24_keynotes_slide.png){:class="img-responsive"}
+![RSE Asia Australia 2024 Keynotes. Sharing tech architectures. 10th to 13th September. Profile pictures of A/Prof Sarinder Kaur Institute of Biological Sciences University of Malaya, Dr Arianna Ciula Director King’s Digital Lab King’s College London, Javier Sanchez Gonzalez Principal Senior Software Engineer TERN. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI.](/assets/rseaa24_keynotes_slide.png){:class="img-responsive"}
 ## Strategy and Policy Panel
-![Strategy and Policy Panel](/assets/rseaa24_strategy_panel_slide.png){:class="img-responsive"}
+![RSE Asia Australia 2024 Strategy and Policy Panel. Sharing tech architectures. 10th to 13th September. Profile pictures of Mercedes Randell Session Chair NeSI, Dr Manodeep Sinha RSE-AUNZ Co-chair, Jyoti Bhogal RSE Asia Founder, Prof Sandra Gesing Exec Director US-RSE, Prof Johnston-Hollitt Director CIDS. Logos of ARDC, AURIN, AAF, Society of RSE, and NCI](/assets/rseaa24_strategy_panel_slide.png){:class="img-responsive"}
 
 ## Accessibility and Inclusivity
 
