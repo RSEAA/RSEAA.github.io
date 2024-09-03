@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSEAA24 Event Page</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            font-family: 'Roboto', sans-serif;
+            overflow-x: auto;
+        }
+
+        .container {
+            max-width: 100vw; 
+            width: 100%;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        h1 {
+            color: #571845;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: left;
+            color: #000000;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        img.conference-banner {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            max-width: 100%;
+        }
+
+        #time {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .event-time {
+            color: blue;
+        }
+
+        .section {
+            margin-bottom: 30px;
+            text-align: left;
+        }
+
+        .section p {
+            margin: 0 0 15px;
+            line-height: 1.6;
+            color: #555555;
+        }
+
+        .link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #ffffff;
+            background-color: #571845;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .link-button:hover {
+            background-color: #333333;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                max-width: 100%;
+                padding: 15px;
+                overflow-x: auto;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            #time {
+                font-size: 20px;
+            }
+
+            th, td {
+                padding: 6px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="wrapper">
+            <a class="site-title" rel="author" href="/">
+                <img style="height:200px" src="/assets/RSE_AUNZ_logo.png" alt="RSE-AUNZ Logo">
+            </a>
+        </div>
+        <h1>RSEAA24 - Event Page</h1>
+        <img src="https://rseaa.org/assets/conference_banner_small_website.png"  alt="Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibility partner." class="conference-banner" />
+
+        <div id="time" class="time-display">
+            Current Time: Loading...
+        </div>
+
+        <h2>Schedule</h2>
+        <table id="event-schedule">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Leaders Forum - Tue 10th Sep 2024</th>
+                    <th>Day 1 - Wed 11th Sep 2024</th>
+                    <th>Day 2 - Thu 12th Sep 2024</th>
+                    <th>Day 3 - Fri 13th Sep 2024</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T02:30:00Z">Loading...</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                    <td>Opportunity to meet informally</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T03:00:00Z">Loading...</td>
+                    <td>Welcome, Vision and Survey</td>
+                    <td>Welcome, Vision, Explanation, and Partners</td>
+                    <td>Explain, Review</td>
+                    <td>Explain, Review</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T03:30:00Z">Loading...</td>
+                    <td>Introductions</td>
+                    <td>Keynote 1</td>
+                    <td>Keynote 2</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T04:00:00Z">Loading...</td>
+                    <td>Initial Leaders Session</td>
+                    <td>First Session</td>
+                    <td>Third Session</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T04:30:00Z">Loading...</td>
+                    <td>Initial Leaders Session</td>
+                    <td>First Session</td>
+                    <td>Third Session</td>
+                    <td>Strategy and Policy Panel</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T05:00:00Z">Loading...</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                    <td>Break</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T05:30:00Z">Loading...</td>
+                    <td>Second Leaders Session</td>
+                    <td>Second Session</td>
+                    <td>Poster Session</td>
+                    <td>Actionable items</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T06:00:00Z">Loading...</td>
+                    <td>Second Leaders Session</td>
+                    <td>Second Session</td>
+                    <td>Poster Session</td>
+                    <td>Actionable items</td>
+                </tr>
+                <tr>
+                    <td class="event-time" data-time="2024-09-10T06:30:00Z">Loading...</td>
+                    <td>Review and discussion</td>
+                    <td>Review and discussion</td>
+                    <td>Review and discussion</td>
+                    <td>Close and thank you</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Event-related sections with buttons -->
+        <div class="section">
+            <h2>Join the Zoom Meeting</h2>
+            <p>Click the link below to join the Zoom meeting. Make sure you have the latest version of Zoom installed.</p>
+            <a href="https://rseaa.org" class="link-button">Join Zoom</a>
+        </div>
+
+        <div class="section">
+            <h2>Join the Slack Channel</h2>
+            <p>Connect with other participants and engage in discussions on Slack.</p>
+            <a href="https://rseaa.org" class="link-button">Join Slack</a>
+        </div>
+
+        <div class="section">
+            <h2>Poster Information</h2>
+            <p>Find instructions and guidelines for submitting and presenting your poster.</p>
+            <a href="https://rseaa.org" class="link-button">Poster Instructions</a>
+        </div>
+
+        <div class="section">
+            <h2>Discussion Information</h2>
+            <p>Guidelines and details on how to participate in discussions during the event.</p>
+            <a href="https://rseaa.org" class="link-button">Discussion Instructions</a>
+        </div>
+    </div>
+
+    <script>
+            const timeZoneAbbreviations = {
+            'UTC': 'UTC',
+            'America/New_York': 'EDT',
+            'America/Chicago': 'CDT',
+            'America/Denver': 'MDT',
+            'America/Los_Angeles': 'PDT',
+            'Europe/London': 'BST',
+            'Europe/Paris': 'CEST',
+            'Europe/Berlin': 'CEST',
+            'Europe/Moscow': 'MSK',
+            'Asia/Dubai': 'GST',
+            'Asia/Tokyo': 'JST',
+            'Asia/Shanghai': 'CST',
+            'Asia/Singapore': 'SGT',
+            'Australia/Sydney': 'AEDT',
+            'Australia/Brisbane': 'AEST',
+            'Australia/Adelaide': 'ACDT',
+            'Australia/Darwin': 'ACST',
+            'Australia/Perth': 'AWST',
+            'Asia/Kolkata': 'IST',
+            'America/Sao_Paulo': 'BRT',
+            'Africa/Johannesburg': 'SAST'
+        };
+
+        function formatDateTime(isoDate, userTimeZone, includeSeconds = true) {
+            const options = {
+                timeZone: userTimeZone,
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: includeSeconds ? '2-digit' : undefined,
+                hour12: false,
+            };
+            const date = new Date(isoDate);
+            const formattedDate = new Intl.DateTimeFormat('en-US', options).format(date);
+            const timeZoneAbbr = timeZoneAbbreviations[userTimeZone] || userTimeZone;
+            return `${formattedDate} ${timeZoneAbbr}`;
+        }
+
+        function updateTimeDisplay() {
+            const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            const currentTime = formatDateTime(new Date().toISOString(), userTimeZone);
+            document.getElementById('time').innerText = `Current Time: ${currentTime}`;
+        }
+
+        function updateEventDates() {
+            const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+            const eventTimes = document.querySelectorAll('.event-time');
+            eventTimes.forEach(eventTime => {
+                const isoDate = eventTime.getAttribute('data-time');
+                eventTime.textContent = formatDateTime(isoDate, userTimeZone, false);
+            });
+        }
+
+        setInterval(() => {
+            updateTimeDisplay();
+            updateEventDates();
+        }, 1000);
+
+        updateTimeDisplay();
+        updateEventDates();
+    </script>
+</body>
+
+</html>
