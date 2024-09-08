@@ -1,104 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<style>
-    body, html {
-        height: 100%;
-        margin: 0;
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        font-family: 'Roboto', sans-serif;
-        overflow-x: auto;
-    }
-
-    .container {
-        max-width: 100vw; 
-        width: 100%;
-        padding: 20px;
-        box-sizing: border-box;
-        text-align: center;
-    }
-
-    h1 {
-        color: #571845;
-        font-size: 2.5em;
-        margin-bottom: 20px;
-    }
-
-    h2 {
-        text-align: left;
-        color: #000000;
-        font-size: 1.5em;
-        margin-top: 30px;
-        margin-bottom: 20px;
-    }
-
-    img.conference-banner {
-        width: 100%;
-        height: auto;
-        margin-bottom: 20px;
-        max-width: 100%;
-    }
-
-    #time {
-        font-size: 24px;
-        margin: 20px 0;
-    }
-
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 20px;
-    }
-
-    th, td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-    }
-
-    th {
-        background-color: #f2f2f2;
-    }
-
-    .event-date, .event-time {
-        color: blue;
-    }
-
-    @media (max-width: 900px) {
-        .container {
-            max-width: 100%;
-            padding: 15px;
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSEAA24 - A research software community event for Asia and Australia</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            font-family: 'Roboto', sans-serif;
             overflow-x: auto;
         }
 
+        .container {
+            max-width: 100vw; 
+            width: 100%;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
         h1 {
-            font-size: 2em;
+            color: #571845;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: left;
+            color: #000000;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        img.conference-banner {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            max-width: 100%;
         }
 
         #time {
-            font-size: 20px;
+            font-size: 24px;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
         }
 
         th, td {
-            padding: 6px;
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
         }
-    }
-</style>
-</head>
 
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .event-date, .event-time {
+            color: blue;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                max-width: 100%;
+                padding: 15px;
+                overflow-x: auto;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            #time {
+                font-size: 20px;
+            }
+
+            th, td {
+                padding: 6px;
+            }
+        }
+    </style>
+</head>
 
 <body>
 
     <div class="container">
-	<div class="wrapper">
-	    <a class="site-title" rel="author" href="/">
-			<img style="height:200px" src="/assets/RSE_AUNZ_logo.png">
+        <div class="wrapper">
+            <a class="site-title" rel="author" href="/">
+                <img style="height:200px" src="/assets/RSE_AUNZ_logo.png">
             </a>
         </div>
         <h1>RSEAA24 - A research software community event for Asia and Australia</h1>
-        <img src="https://rseaa.org/assets/conference_banner_small_website.png"  alt="Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. " class="conference-banner" />
+        <img src="https://rseaa.org/assets/conference_banner_small_website.png"
+            alt="Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. "
+            class="conference-banner" />
 
         <div id="time" class="time-display">
             Current Time: Loading...
@@ -157,31 +162,31 @@
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T03:00:00Z">Loading...</td>
-                    <td>Welcome, Vision and Survey</td>
-                    <td>Welcome, Vision, Explanation, and Partners</td>
-                    <td>Explain, Review</td>
-                    <td>Explain, Review</td>
+                    <td>Welcome, Vision and Survey - Jyoti Bhogal</td>
+                    <td>Welcome, Vision, Explanation, and Partners - Jyoti Bhogal</td>
+                    <td>Explain, Review - Jyoti Bhogal</td>
+                    <td>Explain, Review - Rowland Mosbergen</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T03:30:00Z">Loading...</td>
                     <td>Introductions</td>
-                    <td>Keynote A/Prof Sarinder Kaur</td>
-                    <td>Keynote Javier Sanchez Gonzalez</td>
-                    <td>Strategy and Policy Panel</td>
+                    <td>Keynote A/Prof Sarinder Kaur introduced by Jyoti Bhogal</td>
+                    <td>Keynote Javier Sanchez Gonzalez introduced by Jyoti Bhogal</td>
+                    <td>Strategy and Policy Panel - Mercedes Randell</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T04:00:00Z">Loading...</td>
                     <td>Initial Leaders Session</td>
-                    <td>First Session</td>
-                    <td>Third Session</td>
-                    <td>Strategy and Policy Panel</td>
+                    <td>First Session - Rob Moss</td>
+                    <td>Third Session - Roma Klapaukh</td>
+                    <td>Strategy and Policy Panel - Mercedes Randell</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T04:30:00Z">Loading...</td>
                     <td>Initial Leaders Session</td>
-                    <td>First Session</td>
-                    <td>Third Session</td>
-                    <td>Strategy and Policy Panel</td>
+                    <td>First Session - Rob Moss</td>
+                    <td>Third Session - Roma Klapaukh</td>
+                    <td>Strategy and Policy Panel - Mercedes Randell</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T05:00:00Z">Loading...</td>
@@ -193,28 +198,28 @@
                 <tr>
                     <td class="event-time" data-time="2024-09-10T05:30:00Z">Loading...</td>
                     <td>Second Leaders Session</td>
-                    <td>Second Session</td>
-                    <td>Poster Session</td>
-                    <td>Actionable items</td>
+                    <td>Second Session - Linda Erlina</td>
+                    <td>Poster Session - Paola Corrales, Terry Smith, Adam Steer</td>
+                    <td>Actionable items - Rowland Mosbergen</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T06:00:00Z">Loading...</td>
                     <td>Second Leaders Session</td>
-                    <td>Second Session</td>
-                    <td>Poster Session</td>
-                    <td>Actionable items</td>
+                    <td>Second Session - Linda Erlina</td>
+                    <td>Poster Session - Paola Corrales, Terry Smith, Adam Steer</td>
+                    <td>Actionable items - Rowland Mosbergen</td>
                 </tr>
                 <tr>
                     <td class="event-time" data-time="2024-09-10T06:30:00Z">Loading...</td>
                     <td>Review and discussion</td>
-                    <td>Keynote Dr Arianna Ciula</td>
-                    <td>Review and discussion</td>
-                    <td>Close and thank you</td>
+                    <td>Keynote Dr Arianna Ciula introduced by Rowland Mosbergen</td>
+                    <td>Review and discussion - Rowland Mosbergen</td>
+                    <td>Close and thank you - Jyoti Bhogal</td>
                 </tr>
             </tbody>
         </table>
 
-        
+
     </div>
 
     <script>
