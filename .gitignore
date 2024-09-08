@@ -4,3 +4,4 @@ Gemfile.lock
 *.swp
 .bundle/
 /_site
+.vs
