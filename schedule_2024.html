@@ -13,10 +13,11 @@
             justify-content: center;
             align-items: flex-start;
             font-family: 'Roboto', sans-serif;
+            overflow-x: auto;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 100vw; 
             width: 100%;
             padding: 20px;
             box-sizing: border-box;
@@ -41,6 +42,7 @@
             width: 100%;
             height: auto;
             margin-bottom: 20px;
+            max-width: 100%;
         }
 
         #time {
@@ -72,6 +74,7 @@
             .container {
                 max-width: 100%;
                 padding: 15px;
+                overflow-x: auto;
             }
 
             h1 {
@@ -92,13 +95,15 @@
 <body>
 
     <div class="container">
-	<div class="wrapper">
-	    <a class="site-title" rel="author" href="/">
-			<img style="height:200px" src="/assets/RSE_AUNZ_logo.png">
+        <div class="wrapper">
+            <a class="site-title" rel="author" href="/">
+                <img style="height:200px" src="/assets/RSE_AUNZ_logo.png">
             </a>
         </div>
         <h1>RSEAA24 - A research software community event for Asia and Australia</h1>
-        <img src="https://rseaa.org/assets/conference_banner_small_website.png"  alt="Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. " class="conference-banner" />
+        <img src="https://rseaa.org/assets/conference_banner_small_website.png"
+            alt="Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. "
+            class="conference-banner" />
 
         <div id="time" class="time-display">
             Current Time: Loading...
@@ -214,7 +219,7 @@
             </tbody>
         </table>
 
-        
+
     </div>
 
     <script>
