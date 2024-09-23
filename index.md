@@ -193,9 +193,9 @@ If you would like to know more or have any questions, please contact the organis
 [Our marketing materials for RSEAA24 are here](/marketing).
 
 ## Accessibility Fellowship Reports 
-<a class="rse rse-join" href="/harsh_kalra.md">Harsh Kalra Accessibility Blogpost </a>
+[1. Harsh Kalra Accessibility Blogpost](/harsh_kalra) 
 
-<a class="rse rse-join" href="/sanchit.html">Sanchit RSEAA24 Accessibility  Report </a>
+[2. Sanchit RSEAA24 Accessibility  Report](/sanchit.html)
 
 ## Previous RSEAA unconferences
 
