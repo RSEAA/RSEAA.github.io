@@ -1,4 +1,9 @@
-## My Journey: Navigating Accessibility and Empowerment in the IT Industry
+---
+layout: default
+title: My Journey: Navigating Accessibility and Empowerment in the IT Industry
+permalink: /accessibility_report
+navigation_weight: 1
+---
 
 Harsh Kalra
 
