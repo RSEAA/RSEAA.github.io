@@ -43,7 +43,10 @@ See Accessibility and Inclusivity section for more details on the scholarship an
 
 There is also a $500 AUD Accessibility Fellowship available thanks to [Linux Australia](https://linux.org.au/)- deadline 14th of August. Please note - that this has now closed.
 
+
 <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeBAoP3RJG67cweP34PW4Qca3_6djbsdx5JSPsd6h0Vl3z-Qw/viewform">Application form for RSEAA24 Accessibility Fellowship</a>
+
+
 
 ## See the schedule in your timezone
 
@@ -188,6 +191,11 @@ If you would like to know more or have any questions, please contact the organis
 ## Marketing materials
 
 [Our marketing materials for RSEAA24 are here](/marketing).
+
+## Accessibility Fellowship Reports 
+<a class="rse rse-join" href="/harsh_kalra.md">Harsh Kalra Accessibility Blogpost </a>
+
+<a class="rse rse-join" href="/sanchit.html">Sanchit RSEAA24 Accessibility  Report </a>
 
 ## Previous RSEAA unconferences
 
