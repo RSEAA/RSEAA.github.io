@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Journey: Navigating Accessibility and Empowerment in the IT Industry
-permalink: /accessibility_report
+permalink: /harsh_kalra
 navigation_weight: 1
 ---
 
