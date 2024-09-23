@@ -4,8 +4,6 @@ title: My Journey: Navigating Accessibility and Empowerment in the IT Industry
 permalink: /harsh_kalra
 navigation_weight: 1
 ---
-## My Journey: Navigating Accessibility and Empowerment in the IT Industry
-
 Harsh Kalra
 
 Indore, Madhya Pradesh, India
