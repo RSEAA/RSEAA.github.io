@@ -1,6 +1,6 @@
 This is a draft suggested schedule for the major milestones of RSEAA.
 
-[Countdown timer for #RSEAA24](https://www.timeanddate.com/countdown/generic?iso=20240911T1230&p0=152&msg=RSEAA24&ud=1&font=sanserif)
+[Countdown timer for #RSAA25](https://www.timeanddate.com/countdown/generic?iso=20250917T1230&p0=152&msg=RSAA25&ud=1&font=sanserif)
 
 ## 32 weeks
 
