@@ -7,7 +7,7 @@ navigation_weight: 1
 
 Do you feel undervalued within academia because you work on research software? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
 
-If so, you might want to join us for RSAA25, the fourth online Research Software Asia Australia Conference, from the **17th to the 19th of September 2025**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is "Connecing with Community" and the hashtag will be #RSAA25.
+If so, you might want to join us for RSAA25, the fourth online Research Software Asia Australia Conference, from the **17th to the 19th of September 2025**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Connecting with Community"** and the hashtag will be #RSAA25.
 
 ## Why would someone go to RSAA25?
 
