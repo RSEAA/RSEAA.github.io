@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSEAA24 - A research software community event for Asia and Australia
-permalink: /
+permalink: /RSEAA24
 navigation_weight: 1
 ---
 ![Banner of RSE Asia Australia 2024. Sharing tech architectures. 10th to 13th September 2024. With logos for RSE-AUNZ, RSE Asia, ARDC and Australian Access Federation, and AURIN as key partners, NCI as allied partners, and Society of RSE as accessibilty partner. ](/assets/conference_banner_small_website.png){:class="img-responsive"}
