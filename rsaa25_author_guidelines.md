@@ -8,7 +8,7 @@ Authors may choose from the following presentation options:
 - **5-minute Lightning Talk** – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.
 - **10-minute Demo/Showcase** – A hands-on session to demonstrate tools, techniques, or workflows, offering practical insights or a quick tutorial.
 - **15-minute Presentation** – A deeper exploration of a specific topic, including research findings, best practices, or community-driven initiatives.
-- **Flexible Format** – If your content doesn’t fit into the above options, feel free to propose a custom format! We welcome innovative and diverse contributions.
+- **Flexible Format** – If your content doesn’t fit into the above options, propose an alternative presentation format. Non-presentation formats, such as posters, are not included in this CFP.
 
 Each presentation should be concise, engaging, and relevant to the conference theme: "Connecting with Community".
 
