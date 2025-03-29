@@ -1,9 +1,9 @@
 # Call for Presentations: Research Software Asia Australia 2025 (RSAA25)
 ## Theme: Connecting with Community
 
-We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), taking place online from September 17th to 19th, 2025. This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community.
+We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), taking place online from **September 17th to 19th, 2025**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
 
-We invite you to share your insights, experiences, and innovations during our dedicated presentation session on September 18th, 2025.
+We invite you to share your insights, experiences, and innovations during our dedicated **presentation session on September 18th, 2025**.
 
 ## Conference Theme & Topics
 
@@ -55,15 +55,15 @@ Submissions will be reviewed based on:
 
 We encourage submissions from individuals of all backgrounds, disciplines, and career stages. RSAA25 is committed to creating an inclusive environment that values diverse perspectives and experiences.
 The conference actively promotes Digital Accessibility, and we encourage presenters to:
-- Use clear and readable slides with high contrast.
-- Provide alternative text (alt text) for images, charts, and figures.
-- Include captions in videos to improve accessibility.
-- Avoid reliance on color alone to convey information.
+- Use **clear and readable slides** with high contrast.
+- Provide **alternative text (alt text)** for images, charts, and figures.
+- **Include captions** in videos to improve accessibility.
+- Avoid reliance on **color alone** to convey information.
 
 ## Submission Process & Contact
 
 Submit your proposals via the RSAA25 online submission system at .... For questions, please contact the RSAA25 Organizing Committee at rseaa25@gmail.com or …@rseaa.org
 
-We look forward to your participation in RSAA25, as we come together to strengthen our community connections and advance the field of research software!
+We look forward to your participation in **RSAA25**, as we come together to strengthen our community connections and advance the field of research software!
 
 For more information, visit [https://rseaa.org](https://rseaa.org).
