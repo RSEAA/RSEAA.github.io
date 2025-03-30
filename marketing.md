@@ -20,3 +20,8 @@ Here is a [list of all marketing materials for #RSAA25](https://docs.google.com/
 
 - [Marketing 2023](marketingRSEAA2023)
 - [Marketing 2024](marketingRSEAA24)
+
+
+## Other links
+
+- [Link to our admin page](admin)
