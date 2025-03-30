@@ -1,4 +1,9 @@
-# Call for Presentations: Research Software Asia Australia 2025 (RSAA25)
+---
+layout: default
+title: Call for Presentations: Research Software Asia Australia 2025 (RSAA25)
+permalink: /call_for_presentations
+navigation_weight: 1
+---
 ## Theme: Connecting with Community
 
 We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), taking place online from **September 17th to 19th, 2025**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
