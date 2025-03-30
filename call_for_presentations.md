@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Presentations: Research Software Asia Australia 2025 
+title: Call for Presentations
 permalink: /call_for_presentations
 navigation_weight: 1
 ---
