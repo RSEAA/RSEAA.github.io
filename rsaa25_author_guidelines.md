@@ -1,4 +1,9 @@
-# RSAA25 Author Guidelines
+---
+layout: default
+title: RSAA25 Author Guidelines
+permalink: /rsaa25_author_guidelines
+navigation_weight: 1
+---
 
 Thank you for your interest in contributing to the **Research Software Asia Australia Conference 2025 (RSAA25)**. To ensure a smooth submission and presentation experience, please follow the guidelines below.
 
