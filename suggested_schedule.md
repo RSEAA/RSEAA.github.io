@@ -9,11 +9,11 @@ This is a draft suggested schedule for the major milestones of RSAA.
 
 [Countdown timer for #RSAA25](https://www.timeanddate.com/countdown/generic?iso=20250917T1230&p0=152&msg=RSAA25&ud=1&font=sanserif)
 
-## 40 weeks
+## 48 weeks
 
 - We can setup the organising committee
 
-## 32 weeks 
+## 40 weeks 
 - We can review and finalise prospectus
 - We can reach out to sponsors to get them on board
 
