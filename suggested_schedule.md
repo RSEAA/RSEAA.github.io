@@ -1,3 +1,10 @@
+---
+layout: default
+title: Suggested Schedule for 2025
+permalink: /suggested_schedule
+navigation_weight: 1
+---
+
 This is a draft suggested schedule for the major milestones of RSAA.
 
 [Countdown timer for #RSAA25](https://www.timeanddate.com/countdown/generic?iso=20250917T1230&p0=152&msg=RSAA25&ud=1&font=sanserif)
