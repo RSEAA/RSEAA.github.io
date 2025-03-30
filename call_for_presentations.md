@@ -67,3 +67,5 @@ Submit your proposals via the RSAA25 online submission system at .... For questi
 We look forward to your participation in **RSAA25**, as we come together to strengthen our community connections and advance the field of research software!
 
 For more information, visit [https://rseaa.org](https://rseaa.org).
+
+*The [Microsoft CMT service](https://cmt3.research.microsoft.com) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
