@@ -107,4 +107,7 @@ If you would like to know more or have any questions, please contact the organis
 - [Click here to view the 2023 conference](/RSEAA23).
 - [Click here to view the 2022 conference](/RSEAA22).
 
-*The [Microsoft CMT service](https://cmt3.research.microsoft.com) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+<p style="font-size: small;color: grey">
+*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+</p>
+
