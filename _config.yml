@@ -9,8 +9,11 @@ logo: RSE_AUNZ_logo.png
 markdown: kramdown  #github flavoured markdown
 kramdown: 
   input: GFM
+permalink: pretty
 theme: minima
 plugins: 
   - jekyll-feed
 include:
   - "_img"
+
+
