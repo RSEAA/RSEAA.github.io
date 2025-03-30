@@ -82,6 +82,17 @@ If your organisation would like to partner with us, a prospectus will be placed 
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
+## Organising Committee Members
+
+- Jyoti Bhogal - Co-chair (Asia)
+- Junran Lei - Co-chair (Australia)
+- Amanda Miotto - Partnerships Manager
+- Zane Mosbergen - Secretary
+- Amna Batool - Marketing Manager
+- Sanchit Ghule - Accessibility Manager
+- Harsh Kalra - Accessibility Manager
+- Rowland Mosbergen – Observer
+
 ## Contact Us
 If you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email.
 
