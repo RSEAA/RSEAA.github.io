@@ -41,11 +41,11 @@ Research Software Engineer is a broad term for people who combine programming an
 
 We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25). This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community. 
 
-For more details, please refer to the [Call for Presentations](call_for_presentations.md) document.
+For more details, please refer to the [Call for Presentations](call_for_presentation) document.
 
 ### Author Guidelines
 
-Thank you for your interest in contributing to the Research Software Asia Australia Conference 2025 (RSAA25). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa25_author_guidelines.md) document.
+Thank you for your interest in contributing to the Research Software Asia Australia Conference 2025 (RSAA25). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa25_author_guidelines) document.
 
 ## How can I volunteer?
 
