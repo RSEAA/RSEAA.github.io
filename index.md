@@ -49,7 +49,7 @@ Thank you for your interest in contributing to the Research Software Asia Austra
 
 ## How can I volunteer?
 
-You can [fill out this form to volunteer before and during the event](https://docs.google.com/forms/d/e/1FAIpQLSceQtoOQZ1SSspMMKNSy9pDUm6-enfuHQbmLoDsrb_3FKVUQQ/viewform?usp=sf_link).
+You can [fill out this form to volunteer before and during the event](https://forms.gle/RpzPF21ajy9ypx8u9).
 
 You can find out more via the [link to the volunteering page](volunteering)
 
