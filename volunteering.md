@@ -51,12 +51,12 @@ The expectations of the session chairs are:
 3. To tally up the attendees votes
 4. To direct participants to the breakout rooms
 
-# Expectations of poster judges
+# Expectations of presentation reviewers
 
-The expectations of the poster judges are:
+The expectations of the presentation reviewers are:
 1. To represent the wider community of RSEs
-2. To review each poster and ask questions if needed
-3. To identify outstanding posters from the event
+2. To Evaluate each presentation based on the defined selection criteria
+3. To identify outstanding presentations from the event
 
 
 # Expectations of the observers
