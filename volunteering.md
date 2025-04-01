@@ -1,3 +1,10 @@
+---
+layout: default
+title: Volunteering
+permalink: /volunteering
+navigation_weight: 1
+---
+
 There are a few ways to contribute as a volunteer, mainly via the organising committee.
 
 
