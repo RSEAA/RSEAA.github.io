@@ -41,6 +41,8 @@ We invite submissions that align with the conference theme and sub-themes. Propo
 - **Learning Objectives** (3-5 key takeaways for the audience)
 - **Presenter Information** (name, affiliation, bio up to 150 words, and contact details)
 
+For more detailed submission requirements and formatting guidelines, please refer to the [Author Guidelines](https://rseaa.org/rsaa25_author_guidelines).
+
 ## Submission Timeline
 
 - **CFP Opens:** April 15th, 2025
@@ -68,7 +70,7 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
 
-Submit your proposals via the RSAA25 online submission system at [coming soon](#) For questions, please contact the RSAA25 Organizing Committee at info@rseaa.org.
+Submit your proposals via the RSAA25 online submission system at [submission link]. For questions, please contact the RSAA25 Organizing Committee at info@rseaa.org.
 
 We look forward to your participation in **RSAA25**, as we come together to strengthen our community connections and advance the field of research software!
 
