@@ -82,7 +82,7 @@ All presenters and attendees are expected to adhere to the **RSAA25 Code of Cond
 
 ## 7. Contact Information
 
-For any questions or further assistance, please contact the **RSAA25 Organizing Committee** at rseaa25@gmail.com or …@rseaa.org.
+For any questions or further assistance, please contact the **RSAA25 Organizing Committee** at info@rseaa.org.
 
 We look forward to your participation in **RSAA25** and appreciate your contribution to building a stronger research software community!
 
