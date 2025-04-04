@@ -10,7 +10,7 @@ There are a few ways to contribute as a volunteer, mainly via the organising com
 
 # Organising committee
 
-The organising committee is ideally made up of a co-chair representing RSE Asia, a co-chair representing RSE Australia New Zealand, a secretary, and two regular organising commitee memebers. These roles have honorariums associated with them.
+The organising committee is ideally made up of a co-chair representing RSE Asia, a co-chair representing RSE Australia / New Zealand, a secretary, and two regular organising committee members. These roles have honoraria associated with them.
 
 There is also the ability for people to volunteer as observers and session chairs. These roles do not have honorariums associated with them.
 
@@ -24,7 +24,7 @@ The expectations of the Co-Chairs are:
 5. To liaise and build relationships with external stakeholders to help improve the RSEAA experience
 6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
 7. To execute tasks that are needed for more nuanced, layered stakeholder management
-8. To ensure that the processes for the RSEAA24 event is documented and improved every year
+8. To ensure that the processes for the RSEAA24 event are documented and improved every year
 9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
 # Expectations of the secretary
