@@ -5,7 +5,7 @@ permalink: /prospectus
 navigation_weight: 1
 ---
 
-# How can your organisation help support RSAA25?
+## How can your organisation help support RSAA25?
 
 We are excited to announce that the **Research Software Asia Australia conference will return in 2025** and we hope you can help make it our best ever! 
 
@@ -35,6 +35,7 @@ Please [review our prospectus for RSAA25](https://www.canva.com/design/DAGgSAvZ3
 There are also ways that your organisation could provide non-financial support for RSAA25 such as:
 - Provide in-kind support by offering a staff member as a part-time volunteer.
 - Your marketing team could share and promote our posts on LinkedIn.
+- Your staff could [add slides to promote RSAA25 at their next talk via our marketing page](marketing).
 - You could offer to run or co-run a workshop on a key research software skill.
 - Encourage your research software staff to attend  and present their work.
 
