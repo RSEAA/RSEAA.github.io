@@ -53,6 +53,9 @@ You can [fill out this form to volunteer before and during the event](https://fo
 
 You can find out more via the [link to the volunteering page](volunteering)
 
+## How can my organisation help?
+
+You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
 ## Accessibility and Inclusivity
 
