@@ -47,15 +47,22 @@ For more details, please refer to the [Call for Presentations](call_for_presenta
 
 Thank you for your interest in contributing to the Research Software Asia Australia Conference 2025 (RSAA25). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa25_author_guidelines) document.
 
-## How can I volunteer?
+## How can I volunteer or help?
 
 You can [fill out this form to volunteer before and during the event](https://forms.gle/RpzPF21ajy9ypx8u9).
 
 You can find out more via the [link to the volunteering page](volunteering)
 
-## How can my organisation help?
-
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
+
+You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
+
+## Partner with us
+
+Partnering with us provides a strategic opportunity to increase brand visibility, demonstrate your leadership in the research software space, and connect with a diverse pool of professionals and up-and-coming talent across Asia and Australia.
+
+You can view the [prospectus link for RSAA25 here](prospectus) as well [the RSAA25 prospectus optimised for both JAWS and NVDA screen readers](https://docs.google.com/document/u/1/d/e/2PACX-1vRc4YIKUEXO6W52ZwERVTBRLHNWy1h9VfJkTRDc98fzabcCtrq5dmamzTg_7ORt9qws-Vnsd74VSgso/pub). 
+
 
 ## Accessibility and Inclusivity
 
@@ -76,10 +83,6 @@ You will need to provide one short paragraph to explain how you will benefit fro
 All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
 
 If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org. 
-
-
-## Partner with us
-If your organisation would like to partner with us, a prospectus will be placed here shortly.
 
 ## Code of Conduct
 
