@@ -70,7 +70,7 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
 
-Submit your proposals via the RSAA25 online submission system at [submission link coming soon]. For questions, please contact the RSAA25 Organizing Committee at info@rseaa.org.
+Submit your proposals via the RSAA25 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create) (Registration to the submission platform at [registration link](https://cmt3.research.microsoft.com/User/Register), note: All external profile information on the registration form is optional). For questions, please contact the RSAA25 Organizing Committee at info@rseaa.org.
 
 We look forward to your participation in **RSAA25**, as we come together to strengthen our community connections and advance the field of research software!
 
