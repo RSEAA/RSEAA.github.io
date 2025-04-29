@@ -43,6 +43,8 @@ We are excited to announce the Call for Presentations (CFP) for the Research Sof
 
 For more details, please refer to the [Call for Presentations](call_for_presentations) document.
 
+<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create">Submit Presentation for RSAA25</a>
+
 ### Author Guidelines
 
 Thank you for your interest in contributing to the Research Software Asia Australia Conference 2025 (RSAA25). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa25_author_guidelines) document.
