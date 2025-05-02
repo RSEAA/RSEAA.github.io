@@ -55,6 +55,8 @@ You can [fill out this form to volunteer before and during the event](https://fo
 
 You can find out more via the [link to the volunteering page](volunteering)
 
+<a class="rse rse-join" href="https://forms.gle/RpzPF21ajy9ypx8u9">Volunteer for RSAA25</a>
+
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
 You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
