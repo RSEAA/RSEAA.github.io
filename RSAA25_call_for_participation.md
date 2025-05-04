@@ -2,7 +2,7 @@
 layout: default
 title: "RSAA25: Call for Presentations, Volunteers, and Sponsors!"
 permalink: /RSAA25_call_for_participation
-navigation_weight: 2
+navigation_weight: 1
 ---
 
 We’re thrilled to announce that the **Research Software Asia Australia 2025 (RSAA25)** conference is now open for:
