@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "RSAA25: Call for Presentations, Volunteers, and Sponsors!"
-permalink: /RSAA25_call_for_participation
+permalink: /rsaa25_call_for_participation
 navigation_weight: 1
 ---
 
