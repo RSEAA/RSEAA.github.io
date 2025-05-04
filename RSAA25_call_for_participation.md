@@ -16,7 +16,7 @@ We’re thrilled to announce that the **Research Software Asia Australia 2025 (R
 🎯 **Theme:** *Connecting with Community*  
 🔗 **Website:** [https://rseaa.org](https://rseaa.org)
 
----
+
 
 ## 🎤 Call for Presentations
 
@@ -33,7 +33,7 @@ Whether you’re an experienced speaker or new to presenting, we want to hear fr
 👉 **Submit now:** [rseaa.org/call_for_presentations](https://rseaa.org/call_for_presentations)  
 📥 **[Download CFP & Volunteering Poster](http://raw.githubusercontent.com/RSEAA/RSEAA.github.io/master/posters/RSAA25-CFPV-Poster.pdf)**
 
----
+
 
 ## 🤝 Volunteer Opportunities
 
@@ -51,7 +51,7 @@ We are currently seeking:
 
 👉 **[Sign up here: Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSfjZ2i0oXcgVP5zIntzjWL3hbpGJVBUJy9bqlz85iMfzcpqfQ/viewform)**
 
----
+
 
 ## 💡 Sponsor RSAA25
 
@@ -67,7 +67,7 @@ As a sponsor, you'll:
 📥 **[Download Sponsor Poster](https://raw.githubusercontent.com/RSEAA/RSEAA.github.io/master/posters/RSAA25-Sponsor-Invitation.pdf)**  
 📧 **Contact:** [info@rseaa.org](mailto:info@rseaa.org)
 
----
+
 
 ## 📢 Please Share with Your Network
 
