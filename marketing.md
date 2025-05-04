@@ -25,3 +25,4 @@ Here is a [list of all marketing materials for #RSAA25](https://docs.google.com/
 ## Other links
 
 - [Link to our admin page](admin)
+- [RSAA25: Call for Presentations, Volunteers, and Sponsors!](rsaa25_call_for_participation)
