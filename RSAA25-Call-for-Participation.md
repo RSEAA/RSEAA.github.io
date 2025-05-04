@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Call for Presentations
-permalink: /call_for_presentations
+permalink: /RSAA25-Call-for-Participation
 navigation_weight: 1
 ---
 # 🌏 RSAA25: Call for Presentations, Volunteers, and Sponsors!
