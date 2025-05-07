@@ -12,6 +12,7 @@ This is a draft suggested schedule for the major milestones of RSAA.
 ## 48 weeks
 
 - We can setup the organising committee
+- We can let the fiscal sponsor know we are going to do RSAA this year
 
 ## 40 weeks 
 - We can review and finalise prospectus
