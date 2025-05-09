@@ -5,7 +5,7 @@ permalink: /
 navigation_weight: 1
 ---
 
-Do you feel undervalued within academia because you work on research software? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
+Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
 
 If so, you might want to join us for RSAA25, the fourth online Research Software Asia Australia Conference, from the **17th to the 19th of September 2025**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Connecting with Community"** and the hashtag will be #RSAA25.
 
@@ -19,16 +19,6 @@ Some of the other motivations for attending might include:
 - To learn about how others streamline and scale their research workflows
 - To discuss with others how they balance researcher needs with good software practices
 - To discuss with others how they make their research software easier to use
-
-
-## What is a Research Software Engineer (RSE)? 
-
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
-- researchers and academics who code,
-- generalists who bring communities together across the research and technical domains,
-- people who help train researchers to improve their code on HPC and Cloud systems, and
-- software engineers who work in the research domain. 
-
 
 ## Want to sign up for updates? 
 
@@ -60,6 +50,8 @@ You can find out more via the [link to the volunteering page](volunteering)
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
 You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
+
+<a class="rse rse-join" href="https://docs.google.com/document/u/1/d/e/2PACX-1vQqKhhg1RFix6SDZb3Bxb4HYcdEpop4BY25gGoD1jrArGrt_Fhd-rR7-StW11zzmT1PZjKzGkX0tMmJ/pub">Justification Letter to Attend RSAA25</a>
 
 ## Partner with us
 
@@ -102,6 +94,15 @@ If you feel that the conference is not matching up to the commitment of these id
 - Sanchit Ghule - Accessibility Manager
 - Harsh Kalra - Accessibility Manager
 - Rowland Mosbergen – Observer
+
+## What is a Research Software Engineer (RSE)? 
+
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
+- researchers and academics who code,
+- generalists who bring communities together across the research and technical domains,
+- people who help train researchers to improve their code on HPC and Cloud systems, and
+- software engineers who work in the research domain. 
+
 
 ## Contact Us
 If you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email.
