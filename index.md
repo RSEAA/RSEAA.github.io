@@ -20,8 +20,6 @@ Some of the other motivations for attending might include:
 - To discuss with others how they balance researcher needs with good software practices
 - To discuss with others how they make their research software easier to use
 
-<a class="rse rse-join" href="https://docs.google.com/document/u/1/d/e/2PACX-1vQqKhhg1RFix6SDZb3Bxb4HYcdEpop4BY25gGoD1jrArGrt_Fhd-rR7-StW11zzmT1PZjKzGkX0tMmJ/pub">Justification Letter to Attend RSAA25</a>
-
 ## Want to sign up for updates? 
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
@@ -52,6 +50,8 @@ You can find out more via the [link to the volunteering page](volunteering)
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
 You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
+
+<a class="rse rse-join" href="https://docs.google.com/document/u/1/d/e/2PACX-1vQqKhhg1RFix6SDZb3Bxb4HYcdEpop4BY25gGoD1jrArGrt_Fhd-rR7-StW11zzmT1PZjKzGkX0tMmJ/pub">Justification Letter to Attend RSAA25</a>
 
 ## Partner with us
 
