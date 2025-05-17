@@ -39,6 +39,14 @@ For more details, please refer to the [Call for Presentations](call_for_presenta
 
 Thank you for your interest in contributing to the Research Software Asia Australia Conference 2025 (RSAA25). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa25_author_guidelines) document.
 
+## Call for Workshops
+
+We invite proposals for workshops to be held on the first day of RSAA25 (Wednesday, 17 September 2025), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
+
+<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create">Submit Workshop for RSAA25</a>
+
+*Note: This uses the same form as the Call for Presentations. When submitting, please select the "Workshop on Day 1, 17 September" option in the submission type to ensure correct placement*
+
 ## How can I volunteer or help?
 
 You can [fill out this form to volunteer before and during the event](https://forms.gle/RpzPF21ajy9ypx8u9).
