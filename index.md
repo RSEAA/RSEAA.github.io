@@ -49,8 +49,14 @@ You can find out more via the [link to the volunteering page](volunteering)
 
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
+You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event.
+
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLScQ1Kc3JWih5-EncjqvQqTqJojtgyyul0jnWxxP6rJulN7u7Q/viewform?usp=header">Apply to be an Accessibility Fellow</a>
+
+
 You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
 
+We also have a justification letter than you can use to email your supervisor about attending RSAA25!
 <a class="rse rse-join" href="https://docs.google.com/document/u/1/d/e/2PACX-1vQqKhhg1RFix6SDZb3Bxb4HYcdEpop4BY25gGoD1jrArGrt_Fhd-rR7-StW11zzmT1PZjKzGkX0tMmJ/pub">Justification Letter to Attend RSAA25</a>
 
 ## Partner with us
@@ -79,6 +85,10 @@ You will need to provide one short paragraph to explain how you will benefit fro
 All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
 
 If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org. 
+
+You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event.
+
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLScQ1Kc3JWih5-EncjqvQqTqJojtgyyul0jnWxxP6rJulN7u7Q/viewform?usp=header">Apply to be an Accessibility Fellow</a>
 
 ## Code of Conduct
 
