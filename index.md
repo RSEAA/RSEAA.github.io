@@ -29,7 +29,7 @@ Some of the other motivations for attending might include:
 
 ## Call for Presentations
 
-We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25). This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community. 
+We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), inviting proposals for presentations to be delivered on the second day of RSAA25 (Thursday, 18 September 2025). This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community. 
 
 For more details, please refer to the [Call for Presentations](call_for_presentations) document via the Microsoft CMT platform (you will need to register).
 
