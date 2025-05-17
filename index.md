@@ -45,7 +45,7 @@ We invite proposals for workshops to be held on the first day of RSAA25 (Wednesd
 
 <a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create">Submit Workshop for RSAA25</a>
 
-*Note: This uses the same form as the Call for Presentations. When submitting, please select the "Workshop on Day 1, 17 September" option in the submission type to ensure correct placement*
+*Note: This uses the same form as the Call for Presentations. When submitting, please select the "Workshop on Day 1, 17 September" option in the submission type to ensure correct placement.*
 
 ## How can I volunteer or help?
 
