@@ -9,6 +9,10 @@ Do you want to learn what others are doing in research software in your domain a
 
 If so, you might want to join us for RSAA25, the fourth online Research Software Asia Australia Conference, from the **17th to the 19th of September 2025**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Connecting with Community"** and the hashtag will be #RSAA25.
 
+## Partners
+
+We would like to thank our Gold Partners [Australian Access Federation (AAF)](https://aaf.edu.au/), [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Silver Partner, [Society of RSE](https://society-rse.org/) for their support.
+
 ## Why would someone go to RSAA25?
 
 Some of the other motivations for attending might include:
