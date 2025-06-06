@@ -49,7 +49,7 @@ For more detailed submission requirements and formatting guidelines, please refe
 ## Submission Timeline
 
 - **CFP Opens:** April 15th, 2025
-- **Submission Deadline:** June 8th, 2025
+- **Submission Deadline:** June 22nd, 2025
 - **Notification of Acceptance:** July 31st, 2025
 
 ## Selection Criteria
