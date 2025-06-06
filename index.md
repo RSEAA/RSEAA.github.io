@@ -39,7 +39,7 @@ For more details, please refer to the [Call for Presentations](call_for_presenta
 
 ### Key Dates
 - CFP Opens: April 15th, 2025
-- Submission Deadline: June 8th, 2025
+- Submission Deadline: June 22nd, 2025
 - Notification of Acceptance: July 31st, 2025
 
 <a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create">Submit Presentation for RSAA25</a>
