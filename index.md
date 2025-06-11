@@ -28,7 +28,6 @@ Some of the other motivations for attending might include:
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
-- [Click here to follow us on Twitter](https://twitter.com/RSE_asia_austra)
 - [Click here to follow us on Mastadon](https://fediverse.au/@RSEAA)
 
 ## Call for Presentations
