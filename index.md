@@ -5,7 +5,7 @@ permalink: /
 navigation_weight: 1
 ---
 
-Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe your are the only person working on research software in your group?  
+Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe you are the only person working on research software in your group?  
 
 If so, you might want to join us for RSAA25, the fourth online Research Software Asia Australia Conference, from the **17th to the 19th of September 2025**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Connecting with Community"** and the hashtag will be #RSAA25.
 
@@ -28,7 +28,7 @@ Some of the other motivations for attending might include:
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
-- [Click here to follow us on Mastadon](https://fediverse.au/@RSEAA)
+- [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
 
 ## Call for Presentations
 
@@ -90,7 +90,7 @@ In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level a
 
 To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
 
-Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
+Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
 Eligibility for the accessibility micro-grants will be based on a similar approach.
 
