@@ -11,7 +11,7 @@ If so, you might want to join us for RSAA25, the fourth online annual Research S
 
 ## Partners
 
-We would like to thank our Gold Partners [Australian Access Federation (AAF)](https://aaf.edu.au/), [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Silver Partner, [Society of RSE](https://society-rse.org/) for their support.
+We would like to thank our Gold Partners [Australian Access Federation (AAF)](https://aaf.edu.au/), [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Silver Partners, the [Society of RSE](https://society-rse.org/) and [AURIN](https://aurin.org.au/) for their support.
 
 ## Why would someone go to RSAA25?
 
