@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for the Research Software Asia Australia Conference (RSAA25)
 baseurl: "" # the subpath of your site, e.g. /blog
 github_repo:  rseaa
-logo: RSE_AUNZ_logo.png
+logo: rseaa_logo.png
 markdown: kramdown  #github flavoured markdown
 kramdown: 
   input: GFM
