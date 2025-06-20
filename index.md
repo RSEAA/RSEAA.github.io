@@ -27,7 +27,7 @@ Some of the other motivations for attending might include:
 ## Important Dates:
  
 | Event | Opens on | Closes on | Notication of Result of Application |
-| --- | --- | --- | --- |
+| ------- | ------- | ------- | ------- |
 | Call for Proposal | April 15th, 2025 | ~~June 8th, 2025~~ ; exteded to June 22nd, 2025 | July 31st, 2025|
 | Call for Accessibility Fellowship | May 17th, 2025 | ~~June 12th, 2025~~ ; exteded to June 19th, 2025  | June 27th, 2025 |
 | Call for Micro-grants | June 22nd, 2025 | July 23rd, 2025 | August 19th, 2025  |
