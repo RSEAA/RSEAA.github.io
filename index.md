@@ -31,7 +31,7 @@ Some of the other motivations for attending might include:
 | Call for Proposal | April 15th, 2025 | ~~June 8th, 2025~~ ; exteded to June 22nd, 2025 | July 31st, 2025|
 | Call for Accessibility Fellowship | May 17th, 2025 | ~~June 12th, 2025~~ ; exteded to June 19th, 2025  | June 27th, 2025 |
 | Call for Micro-grants | June 22nd, 2025 | July 23rd, 2025 | August 19th, 2025  |
-| Call for Scholarships | July 23rd, 2025 | September 11th, 2025| August 19th, 2025 |
+| Call for Scholarships | June 22nd, 2025 | September 11th, 2025| August 19th, 2025 |
 | Call for Volunteer (Co-Program Managers, Reviewer, Session Chair) | May 4th 2025 | Not Applicable | Communicated on a rolling basis |
 | Event Registration (Early Bird, Scholarship, and Micro-grant) | July 23rd, 2025 | August 20th, 2025 | Not Applicable |
 | Event Registration (Standard) | August 21st, 2025 | September 11th, 2025 | Not Applicable |
