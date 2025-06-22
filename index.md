@@ -71,7 +71,9 @@ We invite proposals for workshops to be held on the first day of RSAA25 (Wednesd
 
 Here's a recording of the [Ask Me Anything](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FRSAA25%20and%20Internship%20AskMeAnything%2D20250612%5F130547%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb6d683e2%2D8213%2D4f81%2Db023%2D9b4086d2cc6f) session we had on 12th June 2025 to address queries.
 
-<img src="AMA.png" alt="RSAA25 and Internship Ask Me Anything">
+<div>
+<img src="assets/AMA.png" alt="RSAA25 and Internship Ask Me Anything">
+</div> 
 
 ## How can I volunteer or help?
 
