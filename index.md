@@ -85,9 +85,7 @@ You can find out more via the [link to the volunteering page](volunteering)
 
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
-You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event.
-
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLScQ1Kc3JWih5-EncjqvQqTqJojtgyyul0jnWxxP6rJulN7u7Q/viewform?usp=header">Apply to be an Accessibility Fellow</a>
+You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event. This has now been closed.
 
 
 You can also add this [Slide for a presentation targeting individuals](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub) to your next presentation to raise awareness of RSAA25.
@@ -110,6 +108,8 @@ In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level a
 
 To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
 
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSfN3rFvvGeleLwCcM3A1H5i_Nd3qEdCMJupVqwE1xTT9UqxsQ/viewform">Apply for Scholarship and Micro-grant</a>
+
 Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
 Eligibility for the accessibility micro-grants will be based on a similar approach.
@@ -122,9 +122,7 @@ All successful recipients of scholarships and accessible micro-grants are expect
 
 If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org. 
 
-You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event.
-
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLScQ1Kc3JWih5-EncjqvQqTqJojtgyyul0jnWxxP6rJulN7u7Q/viewform?usp=header">Apply to be an Accessibility Fellow</a>
+You can also apply to be an Accessibility Fellow. The RSAA25 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA25. Their involvement will help ensure we are held accountable for the accessibility of this online event. This has now been closed.
 
 ## Code of Conduct
 
