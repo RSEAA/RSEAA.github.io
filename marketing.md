@@ -9,7 +9,7 @@ Here is a [list of all marketing materials for #RSAA25](https://docs.google.com/
 
 ## Hashtags to use
 
-#RSE #RSEng #ResearchSoftware #Research #ResearchSoftwareEngineer
+#RSE #RSEng #ResearchSoftware #Research #ResearchSoftwareEngineer #RSAA25
 
 ## Logo square
 
