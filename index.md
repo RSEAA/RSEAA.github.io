@@ -77,11 +77,11 @@ Here's a recording of the [Ask Me Anything](https://wehieduau-my.sharepoint.com/
 
 ## How can I volunteer or help?
 
-You can [fill out this form to volunteer before and during the event](https://forms.gle/RpzPF21ajy9ypx8u9).
+You can [fill out this form to volunteer before and during the event](https://forms.gle/4epQcsMfXqDTqoAg6).
 
 You can find out more via the [link to the volunteering page](volunteering)
 
-<a class="rse rse-join" href="https://forms.gle/RpzPF21ajy9ypx8u9">Volunteer for RSAA25</a>
+<a class="rse rse-join" href="https://forms.gle/4epQcsMfXqDTqoAg6">Volunteer for RSAA25</a>
 
 You can share the [prospectus link for RSAA25 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
 
