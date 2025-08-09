@@ -5,8 +5,6 @@ permalink: /rsaa25_program_draft
 navigation_weight: 1
 ---
 
-# RSAA Conference Program
-
 ## Day 1 – Wednesday 17 September
 ### 📍 Workshops | 🕛 12:30–17:00
 
@@ -22,6 +20,8 @@ navigation_weight: 1
 | 15:50–16:50 | 60 min | Parallel Workshops:<br>• Quick Tips for Making Your Software Outlive Your Job<br>• Metavaluation: A Participatory Experiment | Richard Littauer<br><br>Cooper Smout | Workshop |
 | 16:50–16:55 | 5 min | Break | — | Break |
 | 16:55–17:05 | 10 min | Conference Day 1 Closing | RSAA Organisers | Closing |
+
+
 
 ---
 
@@ -89,6 +89,8 @@ navigation_weight: 1
 | Time | Title | Presenter(s) |
 |------|-------|--------------|
 | 16:35–16:40 | Closing | RSAA Organisers |
+
+
 
 ---
 
