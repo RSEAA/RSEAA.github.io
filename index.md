@@ -38,6 +38,10 @@ Some of the other motivations for attending might include:
 
 <a class="rse rse-join" href="https://events.humanitix.com/rsaa25">Register to Attend RSAA25</a>
 
+
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSfN3rFvvGeleLwCcM3A1H5i_Nd3qEdCMJupVqwE1xTT9UqxsQ/viewform">Apply for Scholarship and Micro-grant</a>
+
+
 ## Want to sign up for updates? 
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
