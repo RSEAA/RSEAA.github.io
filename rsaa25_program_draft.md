@@ -21,7 +21,7 @@ navigation_weight: 1
 | 16:50–16:55 | 5 min | Break | — | Break |
 | 16:55–17:05 | 10 min | Conference Day 1 Closing | RSAA Organisers | Closing |
 
-
+<br/><br/>
 
 ---
 
@@ -91,6 +91,7 @@ navigation_weight: 1
 | 16:35–16:40 | Closing | RSAA Organisers |
 
 
+<br/><br/>
 
 ---
 
