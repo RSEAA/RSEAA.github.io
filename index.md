@@ -36,6 +36,8 @@ Some of the other motivations for attending might include:
 | Event Registration (Early Bird, Scholarship, and Micro-grant) | July 23rd, 2025 | August 20th, 2025 | Not Applicable |
 | Event Registration (Standard) | August 21st, 2025 | September 11th, 2025 | Not Applicable |
 
+<a class="rse rse-join" href="https://events.humanitix.com/rsaa25">Register to Attend RSAA25</a>
+
 ## Want to sign up for updates? 
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
