@@ -20,7 +20,7 @@ navigation_weight: 1
 | 14:25–14:30 | 5 min  | Break                                                                                                                         | —                                | Break    |
 | 14:30–15:30 | 60 min | [Developer’s Guide to GitHub Copilot: Supercharging Research Software Development](#developers-guide-to-github-copilot-supercharging-research-software-development) | Ayodeji Ayodele (GitHub)         | Workshop |
 | 15:30–15:35 | 5 min  | Break                                                                                                                         | —                                | Break    |
-| 15:35–16:35 | 60 min | Parallel Workshops:<br>• [Quick Tips for Making Your Software Outlive Your Job](#quick-tips-for-making-your-software-outlive-your-job)<br>• [Metavaluation: A Participatory Experiment in Valuing Diverse Contributions to RSAA](#metavaluation-a-participatory-experiment-in-valuing-diverse-contributions-to-rsaa) | Richard Littauer<br>Cooper Smout  | Workshop |
+| 15:35–16:35 | 60 min | Parallel Workshops:<br>• [Quick Tips for Making Your Software Outlive Your Job](#quick-tips-for-making-your-software-outlive-your-job)<br>• [Metavaluation: A Participatory Experiment in Valuing Diverse Contributions to RSAA](#metavaluation-a-participatory-experiment-in-valuing-diverse-contributions-to-rsaa) | Richard Littauer<br><br>Cooper Smout  | Workshop |
 | 16:35–16:45 | 10 min | Conference Day 1 Closing                                                                                                      | RSAA Organisers                  | Closing  |
 
 <br/><br/>
@@ -237,7 +237,7 @@ Kerri Wait, Independent
 For more information, visit https://tinyurl.com/whpcaunz.
 
 
-**Author names:** Makar, Jana*
+**Author names:** Makar, Jana
 
 ---
 
@@ -272,7 +272,7 @@ This poster presents the model that was used for organising this Global South fo
 **Bio:** Jyoti Bhogal is a trained statistician, community builder, and Research Software Engineering (RSE) advocate with a strong foundation in data and open science. A first-generation STEM graduate, Jyoti’s academic journey—from earning multiple merit-based scholarships to completing a Master’s in Statistics—laid the groundwork for her career in research and software. Her curiosity for open-source tools led her to the R community, and eventually into global RSE movements. 
 ​​As the Co-Lead of the RSE Asia Association, she has played a pioneering role in amplifying the voices and visibility of RSEs in the Asian region. Over the past four years, Jyoti has led numerous community events, cross-continental collaborations, and research studies, including her 2025 SSI Fellowship. Her work reflects a rare blend of technical expertise and empathetic community engagement, consistently advocating for equitable, inclusive, and collaborative research ecosystems in low- and middle-income countries.
 
-**Author names:** Bhogal, Jyoti*
+**Author names:** Bhogal, Jyoti
 
 ---
 
@@ -305,7 +305,7 @@ Important links:
 **Bio:** Jyoti Bhogal is a trained statistician, community builder, and Research Software Engineering (RSE) advocate with a strong foundation in data and open science. A first-generation STEM graduate, Jyoti’s academic journey—from earning multiple merit-based scholarships to completing a Master’s in Statistics—laid the groundwork for her career in research and software. Her curiosity for open-source tools led her to the R community, and eventually into global RSE movements. 
 ​​As the Co-Lead of the RSE Asia Association, she has played a pioneering role in amplifying the voices and visibility of RSEs in the Asian region. Over the past four years, Jyoti has led numerous community events, cross-continental collaborations, and research studies, including her 2025 SSI Fellowship. Her work reflects a rare blend of technical expertise and empathetic community engagement, consistently advocating for equitable, inclusive, and collaborative research ecosystems in low- and middle-income countries.
 
-**Author names:** Bhogal, Jyoti*
+**Author names:** Bhogal, Jyoti
 
 ---
 
@@ -327,11 +327,11 @@ This talk will highlight our strategy in using containers to:
 
 **Presenter Name:** Mr. Julian Giordani
 
-**Bio:** ulian Giordani is a Research Software Engineer at the University of Sydney in the School of Geosciences.
+**Bio:** Julian Giordani is a Research Software Engineer at the University of Sydney in the School of Geosciences.
 Julian is funded by AuScope, to maintain and develop numerical models used by the Geodynamic modelling community. He has been a long time contributor to Underworld, a Geodynamic framework for modelling lithospheric deformation and mantle convection, using FEM+PIC. He works at the nexus of software engineering, numerical modelling and Geodynamics and loves it.
 
 
-**Author names:** Giordani, Julian*; Moresi, Louis
+**Author names:** Giordani, Julian; Moresi, Louis
 
 ---
 
@@ -348,7 +348,7 @@ Julian is funded by AuScope, to maintain and develop numerical models used by th
 
 He also was the ED for GNOME, and he runs SustainOSS and CURIOSS, among other things. 
 
-**Author names:** Littauer, Richard*
+**Author names:** Littauer, Richard
 
 ---
 
@@ -400,7 +400,7 @@ sity of Birmingham) and Prof. Tiju Thomas (Materials, IITM) on
 making next generation, audio-tactile graphics available on large
 
 
-**Author names:** Ghule, Sanchit*; Sorge, Volker ; Thomas, Tiju 
+**Author names:** Ghule, Sanchit; Sorge, Volker ; Thomas, Tiju 
 
 ---
 
@@ -429,7 +429,7 @@ Over his career he has delivered over $230 million of value in business improvem
  
 Rowland founded Practical Diversity and Inclusion, a website that extends best practice in Diversity, Equity, and Inclusion (DEI). He has underpinned DEI in team building, international recruitment, establishment of governance processes, student internship programs, panels and conferences, keynotes, and community fundraising. 
 
-**Author names:** Mosbergen, Rowland*
+**Author names:** Mosbergen, Rowland
 
 ---
 
@@ -449,7 +449,7 @@ This talk will provide a brief overview of the Rust programming language, with a
 **Bio:** Emily is a research software engineer at the Pawsey Supercomputing Research Centre in Australlia. She develops and maintains software for molecular simulation, with a specific focus on GPU-accelerated computing and machine learning methods in quantum chemistry. She has extensive experience developing and supporting software for computational chemistry and molecular modeling and has contributed to multiple open-source molecular dynamics projects.
 Emily is also an advocate for open-source software in computational science, and the code she has developed for atomic and molecular simulation has seen widespread use by Australian and international researchers. Prior to joining Pawsey, Emily completed her PhD in physics at the University of New South Wales and worked as a research software engineer at the University of Queensland.
 
-**Author names:** Kahl, Emily*
+**Author names:** Kahl, Emily
 
 ---
 
@@ -470,7 +470,7 @@ But it doesn’t have to be this way. Agile software development has matured and
 
 **Bio:** Nick has been a software professional for more than 30 years. Starting in testing and moving on to running his own cloud software consultancy he now works at the ARDC as their Software Specialist. He helps ARDC partners and research institutions to build better digital research infrastructure through software and promotes the profile of research software engineering in Australia.
 
-**Author names:** Jenkins, Nick*
+**Author names:** Jenkins, Nick
 
 ---
 
@@ -485,7 +485,7 @@ But it doesn’t have to be this way. Agile software development has matured and
 
 **Bio:** Michal Racyn is a postdoc researcher at Masaryk University focused on the development and transformation of Eurasianism during the Cold War. His current research is based on the advanced digital analysis of archival documents located in Prague (Slavonic Library), Saint Petersburg (Anna Akhmatova Museum), and New York (Bakhmeteff Archive). His first monograph and up-to-date articles deal with the reception of Eurasianist historiographic and historiosophic concepts in the Soviet academia and Russian nationalist milieu between the late 1950s and early 1990s.
 
-**Author names:** Racyn, Michal*
+**Author names:** Racyn, Michal
 
 ---
 
@@ -510,7 +510,7 @@ Sunchuangyu Huang
 
 **Bio:** University of Melbourne Graduate Students working on the Genomics Metadata Multiplexing (GMM) project at the Walter and Eliza Hall Institute of Medical Research. As part of a collaborative student intake program, we've been developing solutions to automate and streamline FACS file processing workflows. Our work focuses on migrating legacy code, improving user interfaces, and building robust testing frameworks while working within real-world technical constraints and user requirements.
 
-**Author names:** Huang, Sunchuangyu Huang*; Data, Jude; Zeng, Sijia
+**Author names:** Huang, Sunchuangyu Huang; Data, Jude; Zeng, Sijia
 
 ---
 
@@ -531,7 +531,7 @@ As computational research continues to increase in scale, integrating CI with HP
 
 **Bio:** Ignatius Menzies is a software engineer at the Garvan Institute of Medical Research. Prior to this he has worked as Reproducible Research Lead at a data science agency; as a software engineer at Datacom, and as a data scientist at the New Zealand Ministry for the Environment. He has a PhD in Ecology and Evolution from Victoria University of Wellington (NZ)
 
-**Author names:** Menzies, Ignatius*
+**Author names:** Menzies, Ignatius
 
 ---
 
@@ -549,7 +549,7 @@ This talk will highlight how these tools and communities reflect the FAIR princi
 
 **Bio:** Christopher is an Education Engineer at Seqera, where he supports researchers in adopting reproducible and scalable data analysis practices. With a background in bioinformatics and a passion for open science, he focuses on creating educational resources that empower the global scientific community to use tools like Nextflow and nf-core effectively.
 
-**Author names:** Hakkaart, Christopher*
+**Author names:** Hakkaart, Christopher
 
 ---
 
@@ -566,7 +566,7 @@ Adopting a socio-technical approach to information, communication and technology
 
 **Bio:** Dr. Batangan, a distinguished  senior faculty member and research scientist at Ateneo de Manila University. He holds positions within the School of Social Sciences, School of Government, Ricardo Leong Institute for Global and Area Studies and Institute of Philippine Culture. With degrees in psychology and medicine from the University of the Philippines, he furthered his studies with a post-graduate course in Community Health for Developing Countries at the University of Heidelberg, Germany. Dr. Batangan's career is marked by transformative contributions to community and public health. He co-founded the Community Medicine Development Foundation, Inc (COMMED), pioneering social innovations. His research on the eHATID Local Government Unit (LGU) system , Smarter and Integrated Local Health Information Systems (SMILHIS), Traditional Medicine as Incipient Technologies and the 'eTSI NOVuS' project showcased his prowess, receiving prestigious nominations and medals for their impact. 
 
-**Author names:** Batangan, Dennis*
+**Author names:** Batangan, Dennis
 
 ---
 
@@ -592,7 +592,7 @@ Peter brings his experience in team/capability management, project management, a
 He also has more than 20 years of software engineering experience across multiple domains, including Digital Agriculture, Energy, Food and Nutritional Sciences, Health, Marine Sensing, Robotics, and Visual Analytics, in research and innovation environments.
 
 
-**Author names:** Marendy, Peter*
+**Author names:** Marendy, Peter
 
 ---
 
@@ -609,7 +609,7 @@ The library is inspired by the need of the Australian Synchrotron during the com
 
 **Bio:** Clinton is an Open Source software engineer who has made a career around supporting researchers.
 
-**Author names:** Roy, Clinton*
+**Author names:** Roy, Clinton
 
 ---
 
@@ -636,7 +636,7 @@ By embedding biocuration into everyday research practices, this approach fosters
 
 Through this presentation, I hope to contribute to community-driven improvements in research software and data management practices. My learning path is focused on developing scalable infrastructure and collaborative frameworks for long-term data sustainability in healthcare research.
 
-**Author names:** Patel, Sakshi*
+**Author names:** Patel, Sakshi
 
 ---
 
@@ -652,7 +652,7 @@ Peter Sefton
 
 **Bio:** James Smithies is Professor of Digital Humanities and Director of the HASS Digital Research Hub at the Australian National University. Peter Sefton is Principal Research Fellow in the School of Languages and Cultures at the University of Queensland.
 
-**Author names:** Smithies, James*; Sefton, Peter; Jenkins, Nick 
+**Author names:** Smithies, James; Sefton, Peter; Jenkins, Nick 
 
 ---
 
@@ -681,7 +681,7 @@ Laura has previous experience as a developer advocate and as a math lecturer at 
 
 In her free time, Laura enjoys recreational research, knitting, and optimizing all the things.
 
-**Author names:** Langdon, Laura*
+**Author names:** Langdon, Laura
 
 ---
 
@@ -703,7 +703,7 @@ Rob Moss
 **Bio:** Dr Saras Windecker is a Senior Research Officer at The Kids Research Institute Australia working in infectious disease modelling and software development. Dr Rob Moss is a Senior Research Fellow in the Infectious Disease Dynamics Unit at the Melbourne School of Population and Global Health, The University of Melbourne with a focus on the development and application of high-performance computational modelling methods for predicting and mitigating the burden of seasonal and pandemic influenza. 
 Drs Windecker and Moss are both members of the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics (ACEFA), which aims to support timely and effective responses to epidemic diseases in Australia and New Zealand. They are both actively involved in the open research community and interested in promoting reproducible research practices. 
 
-**Author names:** Windecker, Saras*; Moss, Rob
+**Author names:** Windecker, Saras; Moss, Rob
 
 ---
 
@@ -740,7 +740,7 @@ I reflect on what made this project successful —clear communication across dis
 
 Farrah led efforts to integrate Cryo-EM software into onBunya, streamline data workflows, and train structural biology users across UQ. Her work bridges the gap between experimental biology and computational infrastructure, aiming to reduce barriers of entry and accelerate scientific discovery. She is committed to championing user-friendly HPC solutions, cross-disciplinary collaboration, and open-access tools. 
 
-**Author names:** Blades, Farrah *
+**Author names:** Blades, Farrah 
 
 ---
 
@@ -763,7 +763,7 @@ This presentation will show how thoughtful software design and community engagem
 
 **Bio:** Sam Rogers is a Biometrician and Research Software Engineer at the University of Adelaide Biometry Hub where he writes R packages and web apps, especially in support of agricultural research. Sam is a RStudio certified instructor and teaches regular professional development workshops on experimental design and analysis using R. Sam also provides statistical consulting to researchers and students, and is passionate about statistical computing and helping people make the most out of their data.
 
-**Author names:** Rogers, Sam*; Conway, Annie; Nielsen, Sharon; Edson, Russell; Gogel, Beverley; Kravchuk, Olena
+**Author names:** Rogers, Sam; Conway, Annie; Nielsen, Sharon; Edson, Russell; Gogel, Beverley; Kravchuk, Olena
 
 ---
 
@@ -778,7 +778,7 @@ This presentation will show how thoughtful software design and community engagem
 
 **Bio:** An astronomer and numerical simulator by training, I conducted cosmological research in a high-performance computing (HPC) environment for 10 years as an Australian postdoctoral researcher before joining Astronomy Data and Computing Services (ADACS) as a senior developer in 2017.  Presently I am the program manager of the Swinburne ADACS node, helping to manage the activities of ~15 research software engineers and software professionals.
 
-**Author names:** Poole, Gregory*
+**Author names:** Poole, Gregory
 
 ---
 
@@ -793,7 +793,7 @@ This presentation will show how thoughtful software design and community engagem
 
 **Bio:** I'm a research software engineer for the land surface modelling team at ACCESS-NRI. I specialise in developing parallelised numerical models for high performance computing applications and am currently a developer for the CABLE land surface model. 
 
-**Author names:** Bryan, Sean*
+**Author names:** Bryan, Sean
 
 ---
 
@@ -814,7 +814,7 @@ By connecting researchers, tools, and best practices, this project demonstrated 
 
 **Bio:** Paola has a PhD in Atmospheric Science from the University of Buenos Aires. During her PhD, Paola applied data assimilation techniques to improve the representation of mesoscale convective systems and associated precipitation. In particular, her research focused on data assimilation of conventional observations and radiances from polar and geostationary satellites. She has experience working with Numerical Weather Prediction models and developing software using R and Fortran. She is also part of R-Lades rOpenSci and The Carpentries and is interested in open source, open science and reproducibility. She recently joined the ARC Centre of Excellence for the Weather of the 21st Century as part of the Research Software Engineer Team. 
 
-**Author names:** Corrales, Paola*
+**Author names:** Corrales, Paola
 
 ---
 
@@ -839,7 +839,7 @@ He currently works at the Structural Biology Facility at UNSW, where he runs cal
 
 Keiran is most driven by the exquisite mechanistic insight offered by atomic-level modelling and data reconstruction. He ardently believes these tools should be made accessible to the domain experts who pioneer meaningful scientific discovery.
 
-**Author names:** Rowell, Keiran*
+**Author names:** Rowell, Keiran
 
 ---
 
@@ -854,7 +854,7 @@ Keiran is most driven by the exquisite mechanistic insight offered by atomic-lev
 
 **Bio:** Asher Leslie is a Software Engineer and UX Designer at Astronomy Data and Computing Services (ADACS), where he helps the Australian astronomical community turn big ideas into usable research tools. With over a decade of experience developing research software, Asher has designed and built everything from psychology platforms to astrophysics web applications. As a certified UX Designer (Nielsen Norman Group), he leads the UX charge at ADACS, championing user-centred and accessible design. Asher is passionate about asking the tough questions, talking to real users, and making sure the right thing gets built.
 
-**Author names:** Leslie, Asher*
+**Author names:** Leslie, Asher
 
 ---
 
@@ -875,7 +875,7 @@ Finally, we’ll present a new dataset created the previous day during a live wo
 
 **Bio:** Dr. Cooper Smout is a designer, neuroscientist, and open science entrepreneur working at the intersection of collective intelligence, participatory governance, and cultural change. With a background in architecture and a PhD in the neuroscience of consciousness, he left academia to found Free Our Knowledge, a collective action platform for open research, and Open Heart + Mind (OHM), a nonprofit organisation developing open-source tools to empower communities. His current work focuses on Metavaluation, a participatory evaluation framework that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
 
-**Author names:** Smout, Cooper*
+**Author names:** Smout, Cooper
 
 ---
 
@@ -896,7 +896,7 @@ Paige has a PhD in Physical Oceanography from the University of Michigan, and di
 
 Outside of work, Paige enjoys handstands, doing partner acrobatics and aerial arts, performing in musical theater, birding, and spending time with family.
 
-**Author names:** Martin, Paige*; Druken, Kelsey; Nettelbeck, Heidi
+**Author names:** Martin, Paige; Druken, Kelsey; Nettelbeck, Heidi
 
 ---
 
@@ -921,7 +921,7 @@ By aligning technical capability with real researcher needs, REDMANE demonstrate
 
 **Bio:** Rowland has 25 years of experience as a generalist in highly complex environments in the not-for-profit, private, and research sectors and has been a Research Software Engineer since 2010.
 
-**Author names:** Mosbergen, Rowland*
+**Author names:** Mosbergen, Rowland
 
 ---
 
@@ -943,7 +943,7 @@ This presentation will explore how generative AI is being integrated across a ra
 
 **Bio:** Ian McCrabb is the founder and managing director of Systemik (systemiksolutions.com), a Sydney based IT consulting group focused on open-source digital humanities platforms and research sites.  Systemik is an innovative Consulting Group and Digital Humanities Lab.  We design, develop, implement and support research solutions for humanities projects: open-source platforms, infrastructure integration, APIs, and website content management.  Ian completed his MA in Sanskrit and Buddhist Studies at the University of Sydney in 2010.  His 2021 PhD dissertation 'Buddha Bodies and the Benefits of Relic Establishment: Insights from a Digital Framework for the Analysis of Formulaic Sequences in Gāndhārī Relic Inscriptions' continued his focus on methodologies for the analysis of donative inscriptions and characterization of the ritual practices and religious significance of relic establishment in Gandhāra.
 
-**Author names:** MCCRABB, Ian*
+**Author names:** MCCRABB, Ian
 
 ---
 
@@ -958,7 +958,7 @@ This presentation will explore how generative AI is being integrated across a ra
 
 **Bio:** Muhammad Umer Altaf is a Principal Software Engineer and Infrastructure Lead at AURIN, where he leads the design of scalable, resilient platforms for urban research. With over a decade of experience, Umer has worked with numerous Australian organizations across research, academia, and defence. He is deeply passionate about distributed systems and thrives on building robust, cloud-native architectures that support high-performance data workflows. His work focuses on enabling open, interoperable platforms that power data-driven discovery and innovation at scale.
 
-**Author names:** Altaf, Muhammad Umer*
+**Author names:** Altaf, Muhammad Umer
 
 ---
 
@@ -1000,7 +1000,7 @@ IBM Research Australia.  His research interests span Machine Learning,
 bioinformatics, privacy, and reproducible research.
 
 
-**Author names:** Bedo, Justin*
+**Author names:** Bedo, Justin
 
 ---
 
@@ -1017,7 +1017,7 @@ Traefik, an open-source reverse proxy and ingress controller, offers an effectiv
 
 **Bio:** German González is a data scientist at the Australian Urban Research Infrastructure Network (AURIN). He holds degrees in History and Economics, as well as master’s degrees in economics and data science. Extensive knowledge in geospatial analysis, econometrics, time series, research, and teaching. He has eight years of experience in consultancy and has participated in several projects supporting researchers in Australia. He has been collaborating with different universities in Australia in the Integrated Research Infrastructure for Social Science (IRISS) project. Likewise, he was a research associate at UNSW Sydney and a research assistant at the Centre of Studies of Economic Development (Colombia).
 
-**Author names:** Gonzalez Gonzalez, German*
+**Author names:** Gonzalez Gonzalez, German
 
 ---
 
@@ -1036,7 +1036,7 @@ The AURIN Data Provider (ADP), launched in July 2022, was the first of these new
 
 **Bio:** Dr Loren Bruns Jr is the Head of Engineering at the Australian Urban Research Infrastructure Network (AURIN), a facility providing national-scale digital research infrastructure for Australia’s urban research community. He leads a team of research infrastructure specialists that work to provide urban researchers with access to an ecosystem of modular, cloud-first data and analytics services. Prior to joining AURIN, Loren completed a PhD in Astrophysics from the University of Melbourne and spent a decade as a full-stack research software engineer before transitioning to national research infrastructure.
 
-**Author names:** Bruns Jr, Loren*
+**Author names:** Bruns Jr, Loren
 
 ---
 
@@ -1053,7 +1053,7 @@ In this talk, I will tell the story of how I became a father in lockdown, how it
 
 **Bio:** Dr Mike Simpson is an RSE at Newcastle University in the UK and an active member of the RSE Community, currently serving as Trustee and Vice-President of the UK Society of RSE. He is a 2025 Fellow of the Software Sustainability Institute, hoping to continue the conversation around mental health in our community.
 
-**Author names:** Simpson, Mike*
+**Author names:** Simpson, Mike
 
 ---
 
@@ -1099,7 +1099,7 @@ Keywords: AI, Telugu, Metrical System, Machine Verification, Machine Identificat
 
 **Bio:** Post Doc at UNISA-South Africa
 
-**Author names:** Thottempudi, Sree Ganesh*; Mnkandla, Ernest
+**Author names:** Thottempudi, Sree Ganesh; Mnkandla, Ernest
 
 ---
 
@@ -1116,7 +1116,7 @@ The package provides vectorised distributions through a collection of small, com
 
 **Bio:** Mitchell O'Hara-Wild (he/him) is a PhD candidate at Monash University, creating new techniques and tools for exploring and forecasting time series. He is the lead developer of the tidy time-series forecasting tools fable and feasts, and has co-developed the widely used forecast package since 2015. Mitchell is known for his user-friendly designs for statistical software, and he has recently been applying these design ideas to create vectorised data structures of distributions and time using vctrs.
 
-**Author names:** O'Hara-Wild, Mitchell*
+**Author names:** O'Hara-Wild, Mitchell
 
 ---
 
@@ -1139,7 +1139,7 @@ No prior experience with OAuth or OpenID Connect is assumed: the session aims to
 
 In my professional life, I love people, and simple solutions to complex problems. In my personal life, I am animated by faith and family, and am kept very, very busy by three young daughters.
 
-**Author names:** Puku, Matthew*
+**Author names:** Puku, Matthew
 
 ---
 
@@ -1156,7 +1156,7 @@ In my professional life, I love people, and simple solutions to complex problems
 
 He is also an organizer for SustainOSS, and has recorded hundreds of podcasts on open source sustainability there. He is one of the two organizers of CURIOSS, the community for university and research institution open source program offices. He has been interested and involved in open source communities for decades.
 
-**Author names:** Littauer, Richard*
+**Author names:** Littauer, Richard
 
 ---
 
@@ -1175,7 +1175,7 @@ The resulting data will be presented during a 15-minute talk the following day, 
 
 **Bio:** Dr. Cooper Smout is a designer, neuroscientist, and open science entrepreneur working at the intersection of collective intelligence, participatory governance, and cultural change. With a background in architecture and a PhD in the neuroscience of consciousness, he left academia to found Free Our Knowledge, a collective action platform for open research, and Open Heart + Mind (OHM), a nonprofit organisation developing open-source tools to empower communities. His current work focuses on Metavaluation, a participatory evaluation framework that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
 
-**Author names:** Smout, Cooper*
+**Author names:** Smout, Cooper
 
 ---
 
