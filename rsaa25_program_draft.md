@@ -90,7 +90,7 @@ navigation_weight: 1
 
 ---
 
-### 🔀 Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:35
+### 🔀 Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:25
 
 | **Block 5: Skills, Training & Digital Accessibility**                                                   | **Block 6: 10-minute Demos**                                                  | **Block 7: 5-minute Lightning Talks**                                     |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
