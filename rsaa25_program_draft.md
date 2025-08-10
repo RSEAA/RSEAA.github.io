@@ -25,7 +25,7 @@ navigation_weight: 1
 
 ## 🟧 Day 2 – Thursday 18 September
 
-📍 **Keynote & Talks** | 🕛 12:30–16:40
+📍 **Keynote & Talks** | 🕛 12:30–16:45
 
 | Time        | Length | Session Title                                                                                           | Presenter(s)    | Type    |
 | ----------- | ------ | ------------------------------------------------------------------------------------------------------- | --------------- | ------- |
@@ -64,13 +64,13 @@ navigation_weight: 1
 
 | Time        | Title   | Presenter(s)    |
 | ----------- | ------- | --------------- |
-| 16:35–16:40 | Closing | RSAA Organisers |
+| 16:35–16:45 | Closing | RSAA Organisers |
 
 ---
 
 ## 🟧 Day 3 – Friday 19 September
 
-📍 **Flexible Format, BoF & Talks** | 🕛 12:30–16:30
+📍 **Flexible Format, BoF & Talks** | 🕛 12:30–16:35
 
 | Time        | Length | Session Title                 | Presenter(s)          | Type  |
 | ----------- | ------ | ----------------------------- | --------------------- | ----- |
@@ -86,7 +86,7 @@ navigation_weight: 1
 
 ---
 
-### 🔀 Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:25
+### 🔀 Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:35
 
 | **Block 5: Skills, Training & Digital Accessibility**                                                   | **Block 6: 10-minute Demos**                                                  | **Block 7: 5-minute Lightning Talks**                                     |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -104,10 +104,8 @@ navigation_weight: 1
 
 | Time        | Title   | Presenter(s)    |
 | ----------- | ------- | --------------- |
-| 16:25–16:30 | Closing | RSAA Organisers |
+| 16:25–16:35 | Closing | RSAA Organisers |
 
-| Time        | Title   | Presenter(s)    |
-| ----------- | ------- | --------------- |
-| 16:25–16:30 | Closing | RSAA Organisers |
+
 
 
