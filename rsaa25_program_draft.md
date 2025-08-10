@@ -22,6 +22,7 @@ navigation_weight: 1
 | 15:30–15:35 | 5 min  | Break                                                                                                                         | —                                | Break    |
 | 15:35–16:35 | 60 min | Parallel Workshops:<br>• [Quick Tips for Making Your Software Outlive Your Job](#quick-tips-for-making-your-software-outlive-your-job)<br>• [Metavaluation: A Participatory Experiment in Valuing Diverse Contributions to RSAA](#metavaluation-a-participatory-experiment-in-valuing-diverse-contributions-to-rsaa) | Richard Littauer<br>Cooper Smout  | Workshop |
 | 16:35–16:45 | 10 min | Conference Day 1 Closing                                                                                                      | RSAA Organisers                  | Closing  |
+
 <br/><br/>
 ---
 
