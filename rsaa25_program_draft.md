@@ -647,8 +647,7 @@ Through this presentation, I hope to contribute to community-driven improvements
 
 **Abstract:** The Humanities, Arts, Social Sciences (HASS) & Indigenous research community faces a shortage of Research Software Engineering (RSE) expertise, leading to fragmented and inconsistent software development practices. While great progress has been made by individuals in the sector, dissemination of tools and techniques is poor, leading to inconsistent maturity and approaches across disciplines and research efforts. This paper will describe an initiative that aims to resolve that situation through the development of architectural principles, a technology roadmap, and the publication of recommended patterns. The initiative is not only aimed at RSEs, but also researchers in HASS & Indigenous fields who utilise custom developed software based data collection, processing, storage, analysis and/or publishing methods, ‘Researchers-who-code’, and GLAM sector technical managers and staff. The outputs will be developed in consultation with a wide variety of projects to ensure grassroots involvement, and made freely available online. Our goal is to help people involved in digital HASS research produce more innovative, reproducible, secure and sustainable outputs. By presenting our work at RSEAA we hope to elicit input from RSEs from a wide variety of disciplines and start a conversation about how to design, build, and maintain community assets of this kind.
 
-**Presenter Name:** James Smithies
-Peter Sefton
+**Presenter Name:** James Smithies, Peter Sefton
 
 **Bio:** James Smithies is Professor of Digital Humanities and Director of the HASS Digital Research Hub at the Australian National University. Peter Sefton is Principal Research Fellow in the School of Languages and Cultures at the University of Queensland.
 
