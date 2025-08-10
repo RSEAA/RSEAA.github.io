@@ -504,9 +504,7 @@ Key insights include: working within deployment constraints rather than fighting
 
 This presentation is aimed at fellow students, early-career RSEs, and anyone working on research software projects with limited resources.
 
-**Presenter Name:** Sijia Zeng
-Jude Thaddeau Data
-Sunchuangyu Huang
+**Presenter Name:** Sijia Zeng, Jude Thaddeau Data, Sunchuangyu Huang
 
 **Bio:** University of Melbourne Graduate Students working on the Genomics Metadata Multiplexing (GMM) project at the Walter and Eliza Hall Institute of Medical Research. As part of a collaborative student intake program, we've been developing solutions to automate and streamline FACS file processing workflows. Our work focuses on migrating legacy code, improving user interfaces, and building robust testing frameworks while working within real-world technical constraints and user requirements.
 
