@@ -721,7 +721,7 @@ In this talk I will give a general overview of the infrastructure underpinning t
 
 **Bio:** Dr Katharine (Kate) Senior is a postdoctoral researcher at The Kids Research Institute Australia. Her research focuses on building models and software for epidemic situational assessment, preparedness and forecasting. She is the Data Lead of the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics (ACEFA) and during the COVID-19 pandemic worked with a group of researchers to present weekly models and reports of current infection trends to the Australian government. 
 
-**Author names:** Senior, Katharine*; Windecker, Saras; Tobin, Ruarai; Moss, Rob; Shearer, Freya
+**Author names:** Senior, Katharine; Windecker, Saras; Tobin, Ruarai; Moss, Rob; Shearer, Freya
 
 ---
 
