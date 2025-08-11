@@ -224,13 +224,13 @@ This session will spotlight some of the interesting work underway by our Chapter
 **Presenter Name:** We'll have 1-2 members of the WHPC Organising Committee host the session, but can't confirm who exactly until closer to the event. 
 
 The Committee consist of: 
-Jana Makar, New Zealand eScience Infrastructure (NeSI)
-Aditi Subramanya, Pawsey Supercomputing Research Centre
-Emily Barker, University of Western Australia
-Linda McIver, Australian Data Science Education Institute
-Carina Kemp, Amazon Web Services
-Kiowa Scott-Hurley, Independent
-Kerri Wait, Independent
+Jana Makar, New Zealand eScience Infrastructure (NeSI);
+Aditi Subramanya, Pawsey Supercomputing Research Centre;
+Emily Barker, University of Western Australia;
+Linda McIver, Australian Data Science Education Institute;
+Carina Kemp, Amazon Web Services;
+Kiowa Scott-Hurley, Independent;
+Kerri Wait, Independent.
 
 **Bio:** The Australasian Chapter of the global organisation Women in High Performance Computing (WHPC) was launched in 2019. The founding organisations are New Zealand eScience Infrastructure (NeSI), NCI Australia, Pawsey Supercomputing Research Centre, Monash University, and Australasian eResearch Organisations (AeRO). Today, the Chapter supports an active Slack community, regular BoFs at conferences, online meetups, and practical resources for organisations to use for creating positive change. We welcome people from all backgrounds and perspectives beyond gender to join our Chapter. We all have a part to play in supporting diversity and inclusion.
 
@@ -393,7 +393,7 @@ ter were reading and recording his books and also making sure
 that he understands visual diagrams. With his exceptional in-
 telligence and diligence, Sanchit excelled in his STEM education.
 Further he went onto brave his way through and complete his
-B.T�ech in Materials Engineering at IITM.
+B.Tech in Materials Engineering at IITM.
 Sanchit is now pursuing a unique MS through the entrepreneur-
 ship program at IITM. He works with Prof. Volker Sorge (Univer-
 sity of Birmingham) and Prof. Tiju Thomas (Materials, IITM) on
@@ -694,8 +694,7 @@ In her free time, Laura enjoys recreational research, knitting, and optimizing a
 4. To increase exposure to, and familiarity with, code review as a means to support computational research. 
 We will conduct pre- and post- evaluation surveys to evaluate how well we address each aim, and to provide evidence for iterative improvements for future rounds of code review. We will present this initiative as a component of our community of practice, and hope to initiate a discussion with participants about its merits and dissemination of the model.
 
-**Presenter Name:** Saras Windecker
-Rob Moss
+**Presenter Name:** Saras Windecker, Rob Moss
 
 **Bio:** Dr Saras Windecker is a Senior Research Officer at The Kids Research Institute Australia working in infectious disease modelling and software development. Dr Rob Moss is a Senior Research Fellow in the Infectious Disease Dynamics Unit at the Melbourne School of Population and Global Health, The University of Melbourne with a focus on the development and application of high-performance computational modelling methods for predicting and mitigating the burden of seasonal and pandemic influenza. 
 Drs Windecker and Moss are both members of the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics (ACEFA), which aims to support timely and effective responses to epidemic diseases in Australia and New Zealand. They are both actively involved in the open research community and interested in promoting reproducible research practices. 
