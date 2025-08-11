@@ -9,7 +9,7 @@ navigation_weight: 1
 
 ## Day 1 – Wednesday 17 September
 
-### 📍 Workshops | 🕛 12:30–16:45
+### Workshops | 12:30–16:45
 
 | Time        | Length | Session Title                                                                                                                | Presenter(s)                     | Type     |
 | ----------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | -------- |
@@ -26,16 +26,16 @@ navigation_weight: 1
 <br/><br/>
 ---
 
-## 🟧 Day 2 – Thursday 18 September
+## Day 2 – Thursday 18 September
 
-📍 **Keynote & Talks** | 🕛 12:30–16:45
+**Keynote & Talks** | 12:30–16:45
 
 | Time        | Length | Session Title                                                                                           | Presenter(s)    | Type    |
 | ----------- | ------ | ------------------------------------------------------------------------------------------------------- | --------------- | ------- |
 | 12:30–13:00 | 30 min | Welcome, Introduction & Gold Partners Acknowledgement                                                   | RSAA Organisers | Intro   |
 | 13:00–13:30 | 30 min | [IQ-TREE – Software for Evolutionary Biology with Genomics Data](#iq-tree-software-for-evolutionary-biology-with-genomics-data) | Minh Bui        | Keynote |
 
-### 🔀 Parallel Sessions (Block 1 & Block 2) | 13:30–15:00
+### Parallel Sessions (Block 1 & Block 2) | 13:30–15:00
 
 | **Block 1: Sustainability & Community Building**                                                                                                                   | **Block 2: Infrastructure & Resources**                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -49,7 +49,7 @@ navigation_weight: 1
 
 ---
 
-### 🔀 Parallel Sessions (Block 3 & Block 4) | 15:00–16:35
+### Parallel Sessions (Block 3 & Block 4) | 15:00–16:35
 
 | **Block 3: Collaboration & Data Science**                                                                                                            | **Block 4: Research Applications & Governance**                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ navigation_weight: 1
 
 ---
 
-🟢 **Closing Remarks**
+**Closing Remarks**
 
 | Time        | Title   | Presenter(s)    |
 | ----------- | ------- | --------------- |
@@ -72,15 +72,15 @@ navigation_weight: 1
 <br/><br/>
 ---
 
-## 🟧 Day 3 – Friday 19 September
+## Day 3 – Friday 19 September
 
-📍 **Flexible Format, BoF & Talks** | 🕛 12:30–16:35
+**Flexible Format, BoF & Talks** | 12:30–16:35
 
 | Time        | Length | Session Title                 | Presenter(s)          | Type  |
 | ----------- | ------ | ----------------------------- | --------------------- | ----- |
 | 12:30–12:35 | 5 min  | Welcome & Introduction        | RSAA Organisers       | Intro |
 
-### 🧠 Flexible Format & BoF
+### Flexible Format & BoF
 
 | Time        | Title                                                                 | Presenter(s)                          |
 | ----------- | --------------------------------------------------------------------- | ------------------------------------ |
@@ -90,7 +90,7 @@ navigation_weight: 1
 
 ---
 
-### 🔀 Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:25
+### Parallel Sessions (Block 5, Block 6 & Block 7) | 14:45–16:25
 
 | **Block 5: Skills, Training & Digital Accessibility**                                                   | **Block 6: 10-minute Demos**                                                  | **Block 7: 5-minute Lightning Talks**                                     |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@ navigation_weight: 1
 
 ---
 
-🟢 **Closing Remarks**
+**Closing Remarks**
 
 | Time        | Title   | Presenter(s)    |
 | ----------- | ------- | --------------- |
