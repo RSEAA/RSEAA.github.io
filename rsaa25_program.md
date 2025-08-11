@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSAA25 Conference Program
-permalink: /rsaa25_program_draft
+permalink: /rsaa25_program
 navigation_weight: 1
 ---
 
