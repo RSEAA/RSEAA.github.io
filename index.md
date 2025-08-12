@@ -48,6 +48,14 @@ Some of the other motivations for attending might include:
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
 
+
+#The RSAA25 Program is Live!
+
+We’re excited to share that the official RSAA25 conference program is now published!
+Get ready for three days of keynote, hands-on workshops, presentations, lightning talks, and more, all designed to connect, inspire, and celebrate the research software engineering community across Australasia and beyond. Explore the Program and start planning your RSAA25 experience today!
+
+<a class="rse rse-join" href="https://rseaa.org/rsaa25_program">View the Program</a>
+
 ## Call for Presentations
 
 We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), inviting proposals for presentations to be delivered on the second day of RSAA25 (Thursday, 18 September 2025). This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community. 
