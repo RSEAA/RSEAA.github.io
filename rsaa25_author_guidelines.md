@@ -41,6 +41,7 @@ Submissions will be reviewed based on:
 
 Authors will be **notified of acceptance by July 31st, 2025**.
 
+<a id="presentation-guidelines"></a>
 ## 4. Presentation Guidelines
 
 ### 4.1 General Guidelines
@@ -57,9 +58,7 @@ To ensure an inclusive experience, we recommend that all presenters:
 - **Include captions** in videos to improve accessibility.
 - Avoid relying on **color alone** to convey key information.
 
-## 5. Presentation Submission & Technical Preparation
-
-### 5.1 Live Presentation Preparation
+## 5. Presentation Preparation
 
 - Ensure you have a **stable internet connection** and a **quiet environment** for your session.
 - Use a **good-quality microphone** to ensure clear audio.
