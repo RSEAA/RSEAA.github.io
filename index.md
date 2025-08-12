@@ -49,7 +49,7 @@ Some of the other motivations for attending might include:
 - [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
 
 
-#The RSAA25 Program is Live!
+## The RSAA25 Program is Live!
 
 We’re excited to share that the official RSAA25 conference program is now published!
 Get ready for three days of keynote, hands-on workshops, presentations, lightning talks, and more, all designed to connect, inspire, and celebrate the research software engineering community across Australasia and beyond. Explore the Program and start planning your RSAA25 experience today!
