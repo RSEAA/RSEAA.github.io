@@ -59,12 +59,7 @@ To ensure an inclusive experience, we recommend that all presenters:
 
 ## 5. Presentation Submission & Technical Preparation
 
-### 5.1 Slide Deck Submission
-
-- All presenters must submit their final **slides or presentation materials** at least **one week before the conference (by September 10th, 2025)**.
-- Slide decks should be in **PDF or PowerPoint format** to ensure compatibility.
-
-### 5.2 Live Presentation Preparation
+### 5.1 Live Presentation Preparation
 
 - Ensure you have a **stable internet connection** and a **quiet environment** for your session.
 - Use a **good-quality microphone** to ensure clear audio.
