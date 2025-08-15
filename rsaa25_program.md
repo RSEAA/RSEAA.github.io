@@ -6,6 +6,7 @@ navigation_weight: 1
 ---
 
 # Program
+*Note: All times in this program are displayed in UTC +10 (Australian Eastern Standard Time).*
 
 ## Day 1 – Wednesday 17 September
 
