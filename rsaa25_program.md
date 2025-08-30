@@ -10,7 +10,7 @@ navigation_weight: 1
 
 ## Day 1 – Wednesday 17 September
 
-### Workshops | 12:30–16:45
+### Workshops | [12:30–16:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T0230)
 
 | Time        | Length | Session Title                                                                                                                | Presenter(s)                     | Type     |
 | ----------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | -------- |
@@ -29,14 +29,14 @@ navigation_weight: 1
 
 ## Day 2 – Thursday 18 September
 
-**Keynote & Talks** | 12:30–16:45
+**Keynote & Talks** | [12:30–16:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T0230)
 
 | Time        | Length | Session Title                                                                                           | Presenter(s)    | Type    |
 | ----------- | ------ | ------------------------------------------------------------------------------------------------------- | --------------- | ------- |
 | [12:30–13:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T0230) | 30 min | Welcome, Introduction & Gold Partners Acknowledgement                                                   | RSAA Organisers | Intro   |
 | [13:00–13:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T0300) | 30 min | [IQ-TREE – Software for Evolutionary Biology with Genomics Data](#iq-tree-software-for-evolutionary-biology-with-genomics-data) | Minh Bui        | Keynote |
 
-### Parallel Sessions (Block 1 & Block 2) | 13:30–15:00
+### Parallel Sessions (Block 1 & Block 2) | [13:30–15:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T0330)
 
 | **Block 1: Sustainability & Community Building**                                                                                                                   | **Block 2: Infrastructure & Resources**                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,7 +50,7 @@ navigation_weight: 1
 
 ---
 
-### Parallel Sessions (Block 3 & Block 4) | 15:00–16:35
+### Parallel Sessions (Block 3 & Block 4) | [15:00–16:35](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T0500)
 
 | **Block 3: Collaboration & Data Science**                                                                                                            | **Block 4: Research Applications & Governance**                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ navigation_weight: 1
 
 ## Day 3 – Friday 19 September
 
-**Flexible Format, BoF & Talks** | 12:30–16:35
+**Flexible Format, BoF & Talks** | [12:30–16:35](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T0230)
 
 | Time        | Length | Session Title                 | Presenter(s)          | Type  |
 | ----------- | ------ | ----------------------------- | --------------------- | ----- |
