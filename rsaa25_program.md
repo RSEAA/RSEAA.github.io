@@ -14,7 +14,7 @@ navigation_weight: 1
 
 | Time        | Length | Session Title                                                                                                                | Presenter(s)                     | Type     |
 | ----------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | -------- |
-| 12:30–12:35 | 5 min  | Welcome & Introduction                                                                                                       | RSAA Organisers                   | Intro    |
+| [12:30–12:35]([url](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T0230)) | 5 min  | Welcome & Introduction                                                                                                       | RSAA Organisers                   | Intro    |
 | 12:35–13:20 | 45 min | [Why connect your service to the Australian Access Federation](#why-connect-your-service-to-the-australian-access-federation) | Terry Smith (AAF)                 | Workshop |
 | 13:20–13:25 | 5 min  | Break                                                                                                                         | —                                | Break    |
 | 13:25–14:25 | 60 min | [Kubernetes for Scalable Research: An Introduction](#kubernetes-for-scalable-research-an-introduction)                       | Aleem Uddin (ARDC)               | Workshop |
