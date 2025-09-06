@@ -8,13 +8,13 @@ navigation_weight: 1
 There are a few ways to contribute as a volunteer, mainly via the organising committee.
 
 
-1. # Organising committee
+# 1. Organising committee
 
 The organising committee is ideally made up of a co-chair representing RSE Asia, a co-chair representing RSE Australia / New Zealand, a secretary, and two regular organising committee members. These roles have honoraria associated with them.
 
 There is also the ability for people to volunteer as observers and session chairs. These roles do not have honorariums associated with them.
 
-2. # Expectations of the Co-Chair
+# 2. Expectations of the Co-Chair
 
 The expectations of the Co-Chairs are:
 1. To represent RSE Asia and RSE AU-NZ to the wider community and to external stakeholders
@@ -27,7 +27,7 @@ The expectations of the Co-Chairs are:
 8. To ensure that the processes for the RSEAA24 event are documented and improved every year
 9. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
-3. # Expectations of the secretary
+# 3. Expectations of the secretary
 
 The expectations of the secretary are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
@@ -43,7 +43,7 @@ The expectations of the secretary are:
 11. To ensure that the Diversity, Equity, and Inclusion of the event is up to the highest standard possible, given the resources and time available
 
     
-4. # Expectations of session chairs
+# 4. Expectations of session chairs
 
 The expectations of the session chairs are:
 1. To represent the wider community of RSEs during the event
@@ -96,7 +96,7 @@ The expectations of the session chairs are:
 
 *   If you have any questions before your session, please email us at info@rseaa.org.
 
-5. # Expectations of presentation reviewers
+# 5. Expectations of presentation reviewers
 
 The expectations of the presentation reviewers are:
 1. To represent the wider community of RSEs
@@ -104,7 +104,7 @@ The expectations of the presentation reviewers are:
 3. To identify outstanding presentations from the event
 
 
-6. # Expectations of the observers
+# 6. Expectations of the observers
 
 The expectations of the observers are:
 1. To represent the wider community of RSEs
@@ -115,7 +115,7 @@ The expectations of the observers are:
 6. To uphold [the Code of Conduct of the RSE-AUNZ association](https://rse-aunz.github.io/code-of-conduct/)
 
 
-7. # Expectations of the regular organising committee members
+# 7. Expectations of the regular organising committee members
 
 The expectations of the regular organising committee members are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
