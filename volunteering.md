@@ -59,7 +59,7 @@ The expectations of the session chairs are:
 
 *   Please join the Zoom room 10–15 minutes early.
 *   Check the session order in the program.
-*   Confirm name pronunciation and presentation order with speakers if necessary.
+*   Confirm name pronunciation with speakers if necessary.
 
 ### At the Start of the Session
 
@@ -92,9 +92,6 @@ The expectations of the session chairs are:
 *   Announce the next block or direct attendees to the conference schedule.
 *   Encourage participants to continue discussions on Slack.
 
-### Support
-
-*   If you have any questions before your session, please email us at info@rseaa.org.
 
 # 5. Expectations of presentation reviewers
 
