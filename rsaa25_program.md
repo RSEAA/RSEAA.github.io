@@ -250,7 +250,7 @@ For more information, visit https://tinyurl.com/whpcaunz.
 
 **Abstract:** The rapid evolution of accelerated computing has introduced a diverse array of hardware architectures and programming paradigms, offering unprecedented performance and energy efficiency—especially in GPU-based systems. This diversity also presents significant challenges for software developers striving tomaintain portability and reproducibility across platforms. This session explores best practices, strategies and tools that aim to overcome these limitations by promoting portable and reproducible programming practices in GPU-accelerated environments. We will discuss programming models, abstraction layers, workflow design techniques that enable developers to write code once and deploy it across multiple architectures with minimal modification. We will also explore the economy side of software development looking at productivity versus optimal performance and energy efficiency. Participants will hear from experts who have successfully developed portable GPU-based simulation codes in various domains of scientific computing. Through a series of lightning talks, these practitioners will share insights, lessons learned, and practical approaches to balancing performance with portability. The session will conclude with a moderated discussion, inviting attendees to engage with the speakers, share their own experiences, and explore collaborative solutions to common challenges.
 
-**Presenter Name:** Maciej Cytowski, Sarah Beecroft, Emily Kahl, Christopher Harris, Sam Yates
+**Presenter Name:** Maciej Cytowski, Sarah Beecroft, Emily Kahl, Christopher Harris, Sam Yates, Elise Palethorpe (ANU), Farrah Blades (UQ), Cristian Di Pietrantonio (Pawsey) and George Bouras (University of Adelaide)
 
 **Author names:** Maciej Cytowski, Sarah Beecroft, Emily Kahl, Christopher Harris, Sam Yates (Pawsey Supercomputing Research Centre)
 
@@ -329,7 +329,10 @@ This talk will highlight our strategy in using containers to:
 
 **Presenter Name:** Juan Carlos Graciosa
 
-**Bio:** Julian Giordani is a Research Software Engineer at the University of Sydney in the School of Geosciences.
+**Bio:** 
+Juan is a Research Officer at the Australian National University in the Research School of Earth Sciences. Funded by Auscope, he contributes to the maintenance and development of numerical models used by the Geodynamic modelling community. Prior to this, Juan completed his PhD at Monash University studying earthquakes with numerical models and explainable artificial intelligence.  
+
+Julian Giordani is a Research Software Engineer at the University of Sydney in the School of Geosciences.
 Julian is funded by AuScope, to maintain and develop numerical models used by the Geodynamic modelling community. He has been a long time contributor to Underworld, a Geodynamic framework for modelling lithospheric deformation and mantle convection, using FEM+PIC. He works at the nexus of software engineering, numerical modelling and Geodynamics and loves it.
 
 
