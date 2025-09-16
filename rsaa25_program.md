@@ -223,7 +223,11 @@ This session will be split into two parts:
 This session will spotlight some of the interesting work underway by our Chapter members working in research software, and provide a forum for learning from others’ experiences and perspectives. 
 
 
-**Presenter Name:** We'll have 1-2 members of the WHPC Organising Committee host the session, but can't confirm who exactly until closer to the event. 
+**Presenter Name:** <br/>
+Jana Makar, WHPC Australasia Chapter <br/>
+Emily Kahl, Pawsey Supercomputing Centre <br/>
+Amanda Parker, Australia National University <br/>
+Elise Palethorpe, Australia National University <br/>
 
 The Committee consist of: 
 Jana Makar, New Zealand eScience Infrastructure (NeSI);
