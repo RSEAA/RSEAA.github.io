@@ -86,7 +86,7 @@ navigation_weight: 1
 
 | Time        | Title                                                                 | Presenter(s)                          |
 | ----------- | --------------------------------------------------------------------- | ------------------------------------ |
-| [12:35–13:35](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T0235) | [Making Space: Celebrating People and Diversity in Research Software](#making-space-celebrating-people-and-diversity-in-research-software)   | WHPC Committee                       |
+| [12:35–13:35](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T0235) | [Making Space: Celebrating People and Diversity in Research Software](#making-space-celebrating-people-and-diversity-in-research-software)   | Jana Makar, Emily Kahl, Amanda Parker, Elise Palethorpe                      |
 | [13:35–14:35](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T0335) | [Best Practices for Portable and Reproducible Accelerated Computing](#best-practices-for-portable-and-reproducible-accelerated-computing)    | Pawsey Supercomputing Research Centre |
 | [14:35–14:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T0435) | Break                                                                 | —                                  |
 
