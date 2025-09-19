@@ -132,7 +132,7 @@ navigation_weight: 1
 
 ---
 
-## Invited workship 1
+## Invited workshop 1
 
 <a id="why-connect-your-service-to-the-australian-access-federation"></a>
 **Title:** Why connect your service to the Australian Access Federation
@@ -165,7 +165,7 @@ Management in the higher education sector for more than 25 years.
 
 ---
 
-## Invited workship 2
+## Invited workshop 2
 
 <a id="kubernetes-for-scalable-research-an-introduction"></a>
 **Title:** Kubernetes for Scalable
@@ -194,7 +194,7 @@ understanding and get started using Kubernetes.
 
 ---
 
-## Invited workship 3
+## Invited workshop 3
 
 <a id="developers-guide-to-github-copilot-supercharging-research-software-development"></a>
 **Title:** Developer’s Guide to GitHub Copilot: Supercharging Research Software Development
