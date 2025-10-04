@@ -9,7 +9,6 @@ navigation_weight: 2
 
 Name: Mhod. Seaumul Islam Khandaker 
 Email: [seaumulislam@gmail.com ](mailto:seaumulislam@gmail.com)
-Cell Phone: +8801722808926 (Whatsapp) 
 Location: Dhaka, Bangladesh 
 
  
