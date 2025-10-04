@@ -13,7 +13,7 @@ If so, you might want to join us for RSAA25, the fourth online annual Research S
 
 We would like to thank our Gold Partners [Australian Access Federation (AAF)](https://aaf.edu.au/), [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Silver Partners, the [Society of RSE](https://society-rse.org/), [QCIF](https://www.qcif.edu.au/), [ARDC](https://ardc.edu.au/) and [AURIN](https://aurin.org.au/), and our Bronze Partner [WEHI](https://www.wehi.edu.au/) for their support.
 
-<a class="rse rse-join" href="https://rseaa.org/seaumul/">Accessibility Fellow Report - Seaumul Khandaker</a>
+<a class="rse rse-join" href="https://rseaa.org/seaumul">Accessibility Fellow Report - Seaumul Khandaker</a>
 
 ## Why would someone go to RSAA25?
 
