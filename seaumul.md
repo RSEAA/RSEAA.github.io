@@ -1,3 +1,10 @@
+---
+layout: default
+title: RSAA25 Accessibility Fellowship Report - Seaumul Khandaker
+permalink: /seaumul
+navigation_weight: 2
+---
+
 # Personal details 
 
 Name: Mhod. Seaumul Islam Khandaker 
