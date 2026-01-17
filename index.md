@@ -15,6 +15,9 @@ We would like to thank our Gold Partners [Australian Access Federation (AAF)](ht
 
 <a class="rse rse-join" href="https://rseaa.org/seaumul">Accessibility Fellow Report - Seaumul Khandaker</a>
 
+<a class="rse rse-join" href="https://rseaa.org/safaet_hossain">Accessibility Fellow Report - Safaet Hossain</a>
+
+
 ## Why would someone go to RSAA25?
 
 Some of the other motivations for attending might include:
