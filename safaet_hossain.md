@@ -9,10 +9,8 @@ navigation_weight: 3
 ### **Personal Details**
 
 * **Name:** Md. Safaet Hossain
-
-  * **Location:** Dhaka, Bangladesh
-
-    * **Status:** RSAA25 Accessibility Fellow
+* **Location:** Dhaka, Bangladesh
+* **Status:** RSAA25 Accessibility Fellow
 
 ### **Personal Life & Health Challenges**
 
@@ -29,10 +27,8 @@ Beyond just my eyes, the physical toll of a sedentary research life has been sig
 My familiarity with accessibility began not with software, but with **ergonomics and health management**. To continue my work, I have had to master the art of "digital survival." This includes:
 
 * **The 20-20-20 Rule:** Taking a break every 20 minutes to look at something 20 feet away for 20 seconds to alleviate near-focus strain.
-
-  * **Ergonomic Adjustments:** Using specialized monitor arms, blue-light filters, and adjustable seating to mitigate "text neck" and back pain.
-
-    * **Software Aids:** Utilizing high-contrast themes and text-to-speech tools during periods of high light sensitivity to rest my eyes without stopping my work.
+* **Ergonomic Adjustments:** Using specialized monitor arms, blue-light filters, and adjustable seating to mitigate "text neck" and back pain.
+* **Software Aids:** Utilizing high-contrast themes and text-to-speech tools during periods of high light sensitivity to rest my eyes without stopping my work.
 
 ---
 
@@ -41,10 +37,8 @@ My familiarity with accessibility began not with software, but with **ergonomics
 Attending **RSAA25** as an Accessibility Fellow was a refreshing experience. Often, academic conferences are grueling marathons that ignore the physical needs of participants. However, RSAA25 felt different:
 
 * **Materials in Advance:** Having access to slides and agendas before the sessions allowed me to review content at my own pace, reducing the "marathon" screen time during the live event.
-
-  * **Supportive Environment:** The organizers fostered an atmosphere where taking necessary breaks for physical health was respected.
-
-    * **Inclusivity:** Connecting with other fellows who face various physical and visual challenges helped me realize that my struggle with CVS is a shared experience in the Research Software Engineering (RSE) community.
+* **Supportive Environment:** The organizers fostered an atmosphere where taking necessary breaks for physical health was respected.
+* **Inclusivity:** Connecting with other fellows who face various physical and visual challenges helped me realize that my struggle with CVS is a shared experience in the Research Software Engineering (RSE) community.
 
 ---
 
