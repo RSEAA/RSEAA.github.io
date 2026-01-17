@@ -1,12 +1,20 @@
+---
+layout: default
+title: Suggested Schedule for 2025
+permalink: /suggested_schedule
+navigation_weight: 1
+---
+
 This is a draft suggested schedule for the major milestones of RSAA.
 
 [Countdown timer for #RSAA25](https://www.timeanddate.com/countdown/generic?iso=20250917T1230&p0=152&msg=RSAA25&ud=1&font=sanserif)
 
-## 40 weeks
+## 48 weeks
 
 - We can setup the organising committee
+- We can let the fiscal sponsor know we are going to do RSAA this year
 
-## 32 weeks 
+## 40 weeks 
 - We can review and finalise prospectus
 - We can reach out to sponsors to get them on board
 

@@ -1,16 +1,23 @@
 title: Research Software Asia Australia Conference (RSAA25)
-title-short: RSAA25
 
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the Research Software Asia Australia Conference (RSAA25)
 baseurl: "" # the subpath of your site, e.g. /blog
 github_repo:  rseaa
-logo: RSE_AUNZ_logo.png
+logo: rseaa_logo.png
 markdown: kramdown  #github flavoured markdown
 kramdown: 
   input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+permalink: pretty
 theme: minima
 plugins: 
   - jekyll-feed
 include:
   - "_img"
+
+

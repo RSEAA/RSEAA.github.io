@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketing Materials for 2024
-permalink: /marketing
+permalink: /marketingRSEAA24
 navigation_weight: 1
 ---
 
