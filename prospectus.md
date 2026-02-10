@@ -7,21 +7,21 @@ navigation_weight: 1
 
 ## How can your organisation help support RSAA25?
 
-We are excited to announce that the **Research Software Asia Australia conference will return in 2025** and we hope you can help make it our best ever! 
+We are excited to announce that the **Research Software Asia Australia conference will return in 2025** and we hope you can help make it our best ever!
 
 ## Introduction
 
-This event provides a vital platform for attendees to share insights on developing research applications, enhancing scalability, streamlining code, and adopting best practices in software development across the RSE Asia Association and the RSE Association of Australia and New Zealand communities. 
+This event provides a vital platform for attendees to share insights on developing research applications, enhancing scalability, streamlining code, and adopting best practices in software development across the RSE Asia Association and the RSE Association of Australia and New Zealand communities.
 
 In 2024, we brought together 138 participants from 22 countries, delivering valuable content on infrastructure, sustainability in research software, training, community building, and collaboration. Equity and accessibility are at the heart of our conference, we are committed to fostering a welcoming and inclusive environment for all.
 
-We have revamped the schedule for 2025 to include: 
+We have revamped the schedule for 2025 to include:
 - A Leaders Forum in August to grow advocacy and funding support for RSEs by leveraging the experience and connections of the group,
 - Day 1 Workshops and Skills Training,
 - Day 2 Keynotes and Presentations, and
 - Day 3 Unconference & Networking
 
-And the theme for this year is “Connecting with Community” and the hashtag will be #RSAA25.
+And the theme for this year is "Connecting with Community" and the hashtag will be #RSAA25.
 
 ## Financial Support
 
@@ -41,4 +41,4 @@ There are also ways that your organisation could provide non-financial support f
 
 ## Contact Us
 
-If you have any questions or would like to discuss this further, please don’t hesitate to reach out at info@rseaa.org.
+If you have any questions or would like to discuss this further, please don't hesitate to reach out at info@rseaa.org.

@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Marketing Materials for 2025
+title: Marketing Materials for 2026
 permalink: /marketing
 navigation_weight: 1
 ---
 
-Here is a [list of all marketing materials for #RSAA25](https://docs.google.com/document/d/e/2PACX-1vQ-O1CZDnsTh-gYgGLPQUGw3m8dm-hGKXiVwYwDIcOfiM0tWUKuxBivJINn0vUYD-z5-2JP785VqM1M/pub).
+Marketing materials for #RSAA26 will be available soon.
 
 ## Hashtags to use
 
-#RSE #RSEng #ResearchSoftware #Research #ResearchSoftwareEngineer #RSAA25
+#RSE #RSEng #ResearchSoftware #Research #ResearchSoftwareEngineer #RSAA26
 
 ## Logo square
 
@@ -18,11 +18,12 @@ Here is a [list of all marketing materials for #RSAA25](https://docs.google.com/
 
 ## Previous years
 
-- [Marketing 2023](marketingRSEAA2023)
+- [Marketing 2025](marketingRSEAA25)
 - [Marketing 2024](marketingRSEAA24)
+- [Marketing 2023](marketingRSEAA2023)
 
 
 ## Other links
 
 - [Link to our admin page](admin)
-- [RSAA25: Call for Presentations, Volunteers, and Sponsors!](rsaa25_call_for_participation)
+- [RSAA26: Call for Presentations, Volunteers, and Sponsors!](rsaa26_call_for_participation)
