@@ -68,9 +68,11 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
  
-Submit your proposals via the RSAA26 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA26 Organizing Committee at info@rseaa.org.
+<!-- Submit your proposals via the RSAA26 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA26 Organizing Committee at info@rseaa.org.
 
 <a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create">Submit Presentation for RSAA26</a>
+-->
+TBA 
 
 We look forward to your participation in **RSAA26**, as we come together to strengthen our community connections and advance the field of research software!
 
