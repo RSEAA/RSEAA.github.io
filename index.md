@@ -65,25 +65,7 @@ Thank you for your interest in contributing to the Research Software Asia Austra
 
 ## Call for Workshops
 
-We invite proposals for workshops to be held on the first day of RSAA26 (Wednesday, 16 September 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
-
-## How can I volunteer or help?
-
-You can [fill out this form to volunteer before and during the event](https://forms.gle/4epQcsMfXqDTqoAg6).
-
-You can find out more via the [link to the volunteering page](volunteering)
-
-<a class="rse rse-join" href="https://forms.gle/4epQcsMfXqDTqoAg6">Volunteer for RSAA26</a>
-
-You can share the [prospectus link for RSAA26 with your organisation](prospectus) or you can reach out to us at info@rseaa.org if you would like us to contact them directly.
-
-You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA26. Their involvement will help ensure we are held accountable for the accessibility of this online event.
-
-## Partner with us
-
-Partnering with us provides a strategic opportunity to increase brand visibility, demonstrate your leadership in the research software space, and connect with a diverse pool of professionals and up-and-coming talent across Asia and Australia.
-
-You can view the [prospectus link for RSAA26 here](prospectus). 
+We invite proposals for workshops to be held on the first day of RSAA26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
 
 
 ## Accessibility and Inclusivity
@@ -112,16 +94,6 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
-## Organising Committee Members
-
-- Jyoti Bhogal - Co-chair (Asia)
-- Junran Lei - Co-chair (Australia)
-- Amanda Miotto - Partnerships Manager
-- Zane Mosbergen - Secretary
-- Amna Batool - Marketing Manager
-- Sanchit Ghule - Accessibility Manager
-- Harsh Kalra - Accessibility Manager
-- Rowland Mosbergen – Observer
 
 ## What is a Research Software Engineer (RSE)? 
 
