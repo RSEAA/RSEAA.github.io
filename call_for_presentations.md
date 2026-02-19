@@ -7,12 +7,7 @@ navigation_weight: 1
 
 ## Theme: Connecting with Community
 
-We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2025 (RSAA25), taking place online from **September 17th to 19th, 2025**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
-
-![Graph with arrow going up in purple circle. Scaling and streamlining research? Share expertise with your peers. Call for Presentations now open. Research Software Asia Australia 2025. Connecting with Community. 17th to 19th September. Logos of RSE AUNZ and RSE Asia.](https://github.com/user-attachments/assets/6f541a70-aa02-4364-9d2d-8e0426f809db)
-
-
-We invite you to share your insights, experiences, and innovations during our dedicated **presentation session on September 18th, 2025**.
+We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26), taking place online from **August 25th to 28th, 2026**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
 
 ## Conference Theme & Topics
 
@@ -27,7 +22,7 @@ The Connecting with Community theme explores how research software practitioners
 
 ## Presentation Session Details
 
-- **Date:** September 18th, 2025
+- **Date:** TBA
 - **Format:** Individual presentations
 - **Presentation Options:**
   - **5-minute Lightning Talk** – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.
@@ -44,13 +39,13 @@ We invite submissions that align with the conference theme and sub-themes. Propo
 - **Learning Objectives** (3-5 key takeaways for the audience)
 - **Presenter Information** (name, affiliation, bio up to 150 words, and contact details)
 
-For more detailed submission requirements and formatting guidelines, please refer to the [Author Guidelines](https://rseaa.org/rsaa25_author_guidelines).
+For more detailed submission requirements and formatting guidelines, please refer to the [Author Guidelines](https://rseaa.org/rsaa26_author_guidelines).
 
 ## Submission Timeline
 
-- **CFP Opens:** April 15th, 2025
-- **Submission Deadline:** June 22nd, 2025
-- **Notification of Acceptance:** July 31st, 2025
+- **CFP Opens:** TBA
+- **Submission Deadline:** TBA
+- **Notification of Acceptance:** TBA
 
 ## Selection Criteria
 
@@ -64,7 +59,7 @@ Submissions will be reviewed based on:
 
 ## Diversity and Inclusion
 
-We encourage submissions from individuals of all backgrounds, disciplines, and career stages. RSAA25 is committed to creating an inclusive environment that values diverse perspectives and experiences.
+We encourage submissions from individuals of all backgrounds, disciplines, and career stages. RSAA26 is committed to creating an inclusive environment that values diverse perspectives and experiences.
 The conference actively promotes Digital Accessibility, and we encourage presenters to:
 - Use **clear and readable slides** with high contrast.
 - Provide **alternative text (alt text)** for images, charts, and figures.
@@ -73,11 +68,13 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
  
-Submit your proposals via the RSAA25 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA25 Organizing Committee at info@rseaa.org.
+<!-- Submit your proposals via the RSAA26 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA26 Organizing Committee at info@rseaa.org.
 
-<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2025/Track/1/Submission/Create">Submit Presentation for RSAA25</a>
+<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create">Submit Presentation for RSAA26</a>
+-->
+TBA 
 
-We look forward to your participation in **RSAA25**, as we come together to strengthen our community connections and advance the field of research software!
+We look forward to your participation in **RSAA26**, as we come together to strengthen our community connections and advance the field of research software!
 
 For more information, visit [https://rseaa.org](https://rseaa.org).
 
