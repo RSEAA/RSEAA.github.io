@@ -7,9 +7,7 @@ navigation_weight: 1
 
 ## Theme: Connecting with Community
 
-We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26), taking place online from **September 16th to 18th, 2026**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
-
-We invite you to share your insights, experiences, and innovations during our dedicated **presentation session on September 17th, 2026**.
+We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26), taking place online from **August 25th to 28th, 2026**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
 
 ## Conference Theme & Topics
 
@@ -24,7 +22,7 @@ The Connecting with Community theme explores how research software practitioners
 
 ## Presentation Session Details
 
-- **Date:** September 17th, 2026
+- **Date:** TBA
 - **Format:** Individual presentations
 - **Presentation Options:**
   - **5-minute Lightning Talk** – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.
