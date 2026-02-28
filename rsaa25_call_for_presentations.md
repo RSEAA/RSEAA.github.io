@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Call for Presentations
-permalink: /call_for_presentations
+permalink: /rsaa25_call_for_presentations
 navigation_weight: 1
 ---
 
