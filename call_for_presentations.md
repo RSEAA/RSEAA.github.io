@@ -122,8 +122,8 @@ Talks from beginners, early-career RSEs, and those covering fundamental topics a
 ## Submission Timeline
 
 - **CFP Opens:** TBD  
-- **Submission Deadline:** TBD  
-- **Notification of Acceptance:** July 7th, 2025  
+- **Submission Deadline:** May 1st, 2026  
+- **Notification of Acceptance:** July 7th, 2026
 
 
 ## Code of Conduct
