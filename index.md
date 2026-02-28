@@ -96,6 +96,16 @@ If you feel that the conference is not matching up to the commitment of these id
 
 You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA26. Their involvement will help ensure we are held accountable for the accessibility of this online event.
 
+## Organising Committee Members
+
+- Jyoti Bhogal 
+- Junran Lei 
+- Linda Erlina 
+- Keiran Rowell  
+- Sanchit Ghule 
+- Harsh Kalra 
+- Rowland Mosbergen 
+
 ## Code of Conduct
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
