@@ -12,7 +12,6 @@ navigation_weight: 1
 **Conference date:** 25 August 2026  
 **Part of the Global South Research Software Group of Conferences**
 
----
 
 ## About RSAA26
 
@@ -24,7 +23,6 @@ This year’s theme, **“Research Software Without Borders”**, is about break
 
 We invite contributions from anyone involved in research software, including research software engineers (RSEs), researchers, infrastructure providers, librarians, data specialists, community organisers, students, and funders.
 
----
 
 ## Topics of Interest
 
@@ -72,7 +70,6 @@ We welcome presentations related to the theme, including (but not limited to):
 - Environmentally responsible computing  
 - Measuring and communicating impact  
 
----
 
 ## Presentation Options
 
@@ -94,7 +91,6 @@ If your proposal does not fit the options above, you are welcome to suggest an a
 
 We particularly encourage first-time presenters, early-career practitioners, and community-focused submissions.
 
----
 
 ## Submission Guidelines
 
@@ -110,7 +106,6 @@ Submissions should clearly describe what attendees will learn and how the presen
 
 You do not need to have a finished project. Work-in-progress, lessons learned, and honest reflections are welcome.
 
----
 
 ## Review Process
 
@@ -124,7 +119,6 @@ Submissions will be reviewed based on:
 
 Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.
 
----
 
 ## Submission Timeline
 
@@ -132,13 +126,11 @@ Talks from beginners, early-career RSEs, and those covering fundamental topics a
 - **Submission Deadline:** TBD  
 - **Notification of Acceptance:** July 7th, 2025  
 
----
 
 ## Code of Conduct
 
 RSAA is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSAA Code of Conduct.
 
----
 
 ## Why Submit to RSAA26?
 
