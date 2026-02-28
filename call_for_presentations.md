@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Call for Presentations
+title: Call for Presentations – RSAA26 
 permalink: /call_for_presentations
 navigation_weight: 1
 ---
 
-# Call for Presentations – RSAA26  
 ## Research Software Without Borders  
 ### Building Equitable, Sustainable, and Connected Research Software Communities  
 
