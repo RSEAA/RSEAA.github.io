@@ -5,57 +5,147 @@ permalink: /call_for_presentations
 navigation_weight: 1
 ---
 
-## Theme: Connecting with Community
+# Call for Presentations – RSAA26  
+## Research Software Without Borders  
+### Building Equitable, Sustainable, and Connected Research Software Communities  
 
-We are excited to announce the Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26), taking place online from **August 25th to 28th, 2026**. This year's theme, **"Connecting with Community,"** focuses on fostering collaboration and engagement within the research software community.
+**Conference date:** 25 August 2026  
+**Part of the Global South Research Software Group of Conferences**
 
-## Conference Theme & Topics
+---
 
-The Connecting with Community theme explores how research software practitioners collaborate, build networks, and develop sustainable solutions. We welcome presentations covering, but not limited to, the following sub-themes:
+## About RSAA26
 
-- **Infrastructure and Resources:** Best practices for research computing infrastructure, cloud computing, HPC, and resource allocation. Presentations are encouraged to explore community-driven models for shared access to infrastructure and collaborative resource utilisation.
-- **Digital Accessibility in Research Software:** Strategies for developing accessible software, ensuring usability for diverse communities, and implementing inclusive design principles.
-- **Collaboration Across Domains:** Case studies on interdisciplinary teamwork and knowledge-sharing in research software.
-- **Sustainability in Research Software:** Strategies for long-term software usability, maintainability, and funding models.
-- **Open Science and FAIR Principles:** How research software can promote transparency, interoperability, and reproducibility.
-- **Skills, Training, and Career Pathways:** Approaches to training, mentoring, and professional development for research software engineers and researchers.
+The Research Software Asia Australia Conference (RSAA26) brings together people involved in building, using, supporting, and sustaining research software across Asia and Australia.
 
-## Presentation Session Details
+In 2026, RSAA is part of a coordinated **Global South Research Software Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
 
-- **Date:** TBA
-- **Format:** Individual presentations
-- **Presentation Options:**
-  - **5-minute Lightning Talk** – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.
-  - **10-minute Demo/Showcase** – A hands-on session to demonstrate tools, techniques, or workflows, offering practical insights or a quick tutorial.
-  - **15-minute Presentation** – A deeper exploration of a specific topic, including research findings, best practices, or community-driven initiatives.
-  - **Flexible Presentation Format** – If your content doesn’t fit into the above options, propose an alternative presentation format. Non-presentation formats, such as posters, are not included in this CFP.
+This year’s theme, **“Research Software Without Borders”**, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.
+
+We invite contributions from anyone involved in research software, including research software engineers (RSEs), researchers, infrastructure providers, librarians, data specialists, community organisers, students, and funders.
+
+---
+
+## Topics of Interest
+
+We welcome presentations related to the theme, including (but not limited to):
+
+### Equity, Access and Knowledge
+- Equitable access to research software and infrastructure  
+- Indigenous, local, and culturally grounded knowledge systems  
+- Data sovereignty, governance, and ethical research software  
+- Accessibility, multilingualism, and inclusive design (e.g. barriers for people with English as a second language in jobs and funding opportunities)  
+
+### Infrastructure and Platforms
+- Cloud, HPC, and hybrid infrastructure for research  
+- Shared platforms and regional services  
+- Open, community-owned, or sovereign infrastructure  
+- Doing more with limited resources  
+
+### Reproducibility, FAIR and Open Research
+- Reproducible workflows and good research practice  
+- FAIR data and software in practice  
+- Provenance, metadata, and research integrity  
+- Open collaboration and reuse  
+
+### Community and Collaboration
+- Building and sustaining research software and RSE communities  
+- Community governance and leadership  
+- Cross-institution and cross-regional collaboration  
+- Lessons learned from community practice  
+
+### Skills, Training and Careers
+- Teaching and learning research software skills  
+- RSE career paths and recognition  
+- Mentoring, leadership, and capacity building  
+- Supporting early-career practitioners  
+
+### AI and Emerging Tools
+- AI-enabled research software and workflows  
+- Responsible and ethical use of AI  
+- Automation, agents, and emerging technologies  
+- Real-world experiences and lessons learned  
+
+### Sustainability and Impact
+- Sustaining research software beyond funding cycles  
+- Maintenance, support, and stewardship models  
+- Environmentally responsible computing  
+- Measuring and communicating impact  
+
+---
+
+## Presentation Options
+
+When submitting, please choose one of the following:
+
+### 5-minute Lightning Talk  
+A short presentation to share a new idea, early work, lessons learned, or a brief case study.
+
+### 10-minute Demo / Showcase  
+A practical demonstration of a tool, workflow, platform, or technique, focusing on real-world use.
+
+### 15-minute Presentation  
+A standard conference presentation that allows time to explore a topic in more depth.
+
+### Flexible Presentation Format  
+If your proposal does not fit the options above, you are welcome to suggest an alternative format (for example, a workshop, a panel, or a facilitated discussion).  
+
+> **Note:** Non-presentation formats, such as posters, are not included in this Call for Presentations.
+
+We particularly encourage first-time presenters, early-career practitioners, and community-focused submissions.
+
+---
 
 ## Submission Guidelines
 
-We invite submissions that align with the conference theme and sub-themes. Proposals should include:
+When submitting your proposal, please include:
 
-- **Title of Presentation** (clear and concise)
-- **Abstract** (150-300 words summarising the content and relevance to the theme)
-- **Learning Objectives** (3-5 key takeaways for the audience)
-- **Presenter Information** (name, affiliation, bio up to 150 words, and contact details)
+- **Title** of your presentation  
+- **Presentation type** (from the options above)  
+- **Abstract** (approximately 150–300 words)  
+- **Learning Objectives** (3–5 key takeaways for the audience)  
+- **Presenter Information** (name, affiliation, bio up to 150 words, and contact details)  
 
-For more detailed submission requirements and formatting guidelines, please refer to the [Author Guidelines](https://rseaa.org/rsaa26_author_guidelines).
+Submissions should clearly describe what attendees will learn and how the presentation connects to research software practice or community.
 
-## Submission Timeline
+You do not need to have a finished project. Work-in-progress, lessons learned, and honest reflections are welcome.
 
-- **CFP Opens:** TBA
-- **Submission Deadline:** TBA
-- **Notification of Acceptance:** TBA
+---
 
-## Selection Criteria
+## Review Process
 
 Submissions will be reviewed based on:
 
-- Relevance to the conference theme
-- Clarity and coherence of the abstract
-- Practical applicability and potential impact
-- Alignment with the interests of the research software community
-- Inclusivity of speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.
+- Relevance to the RSAA26 theme  
+- Clarity and coherence of the abstract  
+- Practical applicability and potential impact  
+- Alignment with the interests of the research software community  
+- Inclusivity of speaker(s)  
+
+Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.
+
+---
+
+## Submission Timeline
+
+- **CFP Opens:** TBD  
+- **Submission Deadline:** TBD  
+- **Notification of Acceptance:** July 7th, 2025  
+
+---
+
+## Code of Conduct
+
+RSAA is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSAA Code of Conduct.
+
+---
+
+## Why Submit to RSAA26?
+
+- Be part of a globally connected set of conferences  
+- Share your work with a supportive, community-led audience  
+- Learn from research software practitioners across regions  
+- Help shape the future of research software in the Global South  
 
 ## Diversity and Inclusion
 
@@ -68,9 +158,9 @@ The conference actively promotes Digital Accessibility, and we encourage present
 
 ## Submission Process & Contact
  
-<!-- Submit your proposals via the RSAA26 online submission system at [submission link](https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA26 Organizing Committee at info@rseaa.org.
+<!-- Submit your proposals via the RSAA26 online submission system at [submission link/TBD](). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAA26 Organizing Committee at info@rseaa.org.
 
-<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAA2026/Track/1/Submission/Create">Submit Presentation for RSAA26</a>
+<a class="rse rse-join" href="#">Submit Presentation for RSAA26</a>
 -->
 TBA 
 
