@@ -1,14 +1,51 @@
+{%- if include.section == "head" -%}
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+{%- seo -%}
+	<link rel="stylesheet" href="{{ "assets/css/rse-aunz.css" | relative_url }}">
+{%- feed_meta -%}
+	{%- if jekyll.environment == 'production' and site.google_analytics -%}
+	{%- include google-analytics.html -%}
+	{%- endif -%}
+	<link rel="icon" type="image/png" href="{{ '/assets/' | append: site.logo | relative_url }}">
+	<link href="https://fonts.googleapis.com/css?family=Lora|Titillium+Web&display=swap" rel="stylesheet">
+	<script>
+		(function() {
+			var theme = localStorage.getItem('rseaa-theme') || 'light';
+			document.documentElement.setAttribute('data-theme', theme);
+		})();
+	</script>
+</head>
+{%- elsif include.section == "header" -%}
 <header class="site-header" role="banner">
-
-	<div class="wrapper">
-		{%- assign default_paths = site.pages | map: "path" -%} {%- assign
-		page_paths = site.header_pages | default: default_paths -%}
-
+	<div class="wrapper header-wrapper">
 		<a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-			<img src="{{ site.baseurl }}assets/{{ site.logo }}" />
+			<img src="{{ '/assets/' | append: site.logo | relative_url }}" alt="" />
 			<h2 class="deskContent">{{ site.title | escape }}</h2>
 			<h2 class="phoneContent">{{ site.title-short }}</h2>
 		</a>
+		<div class="header-actions">
+			<button type="button" class="theme-toggle" aria-label="Toggle dark mode" id="theme-toggle-btn" title="Toggle dark/light mode"></button>
+			<button type="button" class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="site-nav" id="nav-toggle-btn"></button>
+		</div>
+		<nav class="site-nav" id="site-nav" aria-label="Main">
+			<ul class="nav-list">
+				{%- assign nav_paths = site.header_pages | default: nil -%}
+				{%- if nav_paths -%}
+					{%- for path in nav_paths -%}
+						{%- assign nav_page = site.pages | where: "path", path | first -%}
+						{%- if nav_page == nil -%}
+							{%- assign nav_page = site.pages | where: "relative_path", path | first -%}
+						{%- endif -%}
+						{%- if nav_page and nav_page.title -%}
+							<li><a href="{{ nav_page.url | relative_url }}"{% if page.url == nav_page.url %} class="active"{% endif %}>{{ nav_page.nav_link | default: nav_page.title | escape }}</a></li>
+						{%- endif -%}
+					{%- endfor -%}
+				{%- endif -%}
+			</ul>
+		</nav>
 	</div>
-
 </header>
+{%- endif -%}

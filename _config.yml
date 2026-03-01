@@ -1,10 +1,9 @@
 title: Research Software Asia Australia Conference (RSAA26)
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Website for the Research Software Asia Australia Conference (RSAA26)
+description: Research Software Asia Australia Conference (RSAA26)
 baseurl: "" # the subpath of your site, e.g. /blog
 github_repo:  rseaa
-logo: rseaa_logo.png
+logo: images/rseaa_logo.png
 markdown: kramdown  #github flavoured markdown
 kramdown: 
   input: GFM
@@ -20,4 +19,12 @@ plugins:
 include:
   - "_img"
 
+# Navbar: ordered list of page paths (path relative to site root)
+header_pages:
+  - index.md
+  - conferences/call_for_presentations.md
+  - conferences/rsaa26_program.md
+  - about/accessibility_fellowship.md
+  - marketing/marketing.md
+  - conferences/index.md
 

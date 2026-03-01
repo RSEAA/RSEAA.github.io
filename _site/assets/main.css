@@ -133,6 +133,10 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
 /** Syntax highlighting styles */
+h1, h2, h3, h4, h5, h6 { font-weight: bold !important; display: block !important; }
+
+strong { font-weight: bold !important; }
+
 .highlight { background: #fff; }
 .highlighter-rouge .highlight { background: #eef; }
 .highlight .c { color: #998; font-style: italic; }

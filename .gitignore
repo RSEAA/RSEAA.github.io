@@ -1,7 +1,26 @@
+# Jekyll
 _site/
-Gemfile.lock
-.sass-cache/
-*.swp
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
 .bundle/
-/_site
-.vs
+Gemfile.lock
+
+# Sass
+.sass-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vs/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
