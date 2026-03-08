@@ -49,7 +49,13 @@ We welcome presentations related to the theme, including (but not limited to):
 - Building and sustaining research software and RSE communities  
 - Community governance and leadership  
 - Cross-institution and cross-regional collaboration  
-- Lessons learned from community practice  
+- Lessons learned from community practice
+
+### Data Platforms and Data Spaces
+- Research data platforms, commons, and shared environments  
+- Interoperable data spaces for cross-institution and cross-regional collaboration  
+- Federated data systems and trusted research environments  
+- Integrating data platforms with research software and workflows  
 
 ### Skills, Training and Careers
 - Teaching and learning research software skills  
