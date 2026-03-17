@@ -7,7 +7,7 @@ navigation_weight: 1
 
 Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe you are the only person working on research software in your group?
 
-If so, you might want to join us for RSAA26, the fifth online annual Research Software Asia Australia Conference, from the **25th to the 28th of August 2026**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Connecting with Community"** and the hashtag will be #RSAA26.
+If so, you might want to join us for RSAA26, the fifth online annual Research Software Asia Australia Conference, from the **25th to the 28th of August 2026**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Research Software Without Borders"** and the hashtag will be #RSAA26.
 
 ## Introducing Research Software Africa, Research Software Latinoamérica, and Equersa
 
@@ -61,7 +61,7 @@ Registration for RSAA26 will open soon.
 
 ## Call for Presentations
 
-The Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26) will be announced soon. This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community.
+The Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26) will be announced soon. This year's theme, "Research Software Without Borders," focuses on fostering collaboration and engagement within the research software community.
 
 For more details, please refer to the [Call for Presentations](call_for_presentations) document when available.
 
