@@ -105,6 +105,22 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 - Sanchit Ghule 
 - Harsh Kalra 
 - Rowland Mosbergen 
+- Sandeep Kanabar
+- Peiyu Wu
+- Yifei Wang
+- Deepika
+- Trish Radotic
+- Saranjeet Kaur
+- Amna Deakin
+- Gregory Poole
+- Seaumul Islam
+- Pao Corrales
+- Tyrone Chen
+- Xiaoya (YaYa)
+- Leon Nunes
+- Tasfia Trahman
+- Rania Aziz
+- Xiangdi (Allie) Hu
 
 ## Code of Conduct
 
