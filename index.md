@@ -41,13 +41,13 @@ Some of the other motivations for attending might include:
 
 | Event | Opens on | Closes on | Notification of Result of Application |
 | ------- | ------- | ------- | ------- |
-| Call for Proposal | TBA | TBA | TBA |
-| Call for Accessibility Fellowship | TBA | TBA | TBA |
-| Call for Micro-grants | TBA | TBA | Communicated on a rolling basis |
-| Call for Scholarships | TBA | TBA | Communicated on a rolling basis |
-| Call for Volunteer (Co-Program Managers, Reviewer, Session Chair) | TBA | Not Applicable | Communicated on a rolling basis |
-| Event Registration (Early Bird, Scholarship, and Micro-grant) | TBA | TBA | Not Applicable |
-| Event Registration (Standard) | TBA | TBA | Not Applicable |
+| Call for Proposal | 20th March | 1st May | 7th July |
+| Call for Accessibility Fellowship | 14th May | 26th June | TBA |
+| Call for Micro-grants | 14th May | 10th July | Communicated on a rolling basis |
+| Call for Scholarships | 14th May | 14th August | Communicated on a rolling basis |
+| Call for Volunteer (Reviewer, Session Chair) | 20th March | Not Applicable | Communicated on a rolling basis |
+| Event Registration (Early Bird, Scholarship, and Micro-grant) | 15th June | 10th July | Not Applicable |
+| Event Registration (Standard) | 11th July | 14th August | Not Applicable |
 
 Registration for RSAA26 will open soon.
 
