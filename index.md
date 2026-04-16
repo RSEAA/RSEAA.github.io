@@ -15,9 +15,13 @@ We are thrilled to announce that we are helping to setup two new conferences Res
 
 We are creating one joint organising committee, while co-chairs for each conference still get to choose what happens at their event.
 
-As part of this one joint organising committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
+As part of this one joint  committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
 
 More on RSA26, RSLA26, and Equersa soon!
+
+## Partners for 2026
+
+Would you like to partner with us for 2026? Please have a look at our [RSAA26 Prospectus for Australian partners.](https://github.com/user-attachments/files/26780024/GSRS-0009.RSAA26.Prospectus.NCRIS.AU.edition_compressed.pdf)
 
 ## RSAA25 Accessibility Fellow Reports
 
@@ -92,7 +96,7 @@ You will need to provide one short paragraph to explain how you will benefit fro
 
 All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
 
-If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org.
+If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the  committee at info at rseaa.org.
 
 You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA26. Their involvement will help ensure we are held accountable for the accessibility of this online event.
 
