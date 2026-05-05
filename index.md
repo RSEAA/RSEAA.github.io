@@ -47,7 +47,7 @@ Some of the other motivations for attending might include:
 
 | Event | Opens on | Closes on | Notification of Result of Application |
 | ------- | ------- | ------- | ------- |
-| Call for Proposal | 20th March | 1st May | 7th July |
+| Call for Proposal | 20th March | 15th May | 7th July |
 | Call for Accessibility Fellowship | 14th May | 26th June | TBA |
 | Call for Micro-grants | 14th May | 10th July | Communicated on a rolling basis |
 | Call for Scholarships | 14th May | 14th August | Communicated on a rolling basis |
