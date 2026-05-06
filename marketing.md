@@ -5,7 +5,7 @@ permalink: /marketing
 navigation_weight: 1
 ---
 
-Marketing materials for #RSAA26 will be available soon.
+[Marketing materials for #RSAA26 are now available here](https://docs.google.com/document/d/e/2PACX-1vQKZK_4kixEoawTqjC42leeQBIm7LQMpU0XagKasFiMfcV59kupzhzr_L5XpVAfpGQ7gbmiIkXyxTYb/pub).
 
 ## Hashtags to use
 
