@@ -114,7 +114,7 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 - Sandeep Kanabar
 - Peiyu Wu
 - Yifei Wang
-- Deepika
+- Deepika Kashyap
 - Trish Radotic
 - Saranjeet Kaur
 - Amna Deakin
