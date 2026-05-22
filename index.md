@@ -11,6 +11,9 @@ If so, you might want to join us for RSAA26, the fifth online annual Research So
 
 <a class="rse rse-join" href="https://rseaa.org/call_for_presentations">Call for Presentations now open!</a>
 
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeaxzxAwAUZvURpkR6_BLwz4MF6hQLNQ5_CYC14HyJIXt07Kg/viewform">Sign up form for volunteers - session chairs and reviewers</a>
+
+
 ## Introducing Research Software Africa, Research Software Latinoamérica, and Equersa
 
 We are thrilled to announce that we are helping to setup two new conferences Research Software Africa (RSA26) and Research Software Latinoamérica (RSLA26)!
