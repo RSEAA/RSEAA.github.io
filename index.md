@@ -9,9 +9,9 @@ Do you want to learn what others are doing in research software in your domain a
 
 If so, you might want to join us for RSAA26, the fifth online annual Research Software Asia Australia Conference, from the **25th to the 28th of August 2026**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Research Software Without Borders"** and the hashtag will be #RSAA26.
 
-<a class="rse rse-join" href="https://rseaa.org/call_for_presentations">Call for Presentations now open!</a>
+<a class="rse rse-join" href="https://events.humanitix.com/equersa-2026">Early Bird registrations now open!</a>
 
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSeaxzxAwAUZvURpkR6_BLwz4MF6hQLNQ5_CYC14HyJIXt07Kg/viewform">Sign up form for volunteers - session chairs and reviewers</a>
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header">Apply for the Scholarships and Accessibility Micro-grants</a>
 
 
 ## Introducing Research Software Africa, Research Software Latinoamérica, and Equersa
