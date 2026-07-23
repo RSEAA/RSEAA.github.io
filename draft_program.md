@@ -165,7 +165,35 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 * **Presenter:** thoran
 * **Authors:** thoran - (NA)*
 
-**Abstract:** Research data arrives as records, which are rows with named fields from databases, CSV files, and APIs. Yet the dominant libraries for processing data require researchers to reshape that data into positional, numeric structures before they can work with it. Names can be lost. Indices become opaque. Boilerplate accumulates. Namo is a library for named dimensional data that works with row-based data directly. It takes arrays of hashes and makes dimensions first-class: `data[gene: 'BRCA1', tissue: 'breast']` selects by name; `data[:category] = proc{|row| row[:expression] > 20 ? 'high' : 'low'}` defines a computed dimension that carries through filtering and composition; `data * metadata` joins two datasets on shared dimensions with a single operator. Set operations (`|`, `&`, `-`), projection, contraction, and Ruby's built-in collection methods all work on every Namo out of the box. The talk introduces Namo's API by describing each of selection, projection, contraction, formulae, chaining, and composition, then through a sequence of live examples in `irb` (interactive Ruby), demonstrates each in practice. This is followed by a comparison of the same operations in pandas, xarray, and R. It also discusses how the library was designed and built in conjunction with Claude Code. Finally, it presents proposed future syntax changes: from the current hash-based row access (1.x) to bare names (2.x) to a declarative define-block DSL (3.x), with each step producing simpler, more readable code while preserving meaning.
+**Abstract:** Research data arrives as records, which are rows with named fields from databases, CSV files, and APIs. Yet the dominant libraries for processing data require researchers to reshape that data into positional, numeric structures before they can work with it. Names can be lost. Indices become opaque. Boilerplate accumulates.
+
+Namo is a library for named dimensional data that works with row-based data directly. It takes arrays of hashes and makes dimensions first-class:
+
+```ruby
+data[gene: 'BRCA1', tissue: 'breast']
+```
+
+selects by name;
+
+```ruby
+data[:category] = proc{|row| row[:expression] > 20 ? 'high' : 'low'}
+```
+
+defines a computed dimension that carries through filtering and composition;
+
+```ruby
+data * metadata
+```
+
+joins two datasets on shared dimensions with a single operator.
+
+Set operations (`|`, `&`, `-`), projection, contraction, and Ruby's built-in collection methods all work on every Namo out of the box.
+
+The talk introduces Namo's API by describing each of selection, projection, contraction, formulae, chaining, and composition, then through a sequence of live examples in `irb` (interactive Ruby), demonstrates each in practice.
+
+This is followed by a comparison of the same operations in pandas, xarray, and R. It also discusses how the library was designed and built in conjunction with Claude Code.
+
+Finally, it presents proposed future syntax changes: from the current hash-based row access (1.x) to bare names (2.x) to a declarative define-block DSL (3.x), with each step producing simpler, more readable code while preserving meaning.
 
 **Presenter Bio:** thoran is an independent software developer based in Melbourne, Australia, with over 40 years of software experience. He maintains over 20 published Ruby libraries spanning areas from HTTP, IMAP, and WebDAV clients, to state machines, utility classes, and API clients. His work sits at the intersection of software tooling, data infrastructure, and systems design. Some of his current projects include Namo (named dimensional data in Ruby), Configured (declarative cross-platform machine configuration and deployment), and Cryptarium (sovereign encrypted data containers). He is a long-standing advocate for Ruby's applicability beyond web development. His approach to software development emphasises compositional design, minimal dependencies, and interfaces that feel inevitable rather than learned.
 
