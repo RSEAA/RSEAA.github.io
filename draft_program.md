@@ -14,7 +14,7 @@ navigation_weight: 1
 
 <table>
     <tr><td><strong>12:30–13:15</strong></td><td colspan="3" align="center"><strong>Welcome & Conference Introduction</strong> (45 mins)</td></tr>
-    <tr><td><strong>13:15–13:45</strong></td><td colspan="3" align="center"><strong>Day 1 Keynote</strong> Liana Jacinta (30 mins)</td></tr>
+    <tr><td><strong>13:15–13:45</strong></td><td colspan="3" align="center"><strong>Day 1 Keynote</strong><br> Liana Jacinta (30 mins)</td></tr>
     <tr><th>Time</th><th>Session 1: Diversity & Policy Panel</th><th>Session 2: Equity, Access & Knowledge</th><th>Session 3: Community & Collaboration</th></tr>
     <tr><td><strong>13:45–15:25</strong><br>(100 mins)</td><td>• <strong>13:45–14:45</strong> (60 mins):<br><a href="#making-space-celebrating-people-and-diversity-in-research-software">Making space: Celebrating people and diversity in Research Software</a><br>Presenter: Jana Makar (Women in HPC)<br><br>• <strong>14:45–15:25</strong> (40 mins):<br><a href="#the-ssi-fellowship-without-borders-what-would-work-and-what-would-not">The SSI Fellowship Without Borders: What Would Work, and What Would Not</a><br>Presenters: Oscar Seip, Saranjeet Kaur, Aman Goel</td><td><strong>Interactive Workshop:</strong><br><a href="#meta-valuation-across-borders-a-cross-community-experiment-in-valuing-diverse-research-contributions">Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions</a><br>Presenter: Dr Cooper Smout<br><br><em>(Runs 13:45–15:15, 90 mins)</em></td><td><strong>Birds of a Feather (BoF):</strong><br><a href="#bof-metadata-across-disciplines-a-collaborative-journey">BoF: Metadata Across Disciplines – A Collaborative Journey</a><br>Presenters: Paul Wang, Emily Fitzgerald, Scout Bell, Rowland Mosbergen<br><br><em>(runs 13:45–15:15, 90 mins)</em></td></tr>
     <tr><td><strong>15:25–15:35</strong></td><td colspan="3" align="center"><strong>Transition Break</strong> (10 mins)</td></tr>
@@ -73,7 +73,7 @@ navigation_weight: 1
     <tr><td><strong>13:55–14:10</strong></td><td><strong>Session 15 Question Time & Discussion</strong> (15 mins)</td><td><strong>Session 16 Question Time & Discussion</strong> (15 mins)</td></tr>
     <tr><td><strong>14:10–14:45</strong></td><td><strong>Session 15 Breakout & Chat Rooms</strong> (35 mins)</td><td><strong>Session 16 Breakout & Chat Rooms</strong> (35 mins)</td></tr>
     <tr><td><strong>14:45–15:00</strong></td><td colspan="2" align="center"><strong>Coffee Break / Screen-Off Eye Break</strong> (15 mins)</td></tr>
-    <tr><td><strong>15:00–15:30</strong></td><td colspan="2" align="center"><strong>Day 4 Closing Keynote & RSAA26 Conference Farewell</strong> Presenter: 
+    <tr><td><strong>15:00–15:30</strong></td><td colspan="2" align="center"><strong>Day 4 Closing Keynote & RSAA26 Conference Farewell</strong><br> Presenter: 
 Prof. Mohammad Asif Khan (30 mins)</td></tr>
 </table>
 
