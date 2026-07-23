@@ -532,7 +532,19 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 * **Presenters:** Johan Gustafsson, Steven Manos
 * **Authors:** Johan Gustafsson (University of Melbourne)*; Steven Manos (University of Melbourne)
 
-**Abstract:** Australian BioCommons is the national digital research infrastructure for molecular life science researchers across academia, government, and industry. BioCommons responds to priority challenges in bioinformatics that are identified through consultation with Australian molecular life science communities (e.g. microbiome, proteomics), research consortia, and national projects. These responses are built on the real-world experience of researchers, and directly address the challenges faced by adopting, aligning to, or deploying national platforms and services. In this presentation, we will provide an update on BioCommons tailored to the research software engineering (RSE) community. It will cover the challenges we are addressing to improve access and execution of computational software and research workflows, and how our efforts to integrate elements of the Australian and international infrastructure ecosystem map to both the software life cycle and the requirements of RSEs.
+**Abstract:** Australian BioCommons is the national digital research infrastructure for molecular life science researchers across academia, government, and industry. BioCommons responds to priority challenges in bioinformatics that are identified through consultation with Australian molecular life science communities (e.g. microbiome, proteomics), research consortia, and national projects. These responses are built on the real-world experience of researchers, and directly address the challenges faced by adopting, aligning to, or deploying national platforms and services.
+
+In this presentation, we will provide an update on BioCommons tailored to the research software engineering (RSE) community. It will cover the challenges we are addressing to improve access and execution of computational software and research workflows, and how our efforts to integrate elements of the Australian and international infrastructure ecosystem map to both the software life cycle and the requirements of RSEs.
+
+This talk aligns with multiple topics for the conference, including:
+
+- Community leadership, cross-institution and cross-regional collaboration
+- Real-world experiences and lessons learned
+- Open collaboration and reuse of shared platforms, that use a tailored combination of cloud and HPC
+- Use of open, sovereign infrastructure, where possible, combined with existing international platforms and standards
+- Development of reproducible workflows that embed good research practice, including FAIR software in practice
+- Teaching and learning research software skills
+- Supporting emerging technologies, including AI-enabled research software and workflows
 
 **Presenter Bio:** Dr Johan Gustafsson is a Research Community Engagement Lead at Australian BioCommons, focused on computational methods and workflows across proteomics, metabolomics, and structural biology. He forges community connections both nationally and internationally, works closely with communities to develop roadmaps that present a vision for shared national infrastructure, and coordinates on-going consultations that help to roll out their shared vision. https://orcid.org/0000-0002-2977-5032.
 
