@@ -7,7 +7,8 @@ navigation_weight: 1
 
 ---
 
-## Day 1 – Community, Collaboration, Skills, Training & Careers
+## Day 1 – Tuesday 25 August 2026
+## Community, Collaboration, Skills, Training & Careers
 **Time:** 12:30 – 17:15 AEST (UTC+10)
 
 <table>
@@ -24,7 +25,8 @@ navigation_weight: 1
 
 ---
 
-## Day 2 – Skills, Training, Careers, Reproducibility, FAIR, Open Research, AI & Emerging Tools
+## Day 2 – Wednesday 26 August 2026
+## Skills, Training, Careers, Reproducibility, FAIR, Open Research, AI & Emerging Tools
 **Time:** 12:30 – 17:00 AEST (UTC+10)
 
 <table>
@@ -44,7 +46,8 @@ navigation_weight: 1
 
 ---
 
-## Day 3 – Infrastructure, Platforms, Skills, Careers, Data Platforms, Data Spaces, Equity & Access
+## Day 3 – Thursday 27 August 2026
+## Infrastructure, Platforms, Skills, Careers, Data Platforms, Data Spaces, Equity & Access
 **Time:** 12:30 – 17:00 AEST (UTC+10)
 
 <table>
@@ -61,7 +64,8 @@ navigation_weight: 1
 
 ---
 
-## Day 4 – AI, Emerging Tools, Reproducibility, FAIR, Open Research, Equity, Access, Knowledge, Sustainability & Impact
+## Day 4 – Friday 28 August 2026
+## AI, Emerging Tools, Reproducibility, FAIR, Open Research, Equity, Access, Knowledge, Sustainability & Impact
 **Time:** 12:30 – 15:30 AEST (UTC+10)
 
 <table>
