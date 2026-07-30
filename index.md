@@ -13,6 +13,9 @@ If so, you might want to join us for RSAA26, the fifth online annual Research So
 
 <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header">Apply for the Scholarships and Accessibility Micro-grants</a>
 
+## Partners
+
+We would like to thank our Asia Spotlight Partner [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Accessibility Partners the [Society of RSE](https://society-rse.org/), [Linux Australia](https://linux.org.au/), and the [Software Sustainabilty Institute](https://www.software.ac.uk/). We would also like to thank our Trust and Identity Partner [Australian Access Federation (AAF)](https://aaf.edu.au/), and our Supporting Partner [ARDC](https://ardc.edu.au/) for their contribution to our conference.
 
 ## Introducing Research Software Africa, Research Software Latinoamérica, and Equersa
 
