@@ -16,10 +16,10 @@ If so, you might want to join us for RSAA26, the fifth online annual Research So
 ## Partners
 
 <a href="https://www.access-nri.org.au/"><img height="75" alt="image" src="https://github.com/user-attachments/assets/50c9994a-448b-439a-85d3-30d0876fa59e" /></a><br/><br/><br/>
-<a href="https://society-rse.org/"><img height="50" alt="image" src="assets/logo_society_rse.png" /></a>
-<a href="https://linux.org.au/"><img height="50" alt="image" src="assets/logo_linux_australia.png" /></a>
-<a href="https://software.ac.uk/"><img height="50" alt="image" src="assets/logo_SSI.svg" /></a>
-<a href="http://aaf.edu.au/"><img height="50" alt="image" src="assets/logo_aaf.webp" /></a><br/><br/><br/>
+<a style="margin-right:20px" href="https://society-rse.org/"><img height="50" alt="image" src="assets/logo_society_rse.png" /></a>
+<a style="margin-right:20px" href="https://linux.org.au/"><img height="50" alt="image" src="assets/logo_linux_australia.png" /></a>
+<a style="margin-right:20px" href="https://software.ac.uk/"><img height="50" alt="image" src="assets/logo_SSI.svg" /></a>
+<a style="margin-right:20px" href="http://aaf.edu.au/"><img height="50" alt="image" src="assets/logo_aaf.webp" /></a><br/><br/><br/>
 <a href="http://ardc.edu.au/"><img height="30" alt="image" src="assets/logo_ARDC.png" /></a>
 
 We would like to thank our Asia Spotlight Partner [ACCESS-NRI](https://www.access-nri.org.au/) for supporting us, as well as our Accessibility Partners the [Society of RSE](https://society-rse.org/), [Linux Australia](https://linux.org.au/), and the [Software Sustainabilty Institute](https://www.software.ac.uk/). We would also like to thank our Trust and Identity Partner [Australian Access Federation (AAF)](https://aaf.edu.au/), and our Supporting Partner [ARDC](https://ardc.edu.au/) for their contribution to our conference.
