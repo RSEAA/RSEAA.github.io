@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Draft Program – RSAA26
+title: RSAA26 Conference Schedule & Abstracts
 permalink: /draft_program
 navigation_weight: 1
 ---
-
-# RSAA26 Conference Schedule & Abstracts
 
 ---
 
