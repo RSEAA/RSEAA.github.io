@@ -9,7 +9,7 @@ navigation_weight: 1
 
 ## Day 1 – Tuesday 25 August 2026
 ## Community, Collaboration, Skills, Training & Careers
-**Time:** 12:30 – 17:15 AEST (UTC+10)
+**Time:** [12:30 – 17:15 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260825T0230)
 
 <table>
     <tr><td><strong>12:30–13:15</strong></td><td colspan="3" align="center"><strong>Welcome & Conference Introduction</strong> (45 mins)</td></tr>
