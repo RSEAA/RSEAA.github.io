@@ -27,7 +27,7 @@ navigation_weight: 1
 
 ## Day 2 – Wednesday 26 August 2026
 ## Skills, Training, Careers, Reproducibility, FAIR, Open Research, AI & Emerging Tools
-**Time:** 12:30 – 17:00 AEST (UTC+10)
+**Time:** [12:30 – 17:00 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260826T0230)
 
 <table>
     <tr><td><strong>12:30–12:45</strong></td><td colspan="2" align="center"><strong>Day 2 Welcome & Announcements</strong> (15 mins)</td></tr>
@@ -48,7 +48,7 @@ navigation_weight: 1
 
 ## Day 3 – Thursday 27 August 2026
 ## Infrastructure, Platforms, Skills, Careers, Data Platforms, Data Spaces, Equity & Access
-**Time:** 12:30 – 17:00 AEST (UTC+10)
+**Time:** [12:30 – 17:00 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260827T0230)
 
 <table>
     <tr><td><strong>12:30–12:40</strong></td><td colspan="2" align="center"><strong>Day 3 Welcome & Daily Overview</strong> (10 mins)</td></tr>
@@ -66,7 +66,7 @@ navigation_weight: 1
 
 ## Day 4 – Friday 28 August 2026
 ## AI, Emerging Tools, Reproducibility, FAIR, Open Research, Equity, Access, Knowledge, Sustainability & Impact
-**Time:** 12:30 – 15:30 AEST (UTC+10)
+**Time:** [12:30 – 15:30 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260828T0230)
 
 <table>
     <tr><td><strong>12:30–12:40</strong></td><td colspan="2" align="center"><strong>Day 4 Welcome & Agenda Briefing</strong> (10 mins)</td></tr>
