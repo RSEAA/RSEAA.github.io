@@ -9,7 +9,7 @@ navigation_weight: 1
 
 ## Day 1 – Tuesday 25 August 2026
 ## Community, Collaboration, Skills, Training & Careers
-**Time:** 12:30 – 17:15 AEST (UTC+10)
+**Time:** [12:30 – 17:15 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260825T0230)
 
 <table>
     <tr><td><strong>12:30–13:15</strong></td><td colspan="3" align="center"><strong>Welcome & Conference Introduction</strong> (45 mins)</td></tr>
@@ -27,7 +27,7 @@ navigation_weight: 1
 
 ## Day 2 – Wednesday 26 August 2026
 ## Skills, Training, Careers, Reproducibility, FAIR, Open Research, AI & Emerging Tools
-**Time:** 12:30 – 17:00 AEST (UTC+10)
+**Time:** [12:30 – 17:00 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260826T0230)
 
 <table>
     <tr><td><strong>12:30–12:45</strong></td><td colspan="2" align="center"><strong>Day 2 Welcome & Announcements</strong> (15 mins)</td></tr>
@@ -48,7 +48,7 @@ navigation_weight: 1
 
 ## Day 3 – Thursday 27 August 2026
 ## Infrastructure, Platforms, Skills, Careers, Data Platforms, Data Spaces, Equity & Access
-**Time:** 12:30 – 17:00 AEST (UTC+10)
+**Time:** [12:30 – 17:00 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260827T0230)
 
 <table>
     <tr><td><strong>12:30–12:40</strong></td><td colspan="2" align="center"><strong>Day 3 Welcome & Daily Overview</strong> (10 mins)</td></tr>
@@ -66,7 +66,7 @@ navigation_weight: 1
 
 ## Day 4 – Friday 28 August 2026
 ## AI, Emerging Tools, Reproducibility, FAIR, Open Research, Equity, Access, Knowledge, Sustainability & Impact
-**Time:** 12:30 – 15:30 AEST (UTC+10)
+**Time:** [12:30 – 15:30 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260828T0230)
 
 <table>
     <tr><td><strong>12:30–12:40</strong></td><td colspan="2" align="center"><strong>Day 4 Welcome & Agenda Briefing</strong> (10 mins)</td></tr>
@@ -446,7 +446,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 <a id="breaking-bias-in-requirements-engineering-artificial-intelligence-for-inclusivity-sustainability"></a>
 ## Breaking Bias in Requirements Engineering: Artificial Intelligence for Inclusivity & Sustainability
 * **Presenter:** Dr Hafsa Shareef Dar
-* **Authors:** Hafsa  Dar (University of Gujrat)*
+* **Authors:** Hafsa  Dar (Anglia Ruskin University, Peterborough)*
 
 **Abstract:** Requirements Engineering (RE) is the foundational phase of software development, where biases embedded in natural language (NL) requirements can propagate throughout the software lifecycle, potentially resulting in systems that exclude or disadvantage certain user groups. Despite increasing awareness of Diversity and Inclusion (D&I) and the United Nations Sustainable Development Goals (SDGs), the integration of social sustainability—particularly SDG-5 (Gender Equality)—into RE remains largely theoretical, with limited practical tools, methods, and AI-based support for bias detection during requirements elicitation. Key gaps in current RE practices include the lack of systematic mechanisms to detect gendered, stereotypical, or exclusionary language; insufficient analysis of stakeholder diversity and representation; absence of SDG-aligned evaluation metrics; and reliance on manual, ad-hoc bias mitigation approaches. Traditional RE reviews are often subjective, time-consuming, and ineffective in capturing subtle forms of bias related to gender, culture, or accessibility. Moreover, sustainability efforts in software engineering have primarily focused on environmental and economic aspects, while neglecting the social dimension. To address these limitations, this research proposes an AI-powered NLP framework for inclusive requirements engineering. The framework applies natural language processing and machine learning techniques to automatically detect gendered language, stereotypes, and exclusionary expressions in requirements documents. It also identifies gaps in stakeholder representation and evaluates requirements alignment with SDG-5 targets and broader social sustainability goals. The framework further provides actionable feedback for bias mitigation and inclusive rewriting of requirements. Embedded mitigation strategies include gender sensitization support, generation of inclusive personas, development of inclusive conceptual models, and iterative feedback-driven refinement of requirements specifications. Unlike prior exploratory work, this approach emphasizes practical implementation supported by tools and measurable evaluation criteria. Overall, the proposed solution promotes Inclusive-by-Design Requirements Engineering by enabling fair representation, transparent bias detection, and improved equity in software outcomes. It supports the development of socially responsible and sustainable software systems that enhance access, participation, and empowerment across diverse user groups. By integrating D&I considerations early in the development lifecycle, the framework aligns software engineering practice with the UN 2030 Agenda. This research contributes by bridging AI, Requirements Engineering, and sustainability studies, offering practical methods, processes, and metrics that have been largely missing.
 
