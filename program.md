@@ -13,7 +13,7 @@ navigation_weight: 1
 
 <table>
     <tr><td><strong>12:30–13:15</strong></td><td colspan="3" align="center"><strong>Welcome & Conference Introduction</strong> (45 mins)</td></tr>
-    <tr><td><strong>13:15–13:45</strong></td><td colspan="3" align="center"><strong>Day 1 Keynote</strong><br>Presenter: Liana Jacinta (30 mins)</td></tr>
+    <tr><td><strong>13:15–13:45</strong></td><td colspan="3" align="center"><strong>Day 1 Keynote</strong><br><a href="#the-human-infrastructure-of-research">The Human Infrastructure of Research</a><br>Presenter: Liana Jacinta Jaganathan (30 mins)</td></tr>
     <tr><th>Time</th><th>Session 1: Diversity & Policy Panel<br><em>Chairs: Monu Sharma, Narendra Badam</em></th><th>Session 2: Equity, Access & Knowledge<br><em>Chair: Vidyasagar Palla</em></th><th>Session 3: Community & Collaboration<br><em>Chair: Sanduni Rajapaksa</em></th></tr>
     <tr><td><strong>13:45–15:25</strong><br>(100 mins)</td><td>• <strong>13:45–14:45</strong> (60 mins):<br><a href="#making-space-celebrating-people-and-diversity-in-research-software">Making space: Celebrating people and diversity in Research Software</a><br>Presenter: Jana Makar (Women in HPC)<br><br>• <strong>14:45–15:25</strong> (40 mins):<br><a href="#the-ssi-fellowship-without-borders-what-would-work-and-what-would-not">The SSI Fellowship Without Borders: What Would Work, and What Would Not</a><br>Presenters: Oscar Seip, Saranjeet Kaur, Aman Goel</td><td><strong>Interactive Workshop:</strong><br><a href="#meta-valuation-across-borders-a-cross-community-experiment-in-valuing-diverse-research-contributions">Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions</a><br>Presenter: Dr Cooper Smout<br><br><em>(Runs 13:45–15:15, 90 mins)</em></td><td><strong>Birds of a Feather (BoF):</strong><br><a href="#bof-metadata-across-disciplines-a-collaborative-journey">BoF: Metadata Across Disciplines – A Collaborative Journey</a><br>Presenters: Paul Wang, Emily Fitzgerald, Scout Bell, Rowland Mosbergen<br><br><em>(runs 13:45–15:15, 90 mins)</em></td></tr>
     <tr><td><strong>15:25–15:35</strong></td><td colspan="3" align="center"><strong>Transition Break</strong> (10 mins)</td></tr>
@@ -82,6 +82,29 @@ navigation_weight: 1
 ---
 
 # Presentation Abstracts and Details
+
+
+<a id="the-human-infrastructure-of-research"></a>
+## The Human Infrastructure of Research
+* **Presenter:** Liana Jacinta Jaganathan
+* **Authors:** Liana Jacinta Jaganathan (General Manager, Asia Pacific Advanced Network)
+
+**Abstract:** Research infrastructure is often defined by the things we can build: high-speed networks, research software, cloud platforms, data repositories and advanced computing. Yet the infrastructure that makes these systems truly valuable is less visible — the people, relationships, communities and trust that connect them.
+
+In this keynote, **“The Human Infrastructure of Research,”** Liana explores how collaboration and community are becoming critical foundations for sustainable research and innovation across the Asia-Pacific. Drawing from her experience in research and education networking, regional partnerships, organisational leadership and technology development, she examines what happens when infrastructure moves beyond connecting systems to connecting people.
+
+The keynote explores the human infrastructure behind research software, open science and research networks — how trust enables collaboration, how communities sustain knowledge beyond individual projects, and how strategic partnerships can turn isolated capabilities into collective impact. It also considers the challenge of building ecosystems that are inclusive, resilient and sustainable across different countries, institutions, disciplines and levels of technological maturity.
+
+Looking towards the future of research, the central question is not simply what technology will we build? but what communities will we build around it? Because technology can connect systems. Communities connect people. And people create impact.
+
+**Presenter Bio:** 
+Liana Jacinta is a senior executive specialising in industry–academic partnerships, large-scale conference delivery, and international stakeholder engagement. She provides operational leadership at Global Support Services, where her team developed ORBIT, a customisable event and engagement platform supporting high-impact conferences and complex, multi-stakeholder programmes.
+
+As General Manager of the [Asia Pacific Advanced Network (APAN)](https://apan.net/), Liana leads initiatives that enhance organisational visibility, expand memberships and strategic partnerships, and deliver sustainable revenue growth. She provides operational oversight across finance, administration, human resources, and IT, ensuring efficient, agile, and commercially sound service delivery.
+
+With a strong focus on execution, collaboration, and value creation, Liana actively champions working groups and cross-sector partnerships that translate innovation and research into real-world outcomes.
+
+---
 
 <a id="from-method-to-research-software-and-beyond-18-years-of-building-mixomics"></a>
 ## From Method to Research Software, and Beyond: 18 Years of Building mixOmics
