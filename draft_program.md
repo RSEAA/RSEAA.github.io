@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSAA26 Conference Schedule & Abstracts
-permalink: /program
+permalink: /draft_program
 navigation_weight: 1
 ---
 
