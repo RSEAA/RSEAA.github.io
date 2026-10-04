@@ -4,9 +4,6 @@ title: RSAA26 Conference Schedule & Abstracts
 permalink: /program
 navigation_weight: 1
 ---
-
----
-
 ## Day 1 – Tuesday 25 August 2026
 ## Community, Collaboration, Skills, Training & Careers
 **Time:** [12:30 – 17:15 AEST (UTC+10)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260825T0230)
@@ -81,11 +78,11 @@ navigation_weight: 1
 
 ---
 
-# Presentation Abstracts and Details
+## Presentation Abstracts and Details
 
 
 <a id="the-human-infrastructure-of-research"></a>
-## The Human Infrastructure of Research
+### The Human Infrastructure of Research
 * **Presenter:** Liana Jacinta Jaganathan
 * **Authors:** Liana Jacinta Jaganathan (General Manager, Asia Pacific Advanced Network)
 
@@ -107,7 +104,7 @@ With a strong focus on execution, collaboration, and value creation, Liana activ
 ---
 
 <a id="from-method-to-research-software-and-beyond-18-years-of-building-mixomics"></a>
-## From Method to Research Software, and Beyond: 18 Years of Building mixOmics
+### From Method to Research Software, and Beyond: 18 Years of Building mixOmics
 * **Presenter:** Prof. Kim-Anh Lê Cao
 * **Authors:** Prof. Kim-Anh Lê Cao (Melbourne Integrative Genomics, School of Mathematics and Statistics, The University of Melbourne)
 
@@ -120,7 +117,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="what-survives-research-software-without-borders"></a>
-## What Survives: Research Software Without Borders
+### What Survives: Research Software Without Borders
 * **Presenter:** Prof. Mohammad Asif Khan
 * **Authors:** Prof. Mohammad Asif Khan (College of Computing and Information Technology, University of Doha for Science and Technology (UDST), Qatar)
 
@@ -131,7 +128,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="an-efficient-high-dimensional-gene-expression-based-multi-class-cancer-prediction-model-using-ensemble-learning"></a>
-## An Efficient High Dimensional Gene Expression Based Multi-Class Cancer Prediction Model Using Ensemble Learning
+### An Efficient High Dimensional Gene Expression Based Multi-Class Cancer Prediction Model Using Ensemble Learning
 * **Presenter:** P. Krithy Sreshta
 * **Authors:** P. Krithy Sreshta (SRM Institute of Science and Technology)*
 
@@ -142,7 +139,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="the-rcp-discovery-internship-program-building-a-global-innovation-lab-for-research-software"></a>
-## The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software
+### The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software
 * **Presenter:** Rowland Mosbergen
 * **Authors:** Rowland Mosbergen (WEHI)*
 
@@ -153,7 +150,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="building-capacity-from-the-inside-a-project-update-from-the-research-software-engineering-capacity-enhancement-project-rse-cep"></a>
-## Building Capacity from the Inside: A Project Update from the Research Software Engineering Capacity Enhancement Project (RSE-CEP)
+### Building Capacity from the Inside: A Project Update from the Research Software Engineering Capacity Enhancement Project (RSE-CEP)
 * **Presenter:** James Smithies
 * **Authors:** James Smithies (The Australian National University)*
 
@@ -164,7 +161,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="launching-discworld-a-bespoke-user-considerate-cryoem-processing-cluster"></a>
-## Launching Discworld: A bespoke, user-considerate, CryoEM processing cluster
+### Launching Discworld: A bespoke, user-considerate, CryoEM processing cluster
 * **Presenters:** Nathan Glades, Keiran Rowell
 * **Authors:** Keiran Rowell (Structural Biology Facility - UNSW)*; nathan Glades (Structural Biology Facility - UNSW)
 
@@ -175,7 +172,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="open-datasets-breaking-down-the-barriers-for-collaboration-and-reuse"></a>
-## Open datasets: breaking down the barriers for collaboration and reuse
+### Open datasets: breaking down the barriers for collaboration and reuse
 * **Presenter:** Genevieve Buckley
 * **Authors:** Genevieve Buckley (Walter and Eliza Hall Institute)*
 
@@ -186,7 +183,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="ai-driven-risk-stratification-of-tumor-subpopulations-from-scrna-seq-using-phenotype-algebra"></a>
-## AI-driven risk stratification of tumor subpopulations from scRNA-seq using Phenotype Algebra
+### AI-driven risk stratification of tumor subpopulations from scRNA-seq using Phenotype Algebra
 * **Presenter:** Namrata Bhattacharya
 * **Authors:** Namrata Bhattacharya (Peter MacCallum Cancer Centre)*
 
@@ -197,7 +194,7 @@ I will share what eighteen years of developing and maintaining mixOmics have tau
 ---
 
 <a id="namo-working-with-named-dimensional-data"></a>
-## Namo: Working with Named Dimensional Data
+### Namo: Working with Named Dimensional Data
 * **Presenter:** thoran
 * **Authors:** thoran - (NA)*
 
@@ -236,7 +233,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="breaking-barriers-in-research-data-implementing-fair-workflows-and-persistent-identifiers-across-distributed-systems"></a>
-## Breaking Barriers in Research Data: Implementing FAIR Workflows and Persistent Identifiers Across Distributed Systems
+### Breaking Barriers in Research Data: Implementing FAIR Workflows and Persistent Identifiers Across Distributed Systems
 * **Presenter:** Aline de Souza Andrade
 * **Authors:** Aline de Souza Andrade (UWA)*
 
@@ -247,7 +244,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="research-software-without-borders-open-and-reproducible-computational-neuroscience-workflows-across-the-globe"></a>
-## Research Software Without Borders: Open and Reproducible Computational Neuroscience Workflows Across the Globe
+### Research Software Without Borders: Open and Reproducible Computational Neuroscience Workflows Across the Globe
 * **Presenter:** Chitaranjan Mahapatra
 * **Authors:** Chitaranjan Mahapatra (Department of Electronics and Communication Engineering SRM Institute of Science and Technology, Delhi NCR Campus, India)*
 
@@ -258,7 +255,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="cpux-state-driven-orchestration-for-distributed-research-simulations"></a>
-## CPUX: State-Driven Orchestration for Distributed Research Simulations
+### CPUX: State-Driven Orchestration for Distributed Research Simulations
 * **Presenter:** Pronab Pal
 * **Authors:** PRONAB PAL (KEYBYYESYSTEMS)*; Pronab Pal (Keybytesystems)
 
@@ -269,7 +266,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="intelligent-automation-in-healthcare-innovation"></a>
-## Intelligent Automation in Healthcare Innovation
+### Intelligent Automation in Healthcare Innovation
 * **Presenter:** Anushka Bhargava
 * **Authors:** Anushka Bhargava (Philips)*
 
@@ -280,7 +277,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="ecosystem-indicators-workflows-building-a-fair-modular-toolbox-for-reproducible-ecological-assessment-in-australia"></a>
-## Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia
+### Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia
 * **Presenters:** Abhimanyu Raj Singh, Jose Ferrer Paris
 * **Authors:** Abhimanyu Raj Singh (UNSW)*; Jose Ferrer Paris (UNSW)
 
@@ -291,7 +288,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="a-3-month-challenge-to-revive-share-and-sustain-a-phd-era-bioinformatics-tool"></a>
-## A 3-month challenge to revive, share, and sustain a PhD-era bioinformatics tool
+### A 3-month challenge to revive, share, and sustain a PhD-era bioinformatics tool
 * **Presenter:** Saliha Elif Yildizhan
 * **Authors:** Saliha Yildizhan (Peter MacCallum Cancer Centre)*
 
@@ -302,7 +299,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="research-software-engineering-in-the-age-of-generative-ai"></a>
-## Research Software Engineering in the Age of Generative AI
+### Research Software Engineering in the Age of Generative AI
 * **Presenters:** Richard Littauer, Michelle Barker, Sandra Gesing
 * **Authors:** Richard Littauer (Te Herenga Waka Victoria University of Wellington)*; Michelle Barker (ReSA); Sandra Gesing (US-RSE)
 
@@ -313,7 +310,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="the-future-and-present-of-research-software-engineering-with-cross-functional-teams"></a>
-## The Future (and Present) of Research Software Engineering with Cross-functional Teams
+### The Future (and Present) of Research Software Engineering with Cross-functional Teams
 * **Presenter:** Gregory B. Poole
 * **Authors:** Gregory Poole (Swinburne University of Technology)*
 
@@ -324,7 +321,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="fortran-is-cool-dont-let-your-friends-convince-you-otherwise"></a>
-## Fortran is cool don't let your friends convince you otherwise
+### Fortran is cool don't let your friends convince you otherwise
 * **Presenter:** Jorge Luis Galvez Vallejo
 * **Authors:** Jorge Galvez Vallejo (NCI)*
 
@@ -335,7 +332,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="bri-datalab-an-ai-assisted-research-platform-for-infrastructure-finance-research-in-international-relations"></a>
-## BRI DataLab: an AI-Assisted Research Platform for Infrastructure Finance Research in International Relations
+### BRI DataLab: an AI-Assisted Research Platform for Infrastructure Finance Research in International Relations
 * **Presenter:** Sanoop Sajan Koshy
 * **Authors:** Sanoop Sajan Koshy (Indian Institute of Technology Madras)*
 
@@ -346,7 +343,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="computational-research-sustainability"></a>
-## Computational Research Sustainability
+### Computational Research Sustainability
 * **Presenter:** Pao Corrales
 * **Authors:** Paola Corrales (21st Century Weather Centre)*
 
@@ -357,7 +354,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="an-integrative-bioinformatics-framework-for-identifying-core-regulatory-pathways-in-melanoma-metastasis"></a>
-## An Integrative Bioinformatics Framework for Identifying Core Regulatory Pathways in Melanoma Metastasis
+### An Integrative Bioinformatics Framework for Identifying Core Regulatory Pathways in Melanoma Metastasis
 * **Presenters:** Tifany Nabilah, Linda Erlina
 * **Authors:** Tifany Nabilah (Master’s Programme in Biomedical Sciences, Faculty of Medicine, Universitas Indonesia)*; Linda Erlina (Bioinformatics Core Facilities, Indonesian Medical Education and Research Institute (IMERI), Faculty of Medicine, Universitas Indonesia)
 
@@ -368,7 +365,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="a-reproducible-bioinformatics-workflow-for-biomarker-discovery-in-therapy-resistant-breast-cancer-using-public-transcriptomic-datasets"></a>
-## A Reproducible Bioinformatics Workflow for Biomarker Discovery in Therapy-Resistant Breast Cancer Using Public Transcriptomic Datasets
+### A Reproducible Bioinformatics Workflow for Biomarker Discovery in Therapy-Resistant Breast Cancer Using Public Transcriptomic Datasets
 * **Presenter:** Sepiah Dwi Cahyani
 * **Authors:** Sepiah  Cahyani (Universitas Indonesia)*
 
@@ -379,7 +376,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="computational-transcriptomics-analysis-for-biomarker-discovery-in-triple-negative-breast-cancer"></a>
-## Computational Transcriptomics Analysis for Biomarker Discovery in Triple Negative Breast Cancer
+### Computational Transcriptomics Analysis for Biomarker Discovery in Triple Negative Breast Cancer
 * **Presenter:** May Eva Francisca
 * **Authors:** May Francisca (University of Indonesia)*
 
@@ -390,7 +387,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="scaling-reproducible-bioinformatics-workflows-with-r-markdown-slurm"></a>
-## Scaling Reproducible Bioinformatics Workflows with R Markdown & Slurm
+### Scaling Reproducible Bioinformatics Workflows with R Markdown & Slurm
 * **Presenter:** Felicia Ong Sing Yi
 * **Authors:** Felicia Ong Sing Yi (Walter and Eliza Hall Institute of Medical Research)*
 
@@ -401,7 +398,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="reproducibility-debt-a-hidden-sustainability-challenge-in-research-software"></a>
-## Reproducibility Debt: A Hidden Sustainability Challenge in Research Software
+### Reproducibility Debt: A Hidden Sustainability Challenge in Research Software
 * **Presenter:** Zara Hassan
 * **Authors:** Zara Hassan (Australian National University)*
 
@@ -412,7 +409,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="meta-valuation-a-self-referential-mechanism-for-valuing-diverse-research-contributions"></a>
-## Meta-valuation: A Self-Referential Mechanism for Valuing Diverse Research Contributions
+### Meta-valuation: A Self-Referential Mechanism for Valuing Diverse Research Contributions
 * **Presenter:** Dr Cooper Smout
 * **Authors:** Cooper Smout (Open Heart + Mind)*
 
@@ -423,7 +420,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="meta-valuation-across-borders-a-cross-community-experiment-in-valuing-diverse-research-contributions"></a>
-## Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions
+### Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions
 * **Presenter:** Dr Cooper Smout
 * **Authors:** Cooper Smout (Open Heart + Mind)*
 
@@ -434,7 +431,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="identification-of-key-hub-genes-in-hepatocellular-carcinoma-via-integrated-bioinformatics-analysis-and-stringent-ppi-network-filtering"></a>
-## Identification of Key Hub Genes in Hepatocellular Carcinoma via Integrated Bioinformatics Analysis and Stringent PPI Network Filtering
+### Identification of Key Hub Genes in Hepatocellular Carcinoma via Integrated Bioinformatics Analysis and Stringent PPI Network Filtering
 * **Presenter:** Tazkia Salma Hanifa
 * **Authors:** Tazkia Hanifa (Universitas Indonesia)*
 
@@ -445,7 +442,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="reproducible-command-line-workflows-with-asciinema-scripted"></a>
-## Reproducible command-line workflows with asciinema-scripted
+### Reproducible command-line workflows with asciinema-scripted
 * **Presenter:** Robert Moss
 * **Authors:** Robert Moss (The University of Melbourne)*
 
@@ -456,7 +453,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="breaking-bias-in-requirements-engineering-artificial-intelligence-for-inclusivity-sustainability"></a>
-## Breaking Bias in Requirements Engineering: Artificial Intelligence for Inclusivity & Sustainability
+### Breaking Bias in Requirements Engineering: Artificial Intelligence for Inclusivity & Sustainability
 * **Presenter:** Dr Hafsa Shareef Dar
 * **Authors:** Hafsa  Dar (Anglia Ruskin University, Peterborough)*
 
@@ -467,7 +464,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="life-registries-and-the-unborn-child-a-matter-of-data-access-and-protection"></a>
-## Life Registries and the Unborn Child: A Matter of Data Access and Protection?
+### Life Registries and the Unborn Child: A Matter of Data Access and Protection?
 * **Presenter:** Dennis Batangan
 * **Authors:** Dennis Batangan (Ateneo  de  Manila  University,  Institute  of  Philippine  Culture)*
 
@@ -478,7 +475,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="from-archive-to-analysis-community-led-open-software-for-hass-indigenous-and-glam-digital-collections"></a>
-## From Archive to Analysis: Community-Led Open Software for HASS, Indigenous and GLAM Digital Collections
+### From Archive to Analysis: Community-Led Open Software for HASS, Indigenous and GLAM Digital Collections
 * **Presenter:** Natalia Orel
 * **Authors:** Natalia Orel (University of Melbourne)*
 
@@ -489,7 +486,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="transitioning-to-minimally-invasive-diagnostics-for-atopic-dermatitis-validating-a-keratin-based-genetic-signature-in-skin-shave-samples"></a>
-## Transitioning to Minimally Invasive Diagnostics for Atopic Dermatitis: Validating a Keratin-Based Genetic Signature in Skin Shave Samples
+### Transitioning to Minimally Invasive Diagnostics for Atopic Dermatitis: Validating a Keratin-Based Genetic Signature in Skin Shave Samples
 * **Presenter:** Rachmat Puziyanto
 * **Authors:** Rachmat Puziyanto (University of Indonesia)*
 
@@ -500,7 +497,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="birds-of-a-feather-rse-aunz-update-community-survey-ask-me-anything"></a>
-## Birds of a Feather: RSE-AUNZ Update, Community Survey & Ask Me Anything
+### Birds of a Feather: RSE-AUNZ Update, Community Survey & Ask Me Anything
 * **Presenters:** Rowland Mosbergen, Matthew Laurenson
 * **Authors:** Rowland Mosbergen (WEHI)*; Matthew Laurenson (Bioeconomy Science Institute)
 
@@ -511,7 +508,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="building-diverse-and-inclusive-technical-teams-from-recruitment-to-retention"></a>
-## Building Diverse and Inclusive Technical Teams: From Recruitment to Retention
+### Building Diverse and Inclusive Technical Teams: From Recruitment to Retention
 * **Presenters:** Rowland Mosbergen, Marion Weinzierl
 * **Authors:** Rowland Mosbergen (WEHI)*; Marion Weinzierl (Institute of Computing for Climate Science (ICCS))
 
@@ -522,7 +519,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="hpc-resource-dashboard-helping-researchers-do-more-with-less-on-shared-hpc-infrastructure"></a>
-## HPC Resource Dashboard: Helping Researchers Do More With Less on Shared HPC Infrastructure
+### HPC Resource Dashboard: Helping Researchers Do More With Less on Shared HPC Infrastructure
 * **Presenter:** Samuel Green
 * **Authors:** Samuel Green (UNSW)*
 
@@ -533,7 +530,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="dual-purpose-research-software"></a>
-## Dual-Purpose Research Software
+### Dual-Purpose Research Software
 * **Presenter:** Attila Egri-Nagy
 * **Authors:** Attila Egri-Nagy (Akita International University)*
 
@@ -544,7 +541,7 @@ Finally, it presents proposed future syntax changes: from the current hash-based
 ---
 
 <a id="australian-biocommons-infrastructure-access-and-execution-for-complex-research-workflows"></a>
-## Australian BioCommons: infrastructure access and execution for complex research workflows
+### Australian BioCommons: infrastructure access and execution for complex research workflows
 * **Presenters:** Johan Gustafsson, Steven Manos
 * **Authors:** Johan Gustafsson (University of Melbourne)*; Steven Manos (University of Melbourne)
 
@@ -567,7 +564,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="making-space-celebrating-people-and-diversity-in-research-software"></a>
-## Making space: Celebrating people and diversity in Research Software
+### Making space: Celebrating people and diversity in Research Software
 * **Presenter:** Jana Makar
 * **Authors:** Jana Makar (Women in HPC Australasia Chapter)*
 
@@ -578,7 +575,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="bridging-the-gap-bof-for-standardising-user-and-dataset-mapping-across-research-software-ecosystems"></a>
-## Bridging the Gap: BoF for Standardising User and Dataset Mapping Across Research Software Ecosystems
+### Bridging the Gap: BoF for Standardising User and Dataset Mapping Across Research Software Ecosystems
 * **Presenters:** Rowland Mosbergen, Anurag Katariya, Melroy Almeida, Sarah Thomas
 * **Authors:** Mosbergen, Rowland; Katariya, Anurag; Almeida , Melroy; Thomas, Sarah*
 
@@ -589,7 +586,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="bof-metadata-across-disciplines-a-collaborative-journey"></a>
-## BoF: Metadata Across Disciplines – A Collaborative Journey
+### BoF: Metadata Across Disciplines – A Collaborative Journey
 * **Presenters:** Paul Wang, Emily Fitzgerald, Rowland Mosbergen, Scout Bell
 * **Authors:** Mosbergen, Rowland*; Wang, Paul; Fitzgerald, Emily; Bell, Scout
 
@@ -600,7 +597,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="from-ad-hoc-promotions-to-visible-career-pathways-for-research-software-engineers"></a>
-## From Ad Hoc Promotions to Visible Career Pathways for Research Software Engineers
+### From Ad Hoc Promotions to Visible Career Pathways for Research Software Engineers
 * **Presenters:** Rowland Mosbergen, Julie Iskander
 * **Authors:** Mosbergen, Rowland*; Iskander, Julie
 
@@ -611,7 +608,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="building-and-sustaining-research-software-engineering-communities-the-role-of-computational-skills-trainers"></a>
-## Building and sustaining research software engineering communities: The role of computational skills trainers
+### Building and sustaining research software engineering communities: The role of computational skills trainers
 * **Presenter:** Elijah Atta Manu
 * **Authors:** Atta Manu, Elijah*
 
@@ -622,7 +619,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="from-r-to-python-porting-a-research-software-package-across-language-ecosystems"></a>
-## From R to Python: Porting a Research Software Package Across Language Ecosystems
+### From R to Python: Porting a Research Software Package Across Language Ecosystems
 * **Presenter:** Jyoti Bhogal
 * **Authors:** Bhogal, Jyoti*
 
@@ -633,7 +630,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="from-internal-tool-to-research-software-preparing-an-r-package-for-cran"></a>
-## From Internal Tool to Research Software: Preparing an R Package for CRAN
+### From Internal Tool to Research Software: Preparing an R Package for CRAN
 * **Presenter:** Jyoti Bhogal
 * **Authors:** Bhogal, Jyoti*
 
@@ -644,7 +641,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="the-ssi-fellowship-without-borders-what-would-work-and-what-would-not"></a>
-## The SSI Fellowship Without Borders: What Would Work, and What Would Not
+### The SSI Fellowship Without Borders: What Would Work, and What Would Not
 * **Presenters:** Oscar Seip, Saranjeet Kaur, Aman Goel
 * **Authors:** Seip, Oscar*
 
@@ -655,7 +652,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="the-helpfulbatbot-a-rag-based-assistant-for-democratising-geodynamic-modelling"></a>
-## The HelpfulBatBot: a RAG-based assistant for democratising Geodynamic modelling
+### The HelpfulBatBot: a RAG-based assistant for democratising Geodynamic modelling
 * **Presenters:** Juan Carlos Graciosa, Louis Moresi
 * **Authors:** Graciosa, Juan Carlos*; Moresi, Louis
 
@@ -666,7 +663,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="transcriptomics-and-protein-protein-interaction-analysis-to-reveal-pathogenicity-and-antimicrobial-resistance-in-children-under-5-years-with-acute-diarrhea"></a>
-## Transcriptomics and protein-protein interaction analysis to reveal pathogenicity and antimicrobial resistance in children under 5 years with acute diarrhea
+### Transcriptomics and protein-protein interaction analysis to reveal pathogenicity and antimicrobial resistance in children under 5 years with acute diarrhea
 * **Presenters:** Linda Erlina, Fadilah Fadilah, Asmarinah Asmarinah, Badriul Hegar, Aryo Tedjo
 * **Authors:** Erlina, Linda*; Fadilah, Fadilah; Asmarinah, Asmarinah; Hegar, Badriul; Tedjo, Aryo
 
@@ -677,7 +674,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="beyond-interoperability-hands-on-federated-ml-for-research-data-curation-infrastructure"></a>
-## Beyond Interoperability: Hands-On Federated ML for Research Data Curation Infrastructure
+### Beyond Interoperability: Hands-On Federated ML for Research Data Curation Infrastructure
 * **Presenter:** Arnab Mukherjee
 * **Authors:** Arnab Mukherjee (SAFE Evidence Lab, Oklahoma State University Center for Health Sciences)
 
@@ -688,7 +685,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="in-the-beginning-was-documentation-and-the-documentation-was-parsed-and-the-documentation-begat-the-code-and-it-was-good"></a>
-## In the Beginning Was Documentation, and the Documentation Was Parsed, and the Documentation Begat the Code, and It Was Good
+### In the Beginning Was Documentation, and the Documentation Was Parsed, and the Documentation Begat the Code, and It Was Good
 * **Presenter:** Elio Campitelli
 * **Authors:** Elio Campitelli (Monash University)*
 
@@ -699,7 +696,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="got-a-data-challenge-theres-a-global-community-for-that-an-introduction-to-the-research-data-alliance-rda"></a>
-## Got a Data Challenge? There's a Global Community for That: An Introduction to the Research Data Alliance (RDA)
+### Got a Data Challenge? There's a Global Community for That: An Introduction to the Research Data Alliance (RDA)
 * **Presenter:** Trish Radotic
 * **Authors:** Trish Radotic (Research Data Alliance)*
 
@@ -710,7 +707,7 @@ This talk aligns with multiple topics for the conference, including:
 ---
 
 <a id="research-software-without-borders-building-an-open-community-blueprint-for-agentic-ai-in-research"></a>
-## Research Software Without Borders: Building an Open Community Blueprint for Agentic AI in Research
+### Research Software Without Borders: Building an Open Community Blueprint for Agentic AI in Research
 * **Presenter:** Trish Radotic
 * **Authors:** Trish Radotic (Research Data Alliance)*
 
