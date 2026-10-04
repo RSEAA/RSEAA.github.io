@@ -31,7 +31,7 @@ Each year the Accessibility Fellowship brings fellows with lived experience of d
 
 ## Earlier reports
 
-In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance.
+In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](/RSEAUNZAccessibility.html) that we use as a benchmark for our performance.
 
 ## Accessibility Fellowship
 

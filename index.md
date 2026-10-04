@@ -9,8 +9,6 @@ Do you want to learn what others are doing in research software in your domain a
 
 If so, you might want to join us for RSAA26, the fifth online annual Research Software Asia Australia Conference, from the **25th to the 28th of August 2026**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Research Software Without Borders"** and the hashtag will be #RSAA26.
 
-<a class="rse rse-join" href="program">The RSAA26 program is now available!</a>
-
 **RSAA26 has concluded.** The full conference page, including the Accessibility Fellowship Reports, is at [RSEAA26](/RSEAA26).
 
 ## Partners
@@ -30,7 +28,7 @@ We are thrilled to announce that we are helping to setup two new conferences Res
 
 We are creating one joint organising committee, while co-chairs for each conference still get to choose what happens at their event.
 
-As part of this one joint  committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
+As part of this one joint committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders.
 
 More on RSA26, RSLA26, and Equersa soon!
 
@@ -46,16 +44,10 @@ More on RSA26, RSLA26, and Equersa soon!
 
 <a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports">All Accessibility Fellowship Reports</a>
 
-### RSAA25 Accessibility Fellow Reports
-
-<a class="rse rse-join" href="https://rseaa.org/seaumul">Accessibility Fellow Report - Seaumul Khandaker</a>
-
-<a class="rse rse-join" href="https://rseaa.org/safaet_hossain">Accessibility Fellow Report - Safaet Hossain</a>
-
-
 ## Why would someone go to RSAA26?
 
 Some of the other motivations for attending might include:
+
 - To talk about difficulties in career progression and lack of recognition with others who work on research software
 - To share the interesting work you have done in research software
 - To learn from others how to make their research software more visible
@@ -66,23 +58,21 @@ Some of the other motivations for attending might include:
 
 ## Important Dates (2026):
 
-| Event | Opens on | Closes on | Notification of Result of Application |
-| ------- | ------- | ------- | ------- |
-| Call for Proposal | 20th March | 29th May | 7th July |
-| Call for Accessibility Fellowship | 21st May | 26th June | TBA |
-| Call for Micro-grants | 21st May | 10th July | Communicated on a rolling basis |
-| Call for Scholarships | 21st May | 14th August | Communicated on a rolling basis |
-| Call for Volunteer (Reviewer, Session Chair) | 20th March | Not Applicable | Communicated on a rolling basis |
-| Event Registration (Early Bird, Scholarship, and Micro-grant) | 15th June | 10th July | Not Applicable |
-| Event Registration (Standard) | 11th July | 14th August | Not Applicable |
+| Event                                                         | Opens on   | Closes on      | Notification of Result of Application |
+| ------------------------------------------------------------- | ---------- | -------------- | ------------------------------------- |
+| Call for Proposal                                             | 20th March | 29th May       | 7th July                              |
+| Call for Accessibility Fellowship                             | 21st May   | 26th June      | TBA                                   |
+| Call for Micro-grants                                         | 21st May   | 10th July      | Communicated on a rolling basis       |
+| Call for Scholarships                                         | 21st May   | 14th August    | Communicated on a rolling basis       |
+| Call for Volunteer (Reviewer, Session Chair)                  | 20th March | Not Applicable | Communicated on a rolling basis       |
+| Event Registration (Early Bird, Scholarship, and Micro-grant) | 15th June  | 10th July      | Not Applicable                        |
+| Event Registration (Standard)                                 | 11th July  | 14th August    | Not Applicable                        |
 
-
-## Want to sign up for updates? 
+## Want to sign up for updates?
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
-
 
 ## Call for Presentations
 
@@ -96,14 +86,13 @@ The author guidelines that applied to RSAA26 are in the [RSAA26 Author Guideline
 
 The Call for Workshops for RSAA26 has closed. The workshops that were delivered are listed on the [RSAA26 Program](/rsaa26_program) page.
 
-
 ## Accessibility and Inclusivity
 
-We were committed to creating a safe, accessible, and inclusive environment for all participants. 
+We were committed to creating a safe, accessible, and inclusive environment for all participants.
 
-In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance. 
+In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance.
 
-RSAA26 offered scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
+RSAA26 offered scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc.
 
 Eligibility for the scholarships was based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
@@ -115,13 +104,13 @@ The RSAA26 Accessibility Fellowship brought individuals with disabilities - such
 
 ## Organising Committee Members
 
-- Jyoti Bhogal 
-- Junran Lei 
-- Linda Erlina 
-- Keiran Rowell  
-- Sanchit Ghule 
-- Harsh Kalra 
-- Rowland Mosbergen 
+- Jyoti Bhogal
+- Junran Lei
+- Linda Erlina
+- Keiran Rowell
+- Sanchit Ghule
+- Harsh Kalra
+- Rowland Mosbergen
 - Sandeep Kanabar
 - Peiyu Wu
 - Yifei Wang
@@ -143,23 +132,22 @@ The RSAA26 Accessibility Fellowship brought individuals with disabilities - such
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
+## What is a Research Software Engineer (RSE)?
 
-## What is a Research Software Engineer (RSE)? 
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g
 
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
 - researchers and academics who code,
 - generalists who bring communities together across the research and technical domains,
 - people who help train researchers to improve their code on HPC and Cloud systems, and
-- software engineers who work in the research domain. 
-
+- software engineers who work in the research domain.
 
 ## Contact Us
+
 If you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email.
 
 ## Marketing materials
 
 [Our marketing materials for RSAA26 are here](/marketing).
-
 
 ## Previous RSEAA conferences
 
@@ -172,4 +160,3 @@ If you would like to know more or have any questions, please contact the organis
 <p style="font-size: small;color: grey">
 *The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
 </p>
-
