@@ -9,11 +9,7 @@ Do you want to learn what others are doing in research software in your domain a
 
 If so, you might want to join us for RSAA26, the fifth online annual Research Software Asia Australia Conference, from the **25th to the 28th of August 2026**. This is a joint partnership between the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year is **"Research Software Without Borders"** and the hashtag will be #RSAA26.
 
-<a class="rse rse-join" href="program">The RSAA26 program is now available!</a>
-
-<a class="rse rse-join" href="https://events.humanitix.com/equersa-2026">Registrations are now open!</a>
-
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header">Apply for Scholarships (free tickets)</a>
+**RSAA26 has concluded.** The full conference page, including the Accessibility Fellowship Reports, is at [RSEAA26](/RSEAA26).
 
 ## Partners
 
@@ -32,24 +28,26 @@ We are thrilled to announce that we are helping to setup two new conferences Res
 
 We are creating one joint organising committee, while co-chairs for each conference still get to choose what happens at their event.
 
-As part of this one joint  committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
+As part of this one joint committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders.
 
 More on RSA26, RSLA26, and Equersa soon!
 
-## Partners for 2026
+## Accessibility Fellow Reports
 
-Would you like to partner with us for 2026? Please have a look at our [RSAA26 Prospectus for Australian partners.](https://github.com/user-attachments/files/26780024/GSRS-0009.RSAA26.Prospectus.NCRIS.AU.edition_compressed.pdf)
+<a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports/2026/an-thu-nguyen">Accessibility Fellow Report - An Thu Nguyen</a>
 
-## RSAA25 Accessibility Fellow Reports
+<a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports/2026/asmaa-rashad">Accessibility Fellow Report - Asmaa Rashad</a>
 
-<a class="rse rse-join" href="https://rseaa.org/seaumul">Accessibility Fellow Report - Seaumul Khandaker</a>
+<a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports/2026/carlos-olivera">Accessibility Fellow Report - Carlos Andres Olivera Caballero</a>
 
-<a class="rse rse-join" href="https://rseaa.org/safaet_hossain">Accessibility Fellow Report - Safaet Hossain</a>
+<a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports/2026/aishwarya-tulsi-vijay">Accessibility Fellow Report - Aishwarya Tulsi Vijay</a>
 
+<a class="rse rse-join" href="https://rseaa.org/accessibility-fellow/reports">All Accessibility Fellowship Reports</a>
 
 ## Why would someone go to RSAA26?
 
 Some of the other motivations for attending might include:
+
 - To talk about difficulties in career progression and lack of recognition with others who work on research software
 - To share the interesting work you have done in research software
 - To learn from others how to make their research software more visible
@@ -58,74 +56,61 @@ Some of the other motivations for attending might include:
 - To discuss with others how they balance researcher needs with good software practices
 - To discuss with others how they make their research software easier to use
 
-## Important Dates:
+## Important Dates (2026):
 
-| Event | Opens on | Closes on | Notification of Result of Application |
-| ------- | ------- | ------- | ------- |
-| Call for Proposal | 20th March | 29th May | 7th July |
-| Call for Accessibility Fellowship | 21st May | 26th June | TBA |
-| Call for Micro-grants | 21st May | 10th July | Communicated on a rolling basis |
-| Call for Scholarships | 21st May | 14th August | Communicated on a rolling basis |
-| Call for Volunteer (Reviewer, Session Chair) | 20th March | Not Applicable | Communicated on a rolling basis |
-| Event Registration (Early Bird, Scholarship, and Micro-grant) | 15th June | 10th July | Not Applicable |
-| Event Registration (Standard) | 11th July | 14th August | Not Applicable |
+| Event                                                         | Opens on   | Closes on      | Notification of Result of Application |
+| ------------------------------------------------------------- | ---------- | -------------- | ------------------------------------- |
+| Call for Proposal                                             | 20th March | 29th May       | 7th July                              |
+| Call for Accessibility Fellowship                             | 21st May   | 26th June      | TBA                                   |
+| Call for Micro-grants                                         | 21st May   | 10th July      | Communicated on a rolling basis       |
+| Call for Scholarships                                         | 21st May   | 14th August    | Communicated on a rolling basis       |
+| Call for Volunteer (Reviewer, Session Chair)                  | 20th March | Not Applicable | Communicated on a rolling basis       |
+| Event Registration (Early Bird, Scholarship, and Micro-grant) | 15th June  | 10th July      | Not Applicable                        |
+| Event Registration (Standard)                                 | 11th July  | 14th August    | Not Applicable                        |
 
-Registration for RSAA26 will open soon.
-
-
-## Want to sign up for updates? 
+## Want to sign up for updates?
 
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [Click here to follow us on Mastodon](https://fediverse.au/@RSEAA)
 
-
 ## Call for Presentations
 
-The Call for Presentations (CFP) for the Research Software Asia Australia Conference 2026 (RSAA26) will be announced soon. This year's theme, "Research Software Without Borders," focuses on fostering collaboration and engagement within the research software community.
-
-For more details, please refer to the [Call for Presentations](call_for_presentations) document when available.
+The Call for Presentations (CFP) for RSAA26 closed on 29th May. The program that resulted from it is on the [RSAA26 Program](/rsaa26_program) page.
 
 ### Author Guidelines
 
-Thank you for your interest in contributing to the Research Software Asia Australia Conference 2026 (RSAA26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](rsaa26_author_guidelines) document.
+The author guidelines that applied to RSAA26 are in the [RSAA26 Author Guidelines](rsaa26_author_guidelines) document.
 
 ## Call for Workshops
 
-We invite proposals for workshops to be held on the first day of RSAA26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
-
+The Call for Workshops for RSAA26 has closed. The workshops that were delivered are listed on the [RSAA26 Program](/rsaa26_program) page.
 
 ## Accessibility and Inclusivity
 
-We are committed to creating a safe, accessible, and inclusive environment for all participants. 
+We were committed to creating a safe, accessible, and inclusive environment for all participants.
 
-In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance. 
+In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance.
 
-To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
+RSAA26 offered scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc.
 
-Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
+Eligibility for the scholarships was based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
-Eligibility for the accessibility micro-grants will be based on a similar approach.
+Eligibility for the accessibility micro-grants was based on a similar approach.
 
-We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
+If you have feedback about how well the conference met these commitments, please let us know by contacting the committee at info at rseaa.org.
 
-You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant.
-
-All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
-
-If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the  committee at info at rseaa.org.
-
-You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA26. Their involvement will help ensure we are held accountable for the accessibility of this online event.
+The RSAA26 Accessibility Fellowship brought individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - into the conference from our community and adjacent communities, so that we could be held accountable for the accessibility of the event. You can read the fellows' reports in the [Accessibility Fellow Reports](https://rseaa.org/accessibility-fellow/reports) section above.
 
 ## Organising Committee Members
 
-- Jyoti Bhogal 
-- Junran Lei 
-- Linda Erlina 
-- Keiran Rowell  
-- Sanchit Ghule 
-- Harsh Kalra 
-- Rowland Mosbergen 
+- Jyoti Bhogal
+- Junran Lei
+- Linda Erlina
+- Keiran Rowell
+- Sanchit Ghule
+- Harsh Kalra
+- Rowland Mosbergen
 - Sandeep Kanabar
 - Peiyu Wu
 - Yifei Wang
@@ -147,26 +132,26 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
+## What is a Research Software Engineer (RSE)?
 
-## What is a Research Software Engineer (RSE)? 
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g
 
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g 
 - researchers and academics who code,
 - generalists who bring communities together across the research and technical domains,
 - people who help train researchers to improve their code on HPC and Cloud systems, and
-- software engineers who work in the research domain. 
-
+- software engineers who work in the research domain.
 
 ## Contact Us
+
 If you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email.
 
 ## Marketing materials
 
 [Our marketing materials for RSAA26 are here](/marketing).
 
-
 ## Previous RSEAA conferences
 
+- [Click here to view the 2026 conference](/RSEAA26).
 - [Click here to view the 2025 conference](/RSEAA25).
 - [Click here to view the 2024 conference](/RSEAA24).
 - [Click here to view the 2023 conference](/RSEAA23).
@@ -175,4 +160,3 @@ If you would like to know more or have any questions, please contact the organis
 <p style="font-size: small;color: grey">
 *The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
 </p>
-

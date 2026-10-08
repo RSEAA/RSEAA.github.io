@@ -26,4 +26,5 @@ navigation_weight: 1
 ## Other links
 
 - [Link to our admin page](admin)
+- [RSAA26 has concluded - see the conference page](RSEAA26)
 - [RSAA26: Call for Presentations, Volunteers, and Sponsors!](rsaa26_call_for_participation)
